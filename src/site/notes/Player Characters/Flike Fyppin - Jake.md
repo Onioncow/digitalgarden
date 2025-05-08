@@ -12,7 +12,7 @@
 >>- Subclass: Great Old One (Patron is [[Lore/Gods/Outer Gods/The Great Wheel\|The Great Wheel]])
 >
 >>[!tldr]+ NPC Relationships
->>- Legally married to [[World/Material Plane/Kingdom of Unurid/Gefestmere/NPC's/Enemies/Bayle Fyppin, the Dread\|Bayle Fyppin, the Dread]], alongside [[Player Characters/Ale - Alex\|Ale - Alex]] and [[Player Characters/w'Ixki - Ilay\|w'Ixki - Ilay]]
+>>- Legally married to [[World/Material Plane/Kingdom of Unurid/Gefestmere/NPC's/Bayle Fyppin, the Dread\|Bayle Fyppin, the Dread]], alongside [[Player Characters/Ale - Alex\|Ale - Alex]] and [[Player Characters/w'Ixki - Ilay\|w'Ixki - Ilay]]
 >>- Archnemisis: Wilhye (the person that runs the [[World/Material Plane/Kingdom of Unurid/Gefestmere/Map Locations/Taverns and Shops/Taverns/Travellers Stop Inn\|Travellers Stop Inn]])
 >>- Mentor: Habby
 >>- Is one sided best friends with Ryan the [[Lore/Bestiary/Manticore\|Manticore]]

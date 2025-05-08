@@ -12,16 +12,16 @@
 >>- Subclass: Monster Slayer
 >
 >>[!tldr]+ NPC Relationships
->>- [[World/Material Plane/Kingdom of Unurid/Gefestmere/NPC's/Enemies/l'Gma\|l'Gma]] was a red [[Lore/Bestiary/Grung\|Grung]] in w'Ixki's home village that ran away. He was tasked with bringing him back
->>- Legally married to [[World/Material Plane/Kingdom of Unurid/Gefestmere/NPC's/Enemies/Bayle Fyppin, the Dread\|Bayle Fyppin, the Dread]], alongside [[Player Characters/Ale - Alex\|Ale - Alex]] and [[Player Characters/Flike Fyppin - Jake\|Flike Fyppin - Jake]]
->>- [[World/Material Plane/Kingdom of Unurid/Gefestmere/NPC's/Friendly/t'Qila\|t'Qila]] is an old friend that he'd go on fishing trips with
+>>- [[World/Material Plane/Kingdom of Unurid/Gefestmere/NPC's/l'Gma\|l'Gma]] was a red [[Lore/Bestiary/Grung\|Grung]] in w'Ixki's home village that ran away. He was tasked with bringing him back
+>>- Legally married to [[World/Material Plane/Kingdom of Unurid/Gefestmere/NPC's/Bayle Fyppin, the Dread\|Bayle Fyppin, the Dread]], alongside [[Player Characters/Ale - Alex\|Ale - Alex]] and [[Player Characters/Flike Fyppin - Jake\|Flike Fyppin - Jake]]
+>>- [[World/Material Plane/Kingdom of Unurid/Gefestmere/NPC's/t'Qila\|t'Qila]] is an old friend that he'd go on fishing trips with
 
 
 ## Description
 A 3'3" Grung (tall for a grung) with slimy green skin. His skin oozes a poisonous coating that is slimy and paralyses anyone that touches him. He wears a brown cowboy hat that cannot be removed (its cursed) along with leather boots with no souls so that his feet have better purchase.
 
 ## Personal Quests
-- [ ] The leadership in his home have tasked him with tracking down the red [[Lore/Bestiary/Grung\|Grung]], [[World/Material Plane/Kingdom of Unurid/Gefestmere/NPC's/Enemies/l'Gma\|l'Gma]], and bring him back home. 
+- [ ] The leadership in his home have tasked him with tracking down the red [[Lore/Bestiary/Grung\|Grung]], [[World/Material Plane/Kingdom of Unurid/Gefestmere/NPC's/l'Gma\|l'Gma]], and bring him back home. 
 - [ ] He has a personal vendetta against the Thieves Guild in [[World/Material Plane/Kingdom of Unurid/Gefestmere/Gefestmere\|Gefestmere]] and is determined to report them to the city guard in every time loop
 
 ## History
