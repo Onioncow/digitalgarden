@@ -9,7 +9,6 @@
 | [[Player Characters/Flike Fyppin - Jake\|Flike]]       | 13  | 13  | Jake   | [[World/Material Plane/Kingdom of Unurid/Gefestmere/Gefestmere\|Gefestmere]] | [[z_DM Screen/References/Magic Wheel Spins\|Magic Wheel Spins]] | Warlock |
 | [[Player Characters/Amauri De Nucci - Lawrie\|Amauri]] | 15  | 12  | Lawrie | [[World/Material Plane/Kingdom of Unurid/Gefestmere/Gefestmere\|Gefestmere]] |                       | Wizard  |
 | [[Player Characters/Ale - Alex\|Ale]]                  | 19  | 13  | Alex   | [[World/Material Plane/Kingdom of Unurid/Gefestmere/Gefestmere\|Gefestmere]] |                       | Cleric  |
-Test
 
 >[!multi-column]
 >
@@ -30,20 +29,20 @@ Test
 >>[!success]+ Artefacts
 >>- [[Lore/Artefacts/Chronos Rune Stones\|Chronos Rune Stones]]
 >>- [[Lore/Artefacts/Wrought-Iron Tower\|Wrought-Iron Tower]]
+
+>[!info]+ Gods
+>>OUTER GODS
+>>- [[Lore/Gods/Outer Gods/The Great Wheel\|The Great Wheel]]
 >
->>[!info]+ Gods
->>>OUTER GODS
->>>- [[Lore/Gods/Outer Gods/The Great Wheel\|The Great Wheel]]
->>
->>>PRIMORDIAL GODS
->>>- [[Lore/Gods/Primordial Gods/Chronos - God of Time\|Chronos - God of Time]]
->>>- [[Lore/Gods/Primordial Gods/Enlil - God of Material\|Enlil - God of Material]]
->>>- [[Lore/Gods/Primordial Gods/Ymir - God of Creation\|Ymir - God of Creation]]
->>
->>>PLANAR GODS 
->>>- [[Lore/Gods/Planar Gods/Felonia - God of Agriculture and Harvest\|Felonia - God of Agriculture and Harvest]]
->>>- [[Lore/Gods/Planar Gods/Gurzil - God of War and Destruction\|Gurzil - God of War and Destruction]]
->>>- [[Lore/Gods/Planar Gods/Laetitia - God of Joy\|Laetitia - God of Joy]]
+>>PRIMORDIAL GODS
+>>- [[Lore/Gods/Primordial Gods/Chronos - God of Time\|Chronos - God of Time]]
+>>- [[Lore/Gods/Primordial Gods/Enlil - God of Material\|Enlil - God of Material]]
+>>- [[Lore/Gods/Primordial Gods/Ymir - God of Creation\|Ymir - God of Creation]]
+>
+>>PLANAR GODS 
+>>- [[Lore/Gods/Planar Gods/Felonia - God of Agriculture and Harvest\|Felonia - God of Agriculture and Harvest]]
+>>- [[Lore/Gods/Planar Gods/Gurzil - God of War and Destruction\|Gurzil - God of War and Destruction]]
+>>- [[Lore/Gods/Planar Gods/Laetitia - God of Joy\|Laetitia - God of Joy]]
  
 
 
