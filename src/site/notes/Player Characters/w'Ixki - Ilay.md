@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/player-characters/w-ixki-ilay/"}
 ---
 
-
 >[!blank|float-right-large]
 >>![Pasted image 20250426211814.png](/img/user/z_Assets/Pasted%20image%2020250426211814.png)
 >>- Age: 9
