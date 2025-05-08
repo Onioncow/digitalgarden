@@ -2,9 +2,82 @@
 {"dg-publish":true,"permalink":"/cannibal-grung-society-home-page/","tags":["gardenEntry"]}
 ---
 
+# Player Characters
+| Character                            | AC  | PP  | Player | Location       | Special Features      | Class   |
+| :----------------------------------- | :-: | :-: | :----- | :------------- | --------------------- | ------- |
+| [[Player Characters/w'Ixki - Ilay\|w'Ixki]]            | 16  | 14  | Ilay   | [[World/Material Plane/Kingdom of Unurid/Gefestmere/Gefestmere\|Gefestmere]] | Poisonous Skin        | Ranger  |
+| [[Player Characters/Flike Fyppin - Jake\|Flike]]       | 13  | 13  | Jake   | [[World/Material Plane/Kingdom of Unurid/Gefestmere/Gefestmere\|Gefestmere]] | [[z_DM Screen/References/Magic Wheel Spins\|Magic Wheel Spins]] | Warlock |
+| [[Player Characters/Amauri De Nucci - Lawrie\|Amauri]] | 15  | 12  | Lawrie | [[World/Material Plane/Kingdom of Unurid/Gefestmere/Gefestmere\|Gefestmere]] |                       | Wizard  |
+| [[Player Characters/Ale - Alex\|Ale]]                  | 19  | 13  | Alex   | [[World/Material Plane/Kingdom of Unurid/Gefestmere/Gefestmere\|Gefestmere]] |                       | Cleric  |
+# Nations
+>[!example]+ List:
+>- [[World/Material Plane/Kingdom of Unurid/Kingdom of Unurid\|Kingdom of Unurid]]
 
->[!info]+ Current Threads
->
+# Bestiary
+```folder-overview
+id: a5ef1902-5e98-4294-9c83-8522cb855eba
+folderPath: Lore/Bestiary
+title: "{{folderName}} overview"
+showTitle: false
+depth: 3
+style: list
+includeTypes:
+  - folder
+  - markdown
+disableFileTag: false
+sortBy: name
+sortByAsc: true
+showEmptyFolders: false
+onlyIncludeSubfolders: false
+storeFolderCondition: true
+showFolderNotes: false
+disableCollapseIcon: true
+```
+
+# Artefacts
+```folder-overview
+id: 720342ba-ba53-47b9-a3e1-842ccd1d3a74
+folderPath: Lore/Artefacts
+title: "{{folderName}} overview"
+showTitle: false
+depth: 3
+style: list
+includeTypes:
+  - folder
+  - markdown
+disableFileTag: false
+sortBy: name
+sortByAsc: true
+showEmptyFolders: false
+onlyIncludeSubfolders: false
+storeFolderCondition: true
+showFolderNotes: false
+disableCollapseIcon: true
+```
+
+# Gods 
+```folder-overview
+id: 8c1a7b6c-6cad-405c-99ca-3d7d9a23519f
+folderPath: Lore/Gods
+title: "{{folderName}} overview"
+showTitle: false
+depth: 3
+style: list
+includeTypes:
+  - folder
+  - markdown
+disableFileTag: false
+sortBy: name
+sortByAsc: true
+showEmptyFolders: false
+onlyIncludeSubfolders: false
+storeFolderCondition: true
+showFolderNotes: false
+disableCollapseIcon: true
+```
+
+# Current Campaign Info
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 

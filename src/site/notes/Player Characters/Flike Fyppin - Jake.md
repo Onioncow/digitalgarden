@@ -16,6 +16,7 @@
 >>- Archnemisis: Wilhye (the person that runs the [[World/Material Plane/Kingdom of Unurid/Gefestmere/Map Locations/Taverns and Shops/Taverns/Travellers Stop Inn\|Travellers Stop Inn]])
 >>- Mentor: Habby
 >>- Is one sided best friends with Ryan the [[Lore/Bestiary/Manticore\|Manticore]]
+>>- Has a companion: [[Player Characters/Companions/Noodle\|Noodle]]
 
 
 ## Description

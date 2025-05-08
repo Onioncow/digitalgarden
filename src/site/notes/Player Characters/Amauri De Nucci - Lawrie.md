@@ -15,6 +15,7 @@
 >>- [[World/Material Plane/Kingdom of Unurid/Gefestmere/NPC's/Niklaus\|Niklaus]]
 >>	- His contact for the temperance guild in [[World/Material Plane/Kingdom of Unurid/Gefestmere/Gefestmere\|Gefestmere]], The Eternal Night Society
 >>- Wilhye (the owner of the [[World/Material Plane/Kingdom of Unurid/Gefestmere/Map Locations/Taverns and Shops/Taverns/Travellers Stop Inn\|Travellers Stop Inn]]) has a fondness for [[Player Characters/Amauri De Nucci - Lawrie\|Amauri De Nucci - Lawrie]] born of their shared distaste for [[Player Characters/Flike Fyppin - Jake\|Flike Fyppin - Jake]]
+>>- Has a familiar: [[Player Characters/Companions/Wine\|Wine]]
 
 
 ## Description
