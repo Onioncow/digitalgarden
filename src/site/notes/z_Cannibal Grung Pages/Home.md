@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/z-cannibal-grung-pages/home/","tags":["gardenEntry"]}
 ---
 
-# Player Characters
+
 | Character                            | AC  | PP  | Player | Location       | Special Features      | Class   |
 | :----------------------------------- | :-: | :-: | :----- | :------------- | --------------------- | ------- |
 | [[Player Characters/w'Ixki - Ilay\|w'Ixki]]            | 16  | 14  | Ilay   | [[World/Material Plane/Kingdom of Unurid/Gefestmere/Gefestmere\|Gefestmere]] | Poisonous Skin        | Ranger  |
