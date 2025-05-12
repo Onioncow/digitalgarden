@@ -100,23 +100,23 @@
 > - Persuasion
 
 > [!info]- [[z_DM Screen/References/Conditions & States\|Conditions & States]]
-> [[z_DM Screen/References/Conditions & States#Blinded\|Blinded]]
-> [[z_DM Screen/References/Conditions & States#Charmed\|Charmed]]
-> [[z_DM Screen/References/Conditions & States#Deafened\|Deafened]]
-> [[z_DM Screen/References/Conditions & States#Dying\|Dying]]
-> [[z_DM Screen/References/Conditions & States#Exhausted\|Exhausted]]
-> [[z_DM Screen/References/Conditions & States#Falling\|Falling]]
-> [[z_DM Screen/References/Conditions & States#Grappled\|Grappled]]
-> [[z_DM Screen/References/Conditions & States#Incapacitated\|Incapacitated]]
-> [[z_DM Screen/References/Conditions & States#Incorporeal\|Incorporeal]]
-> [[z_DM Screen/References/Conditions & States#Invisible\|Invisible]]
-> [[z_DM Screen/References/Conditions & States#Paralyzed\|Paralyzed]]
-> [[z_DM Screen/References/Conditions & States#Petrified\|Petrified]]
-> [[z_DM Screen/References/Conditions & States#Poisoned\|Poisoned]]
-> [[z_DM Screen/References/Conditions & States#Prone\|Prone]]
-> [[z_DM Screen/References/Conditions & States#Restrained\|Restrained]]
-> [[z_DM Screen/References/Conditions & States#Stunned\|Stunned]]
-> [[z_DM Screen/References/Conditions & States#Unconscious\|Unconscious]]
+> Blinded
+> Charmed
+> Deafened
+> Dying
+> Exhausted
+> Falling
+> Grappled
+> Incapacitated
+> Incorporeal
+> Invisible
+> Paralyzed
+> Petrified
+> Poisoned
+> Prone
+> Restrained
+> Stunned
+> Unconscious
 
 > [!info]- Currency Conversion
 > |          | CP     | SP    | GP   | PP   |

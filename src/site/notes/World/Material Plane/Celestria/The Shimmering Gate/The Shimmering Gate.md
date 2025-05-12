@@ -12,4 +12,4 @@ The Shimmering Gate stands on the border of [[World/Material Plane/Dracaryn/Drac
 
 # History
 ## Founding
-This great fort was one of the first structures ever built by mortals. It was built by [[NPC's (Unknown Location)/Lady Maria, The Living God\|Lady Maria, The Living God]] and her loyal followers. It has always kept the waring of other nations out and her Order of Light in.
+This great fort was one of the first structures ever built by mortals. It was built by [[NPC's Assorted/Lady Maria, The Living God\|Lady Maria, The Living God]] and her loyal followers. It has always kept the waring of other nations out and her Order of Light in.
