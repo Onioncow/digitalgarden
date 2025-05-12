@@ -99,7 +99,7 @@
 > - Performance
 > - Persuasion
 
-> [!info]- Conditions & States
+> [!info]- [[z_DM Screen/References/Conditions & States\|Conditions & States]]
 > [[z_DM Screen/References/Conditions & States#Blinded\|Blinded]]
 > [[z_DM Screen/References/Conditions & States#Charmed\|Charmed]]
 > [[z_DM Screen/References/Conditions & States#Deafened\|Deafened]]
