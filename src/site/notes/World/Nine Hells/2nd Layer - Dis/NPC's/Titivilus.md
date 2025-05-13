@@ -32,20 +32,20 @@ His lack of height and stature have made him quick to anger, overcompensating fo
 - His power with words allows him to corrupt his foes, twisting their will to his own 
 
 ## Possessions
-- [[Player Characters/Ale - Alex\|Ale - Alex]]'s soul
+- [[Player Characters/Ale\|Ale]]'s soul
 
 ## Relationships
 >[!multi-column]
 >
 >>[!check]+ Player Characters
->>- [[Player Characters/Ale - Alex\|Ale - Alex]]
+>>- [[Player Characters/Ale\|Ale]]
 >>	- Ale broke an NDA with Titivilus, his soul is now forfeit
 >>	- He rather likes the idea of toying with his new pet
 >>
->>- [[Player Characters/Flike Fyppin - Jake\|Flike Fyppin - Jake]]
+>>- [[Player Characters/Flike Fyppin\|Flike Fyppin]]
 >>	- Flike attacked Titivilus unprovoked, giving him a bad impression of the Mapach
 >>
->>- [[Player Characters/w'Ixki - Ilay\|w'Ixki - Ilay]] and [[Player Characters/Amauri De Nucci - Lawrie\|Amauri De Nucci - Lawrie]]
+>>- [[Player Characters/w'Ixki\|w'Ixki]] and [[Player Characters/Amauri De Nucci\|Amauri De Nucci]]
 >>	- He deems them a nuisance to his plans 
 >
 >>[!danger]+ Non Player Characters

@@ -27,7 +27,7 @@ His primary goal has been to increase his power to rival that of [[NPC's Assorte
 He is quick to anger and viciously violent, often killing for fun and sport. 
 
 ## Powers
-- Through [[Player Characters/Flike Fyppin - Jake\|Flike Fyppin - Jake]], he has access to [[Lore/Gods/Outer Gods/The Great Wheel\|The Great Wheel]]
+- Through [[Player Characters/Flike Fyppin\|Flike Fyppin]], he has access to [[Lore/Gods/Outer Gods/The Great Wheel\|The Great Wheel]]
 - He breaths a mix of fire and lightning
 - He can enhance his physical body with orange lightning
 
@@ -38,14 +38,14 @@ He is quick to anger and viciously violent, often killing for fun and sport.
 >[!multi-column]
 >
 >>[!check]+ Player Characters
->>- [[Player Characters/Flike Fyppin - Jake\|Flike Fyppin - Jake]] (married)
+>>- [[Player Characters/Flike Fyppin\|Flike Fyppin]] (married)
 >>	- He is quite fond of him, having let Bayle channel his power
 >>	- He does think he is quite "simple"
 >>
->>- [[Player Characters/w'Ixki - Ilay\|w'Ixki - Ilay]] and [[Player Characters/Ale - Alex\|Ale - Alex]] (married)
+>>- [[Player Characters/w'Ixki\|w'Ixki]] and [[Player Characters/Ale\|Ale]] (married)
 >>	- He finds these two amusing, especially now that he is married to them
 >>
->>- [[Player Characters/Amauri De Nucci - Lawrie\|Amauri De Nucci - Lawrie]]
+>>- [[Player Characters/Amauri De Nucci\|Amauri De Nucci]]
 >>	- He is more cautious of this one, finding him a more cunning individual that is more discerning of Bayle's intent 
 >
 >>[!danger]+ Non Player Characters
@@ -57,5 +57,5 @@ He is quick to anger and viciously violent, often killing for fun and sport.
 
 ## History
 ### Hidden Ritual
-- Bayle made a deal with [[Player Characters/Flike Fyppin - Jake\|Flike Fyppin - Jake]] to join his polycule, and in return, Bayle could channel Flike's powers, giving him access to [[Lore/Gods/Outer Gods/The Great Wheel\|The Great Wheel]].
+- Bayle made a deal with [[Player Characters/Flike Fyppin\|Flike Fyppin]] to join his polycule, and in return, Bayle could channel Flike's powers, giving him access to [[Lore/Gods/Outer Gods/The Great Wheel\|The Great Wheel]].
 - He has requested that the party find the [[Lore/Artefacts/Chronos Rune Stones\|Chronos Rune Stones]] and deliver them to him. In return, he will free them from the spell that binds them

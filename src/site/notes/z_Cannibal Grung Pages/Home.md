@@ -2,14 +2,15 @@
 {"dg-publish":true,"permalink":"/z-cannibal-grung-pages/home/","tags":["gardenEntry"]}
 ---
 
+# [[Player Characters/Player Characters\|Player Characters]]
+| File                                                      | Player | Status | Level | Race                                | Class   | Age             | Gender |
+| --------------------------------------------------------- | ------ | ------ | ----- | ----------------------------------- | ------- | --------------- | ------ |
+| [[Player Characters/Ale\|Ale]]                         | Alex   | Alive  | 5     | [[Lore/Bestiary/Human\|Human]]   | Cleric  | 45 (as of 1491) | Male   |
+| [[Player Characters/Amauri De Nucci\|Amauri De Nucci]] | Lawrie | Alive  | 5     | [[Lore/Bestiary/Human\|Human]]   | Wizard  | \-              | Male   |
+| [[Player Characters/Flike Fyppin\|Flike Fyppin]]       | Jake   | Alive  | 5     | [[Lore/Bestiary/Mapach\|Mapach]] | Warlock | 10 (as of 1491) | Male   |
+| [[Player Characters/w'Ixki\|w'Ixki]]                   | Ilay   | Alive  | 5     | [[Lore/Bestiary/Grung\|Grung]]   | Ranger  | 9 (as of 1491)  | Male   |
 
-| Character                            | AC  | PP  | Player | Location       | Special Features      | Class   |
-| :----------------------------------- | :-: | :-: | :----- | :------------- | --------------------- | ------- |
-| [[Player Characters/w'Ixki - Ilay\|w'Ixki]]            | 16  | 14  | Ilay   | [[World/Material Plane/Kingdom of Unurid/Gefestmere/Gefestmere\|Gefestmere]] | Poisonous Skin        | Ranger  |
-| [[Player Characters/Flike Fyppin - Jake\|Flike]]       | 13  | 13  | Jake   | [[World/Material Plane/Kingdom of Unurid/Gefestmere/Gefestmere\|Gefestmere]] | [[z_DM Screen/References/Magic Wheel Spins\|Magic Wheel Spins]] | Warlock |
-| [[Player Characters/Amauri De Nucci - Lawrie\|Amauri]] | 15  | 12  | Lawrie | [[World/Material Plane/Kingdom of Unurid/Gefestmere/Gefestmere\|Gefestmere]] |                       | Wizard  |
-| [[Player Characters/Ale - Alex\|Ale]]                  | 19  | 13  | Alex   | [[World/Material Plane/Kingdom of Unurid/Gefestmere/Gefestmere\|Gefestmere]] |                       | Cleric  |
-|                                      |     |     |        |                |                       |         |
+{ .block-language-dataview}
 # [[Lore/Artefacts/Artefacts\|Artefacts]]
 | File                                                           | Current Location                                                                                     |
 | -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
@@ -52,16 +53,6 @@
 | [[NPC's Assorted/Dragon Lord, Placidusax\|Dragon Lord, Placidusax]]                                          | Dragon | Unknown | Unkown    | <ul><li>Dragon Lord</li><li>King of the Dragons</li><li>Ymir's Chosen</li></ul> |
 | [[NPC's Assorted/Lady Maria, The Living God\|Lady Maria, The Living God]]                                    | \-     | \-      | \-        | \-                                                                              |
 | [[World/Nine Hells/2nd Layer - Dis/NPC's/Titivilus\|Titivilus]]                                              | \-     | \-      | \-        | \-                                                                              |
-
-{ .block-language-dataview}
-
-# [[Player Characters/Player Characters\|Player Characters]]
-| File                                                                        | Player | Status | Level | Race                                | Class   | Age             | Gender |
-| --------------------------------------------------------------------------- | ------ | ------ | ----- | ----------------------------------- | ------- | --------------- | ------ |
-| [[Player Characters/Ale - Alex\|Ale - Alex]]                             | Alex   | Alive  | 5     | [[Lore/Bestiary/Human\|Human]]   | Cleric  | 45 (as of 1491) | Male   |
-| [[Player Characters/Amauri De Nucci - Lawrie\|Amauri De Nucci - Lawrie]] | Lawrie | Alive  | 5     | [[Lore/Bestiary/Human\|Human]]   | Wizard  | \-              | Male   |
-| [[Player Characters/Flike Fyppin - Jake\|Flike Fyppin - Jake]]           | Jake   | Alive  | 5     | [[Lore/Bestiary/Mapach\|Mapach]] | Warlock | 10 (as of 1491) | Male   |
-| [[Player Characters/w'Ixki - Ilay\|w'Ixki - Ilay]]                       | Ilay   | Alive  | 5     | [[Lore/Bestiary/Grung\|Grung]]   | Ranger  | 9 (as of 1491)  | Male   |
 
 { .block-language-dataview}
 # Settlements
