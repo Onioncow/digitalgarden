@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npc-s-assorted/dragon-lord-placidusax/"}
+{"dg-publish":true,"permalink":"/npc-s-assorted/dragon-lord-placidusax/","tags":["npc"]}
 ---
 
 

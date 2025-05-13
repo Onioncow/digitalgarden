@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world/nine-hells/2nd-layer-dis/npc-s/dispater-archduke-of-hell/"}
+{"dg-publish":true,"permalink":"/world/nine-hells/2nd-layer-dis/npc-s/dispater-archduke-of-hell/","tags":["npc"]}
 ---
 
 >[!blank|float-right-large]

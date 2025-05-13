@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world/nine-hells/2nd-layer-dis/npc-s/titivilus/"}
+{"dg-publish":true,"permalink":"/world/nine-hells/2nd-layer-dis/npc-s/titivilus/","tags":["npc"]}
 ---
 
 >[!blank|float-right-large]

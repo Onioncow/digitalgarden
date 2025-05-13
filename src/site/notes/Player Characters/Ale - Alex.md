@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/player-characters/ale-alex/"}
+{"dg-publish":true,"permalink":"/player-characters/ale-alex/","tags":["PC"]}
 ---
 
 
 >[!blank|float-right-large]
 >>[Image]
->>- Age: 45
->>- Race: Human
+>>- Age: 45 (as of 1491)
+>>- Race: [[Lore/Bestiary/Human\|Human]]
 >>- Gender: Male 
 >>- Home: [[World/Material Plane/Kingdom of Unurid/Gefestmere/Gefestmere\|Gefestmere]]
 >>- Class: Cleric 

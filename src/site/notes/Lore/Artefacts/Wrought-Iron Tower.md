@@ -5,9 +5,6 @@
 
 >[!blank|float-right-medium]
 >![Pasted image 20250425190452.png](/img/user/z_Assets/Pasted%20image%2020250425190452.png)
->>[!info]+ Current Location
->>Current Location
->
 >>[!danger]+ Stats
 >>- **+3 to attack and damage rolls**
 >>- **An additional 3d6 fire damage** to good aligned creatures

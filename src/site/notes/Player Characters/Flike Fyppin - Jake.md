@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-characters/flike-fyppin-jake/"}
+{"dg-publish":true,"permalink":"/player-characters/flike-fyppin-jake/","tags":["PC"]}
 ---
 
 >[!blank|float-right-large]

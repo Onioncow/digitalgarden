@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/npc-s-assorted/bahamut-the-silver-scourge/"}
+{"dg-publish":true,"permalink":"/npc-s-assorted/bahamut-the-silver-scourge/","tags":["npc"]}
 ---
 
 >[!blank|float-right-large]

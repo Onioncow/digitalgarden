@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world/material-plane/kingdom-of-unurid/gefestmere/npc-s/bayle-fyppin-the-dread/"}
+{"dg-publish":true,"permalink":"/world/material-plane/kingdom-of-unurid/gefestmere/npc-s/bayle-fyppin-the-dread/","tags":["npc"]}
 ---
 
 >[!blank|float-right-large]

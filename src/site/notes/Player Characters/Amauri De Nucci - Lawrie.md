@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-characters/amauri-de-nucci-lawrie/"}
+{"dg-publish":true,"permalink":"/player-characters/amauri-de-nucci-lawrie/","tags":["PC"]}
 ---
 
 >[!blank|float-right-large]

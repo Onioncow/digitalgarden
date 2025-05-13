@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-characters/w-ixki-ilay/"}
+{"dg-publish":true,"permalink":"/player-characters/w-ixki-ilay/","tags":["PC"]}
 ---
 
 >[!blank|float-right-large]
