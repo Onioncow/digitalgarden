@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lore/gods/outer-gods/the-great-wheel/"}
+{"dg-publish":true,"permalink":"/lore/gods/outer-gods/the-great-wheel/","tags":["God"]}
 ---
 
 >[!blank|float-right-medium]

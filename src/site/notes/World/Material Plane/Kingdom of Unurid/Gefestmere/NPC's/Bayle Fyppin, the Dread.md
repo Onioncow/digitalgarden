@@ -17,7 +17,7 @@
 >>- He also knows that the Devil, [[World/Nine Hells/2nd Layer - Dis/NPC's/Titivilus\|Titivilus]] is after the same power
 
 
-Bayle the Dread is one of the Elder Dragons created directly by [[Lore/Gods/Primordial Gods/Ymir - God of Creation\|Ymir - God of Creation]]. Arguably the weakest of the three Elder Dragons, Bayle appeared loyal to the [[NPC's Assorted/Dragon Lord, Placidusax\|Dragon Lord, Placidusax]] while he schemed for more power to overthrow his master.
+Bayle the Dread is one of the Elder Dragons created directly by [[Lore/Gods/Primordial Gods/Ymir\|Ymir]]. Arguably the weakest of the three Elder Dragons, Bayle appeared loyal to the [[NPC's Assorted/Dragon Lord, Placidusax\|Dragon Lord, Placidusax]] while he schemed for more power to overthrow his master.
 ## Description
 This huge, 50ft tall dragon, towers over almost all who approach. He has thick, grey-black scales and skin that shimmers blue at the thinnest parts of his wings. He has a massive 100ft wingspan that increases another 20ft when he summons his orange lightning to encompass his wings. He has a large, strong, muscular body, and a large head to fit with 3 curling horns on either side, wrapping around his face. While he isn't the biggest dragon, he is perhaps the most imposing.
 

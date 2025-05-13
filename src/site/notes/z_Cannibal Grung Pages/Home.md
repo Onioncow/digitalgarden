@@ -9,41 +9,69 @@
 | [[Player Characters/Flike Fyppin - Jake\|Flike]]       | 13  | 13  | Jake   | [[World/Material Plane/Kingdom of Unurid/Gefestmere/Gefestmere\|Gefestmere]] | [[z_DM Screen/References/Magic Wheel Spins\|Magic Wheel Spins]] | Warlock |
 | [[Player Characters/Amauri De Nucci - Lawrie\|Amauri]] | 15  | 12  | Lawrie | [[World/Material Plane/Kingdom of Unurid/Gefestmere/Gefestmere\|Gefestmere]] |                       | Wizard  |
 | [[Player Characters/Ale - Alex\|Ale]]                  | 19  | 13  | Alex   | [[World/Material Plane/Kingdom of Unurid/Gefestmere/Gefestmere\|Gefestmere]] |                       | Cleric  |
+|                                      |     |     |        |                |                       |         |
+# [[Lore/Artefacts/Artefacts\|Artefacts]]
+| File                                                           | Current Location                                                                                     |
+| -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| [[Lore/Artefacts/Chronos Rune Stones\|Chronos Rune Stones]] | [[World/Material Plane/Kingdom of Unurid/Gefestmere/Gefestmere\|Gefestmere]]                      |
+| [[Lore/Artefacts/The Arcane Pool\|The Arcane Pool]]         | [[World/Material Plane/Kingdom of Unurid/Gefestmere/Gefestmere\|Gefestmere]]                      |
+| [[Lore/Artefacts/Wrought-Iron Tower\|Wrought-Iron Tower]]   | [[World/Nine Hells/2nd Layer - Dis/Map Locations/Iron Tower of Dispater\|Iron Tower of Dispater]] |
 
->[!multi-column]
->
->>[!example]+ Nations
->>- [[World/Material Plane/Edrea/Edrea\|Edrea]]
->>- [[World/Material Plane/Kingdom of Unurid/Kingdom of Unurid\|Kingdom of Unurid]]
->
->>[!warning]+ Bestiary
->>- [[Lore/Bestiary/Devils\|Devils]]
->>- [[Lore/Bestiary/Dragonborn\|Dragonborn]]
->>- [[Lore/Bestiary/Dragons\|Dragons]]
->>- [[Lore/Bestiary/Elementals\|Elementals]]
->>- [[Lore/Bestiary/Grung\|Grung]]
->>- [[Lore/Bestiary/Lizardfolk\|Lizardfolk]]
->>- [[Lore/Bestiary/Manticore\|Manticore]]
->>- [[Lore/Bestiary/Mapach\|Mapach]]
->
->>[!success]+ Artefacts
->>- [[Lore/Artefacts/Chronos Rune Stones\|Chronos Rune Stones]]
->>- [[Lore/Artefacts/Wrought-Iron Tower\|Wrought-Iron Tower]]
+{ .block-language-dataview}
 
->[!info]+ Gods
->>OUTER GODS
->>- [[Lore/Gods/Outer Gods/The Great Wheel\|The Great Wheel]]
->
->>PRIMORDIAL GODS
->>- [[Lore/Gods/Primordial Gods/Chronos - God of Time\|Chronos - God of Time]]
->>- [[Lore/Gods/Primordial Gods/Enlil - God of Material\|Enlil - God of Material]]
->>- [[Lore/Gods/Primordial Gods/Ymir - God of Creation\|Ymir - God of Creation]]
->
->>PLANAR GODS 
->>- [[Lore/Gods/Planar Gods/Felonia - God of Agriculture and Harvest\|Felonia - God of Agriculture and Harvest]]
->>- [[Lore/Gods/Planar Gods/Gurzil - God of War and Destruction\|Gurzil - God of War and Destruction]]
->>- [[Lore/Gods/Planar Gods/Laetitia - God of Joy\|Laetitia - God of Joy]]
- 
+# [[Lore/Bestiary/Bestiary\|Bestiary]] 
+| File                                        | Locations | Type          |
+| ------------------------------------------- | --------- | ------------- |
+| [[Lore/Bestiary/Dragons\|Dragons]]       | \-        | Dragon        |
+| [[Lore/Bestiary/Elementals\|Elementals]] | \-        | Elemental     |
+| [[Lore/Bestiary/Devils\|Devils]]         | \-        | Fiend (Devil) |
+| [[Lore/Bestiary/Dragonborn\|Dragonborn]] | \-        | Humanoid      |
+| [[Lore/Bestiary/Grung\|Grung]]           | \-        | Humanoid      |
+| [[Lore/Bestiary/Human\|Human]]           | \-        | Humanoid      |
+| [[Lore/Bestiary/Lizardfolk\|Lizardfolk]] | \-        | Humanoid      |
+| [[Lore/Bestiary/Mapach\|Mapach]]         | \-        | Humanoid      |
+| [[Lore/Bestiary/Manticore\|Manticore]]   | \-        | Monstrosity   |
+
+{ .block-language-dataview}
+# [[Lore/Gods/Gods\|Gods]]
+| File                                                         | Level      | Domain        |
+| ------------------------------------------------------------ | ---------- | ------------- |
+| [[Lore/Gods/Outer Gods/The Great Wheel\|The Great Wheel]] | Outer      | Random Chance |
+| [[Lore/Gods/Planar Gods/Lady Maria\|Lady Maria]]          | Planar     | Order         |
+| [[Lore/Gods/Primordial Gods/Chronos\|Chronos]]            | Primordial | Time          |
+| [[Lore/Gods/Primordial Gods/Enlil\|Enlil]]                | Primordial | Material      |
+| [[Lore/Gods/Primordial Gods/Ymir\|Ymir]]                  | Primordial | Creation      |
+
+{ .block-language-dataview}
+# [[NPC's Assorted/NPC's Assorted\|NPC's]] 
+| File                                                                                                            | Race   | Age     | Gender    | Titles                                                                          |
+| --------------------------------------------------------------------------------------------------------------- | ------ | ------- | --------- | ------------------------------------------------------------------------------- |
+| [[NPC's Assorted/Bahamut, The Silver Scourge\|Bahamut, The Silver Scourge]]                                  | Dragon | Unknown | Feminine  | <ul><li>The Platinum Dragon</li><li>The Silver Scourge</li></ul>                |
+| [[World/Material Plane/Kingdom of Unurid/Gefestmere/NPC's/Bayle Fyppin, the Dread\|Bayle Fyppin, the Dread]] | Dragon | Unknown | Masculine | <ul><li>The Dread</li><li>The Dread of Gladenlil</li></ul>                      |
+| [[World/Nine Hells/2nd Layer - Dis/NPC's/Dispater - Archduke of Hell\|Dispater - Archduke of Hell]]          | \-     | \-      | \-        | \-                                                                              |
+| [[NPC's Assorted/Dragon Lord, Placidusax\|Dragon Lord, Placidusax]]                                          | Dragon | Unknown | Unkown    | <ul><li>Dragon Lord</li><li>King of the Dragons</li><li>Ymir's Chosen</li></ul> |
+| [[NPC's Assorted/Lady Maria, The Living God\|Lady Maria, The Living God]]                                    | \-     | \-      | \-        | \-                                                                              |
+| [[World/Nine Hells/2nd Layer - Dis/NPC's/Titivilus\|Titivilus]]                                              | \-     | \-      | \-        | \-                                                                              |
+
+{ .block-language-dataview}
+
+# [[Player Characters/Player Characters\|Player Characters]]
+| File                                                                        | Player | Status | Level | Race                                | Class   | Age             | Gender |
+| --------------------------------------------------------------------------- | ------ | ------ | ----- | ----------------------------------- | ------- | --------------- | ------ |
+| [[Player Characters/Ale - Alex\|Ale - Alex]]                             | Alex   | Alive  | 5     | [[Lore/Bestiary/Human\|Human]]   | Cleric  | 45 (as of 1491) | Male   |
+| [[Player Characters/Amauri De Nucci - Lawrie\|Amauri De Nucci - Lawrie]] | Lawrie | Alive  | 5     | [[Lore/Bestiary/Human\|Human]]   | Wizard  | \-              | Male   |
+| [[Player Characters/Flike Fyppin - Jake\|Flike Fyppin - Jake]]           | Jake   | Alive  | 5     | [[Lore/Bestiary/Mapach\|Mapach]] | Warlock | 10 (as of 1491) | Male   |
+| [[Player Characters/w'Ixki - Ilay\|w'Ixki - Ilay]]                       | Ilay   | Alive  | 5     | [[Lore/Bestiary/Grung\|Grung]]   | Ranger  | 9 (as of 1491)  | Male   |
+
+{ .block-language-dataview}
+# Settlements
+| File                                                                                               | Nation                                                                             | Type |
+| -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ---- |
+| [[World/Material Plane/Celestria/The Shimmering Gate/The Shimmering Gate\|The Shimmering Gate]] | [[World/Material Plane/Celestria/Celestria\|Celestria]]                         | Fort |
+| [[z_Cannibal Grung Pages/Key Settlements/CGP Gefestmere\|CGP Gefestmere]]                       | [[World/Material Plane/Kingdom of Unurid/Kingdom of Unurid\|Kingdom of Unurid]] | City |
+
+{ .block-language-dataview}
+
 # References
 | Name             | Effect                                         |
 | ---------------- | ---------------------------------------------- |
