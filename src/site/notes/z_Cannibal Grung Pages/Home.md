@@ -2,7 +2,15 @@
 {"dg-publish":true,"permalink":"/z-cannibal-grung-pages/home/","tags":["gardenEntry"]}
 ---
 
-# [[Player Characters/Player Characters\|Player Characters]]
+>[!info]- Quick Links
+>- [[Player Characters/Player Characters\|Player Characters]]
+>- [[Lore/Artefacts/Artefacts\|Artefacts]]
+>- [[Lore/Bestiary/Bestiary\|Bestiary]]
+>- [[Lore/Gods/Gods\|Gods]]
+>- [[NPCs Assorted/NPCs Assorted\|NPC's]]
+>- [[z_Cannibal Grung Pages/Material Plane Maps\|Material Plane Maps]]
+
+# Player Characters
 | File                                                      | Player | Status | Level | Race                                | Class   | Age             | Gender |
 | --------------------------------------------------------- | ------ | ------ | ----- | ----------------------------------- | ------- | --------------- | ------ |
 | [[Player Characters/Ale\|Ale]]                         | Alex   | Alive  | 5     | [[Lore/Bestiary/Human\|Human]]   | Cleric  | 45 (as of 1491) | Male   |
@@ -11,57 +19,42 @@
 | [[Player Characters/w'Ixki\|w'Ixki]]                   | Ilay   | Alive  | 5     | [[Lore/Bestiary/Grung\|Grung]]   | Ranger  | 9 (as of 1491)  | Male   |
 
 { .block-language-dataview}
-# [[Lore/Artefacts/Artefacts\|Artefacts]]
-| File                                                           | Current Location                                                                                     |
-| -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| [[Lore/Artefacts/Chronos Rune Stones\|Chronos Rune Stones]] | [[World/Material Plane/Kingdom of Unurid/Gefestmere/Gefestmere\|Gefestmere]]                      |
-| [[Lore/Artefacts/The Arcane Pool\|The Arcane Pool]]         | [[World/Material Plane/Kingdom of Unurid/Gefestmere/Gefestmere\|Gefestmere]]                      |
-| [[Lore/Artefacts/Wrought-Iron Tower\|Wrought-Iron Tower]]   | [[World/Nine Hells/2nd Layer - Dis/Map Locations/Iron Tower of Dispater\|Iron Tower of Dispater]] |
+# Campaign Notes
 
-{ .block-language-dataview}
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-# [[Lore/Bestiary/Bestiary\|Bestiary]] 
-| File                                        | Locations | Type          |
-| ------------------------------------------- | --------- | ------------- |
-| [[Lore/Bestiary/Dragons\|Dragons]]       | \-        | Dragon        |
-| [[Lore/Bestiary/Elementals\|Elementals]] | \-        | Elemental     |
-| [[Lore/Bestiary/Devils\|Devils]]         | \-        | Fiend (Devil) |
-| [[Lore/Bestiary/Dragonborn\|Dragonborn]] | \-        | Humanoid      |
-| [[Lore/Bestiary/Grung\|Grung]]           | \-        | Humanoid      |
-| [[Lore/Bestiary/Human\|Human]]           | \-        | Humanoid      |
-| [[Lore/Bestiary/Lizardfolk\|Lizardfolk]] | \-        | Humanoid      |
-| [[Lore/Bestiary/Mapach\|Mapach]]         | \-        | Humanoid      |
-| [[Lore/Bestiary/Manticore\|Manticore]]   | \-        | Monstrosity   |
 
-{ .block-language-dataview}
-# [[Lore/Gods/Gods\|Gods]]
-| File                                                         | Level      | Domain        |
-| ------------------------------------------------------------ | ---------- | ------------- |
-| [[Lore/Gods/Outer Gods/The Great Wheel\|The Great Wheel]] | Outer      | Random Chance |
-| [[Lore/Gods/Planar Gods/Lady Maria\|Lady Maria]]          | Planar     | Order         |
-| [[Lore/Gods/Primordial Gods/Chronos\|Chronos]]            | Primordial | Time          |
-| [[Lore/Gods/Primordial Gods/Enlil\|Enlil]]                | Primordial | Material      |
-| [[Lore/Gods/Primordial Gods/Ymir\|Ymir]]                  | Primordial | Creation      |
 
-{ .block-language-dataview}
-# [[NPC's Assorted/NPC's Assorted\|NPC's]] 
-| File                                                                                                            | Race   | Age     | Gender    | Titles                                                                          |
-| --------------------------------------------------------------------------------------------------------------- | ------ | ------- | --------- | ------------------------------------------------------------------------------- |
-| [[NPC's Assorted/Bahamut, The Silver Scourge\|Bahamut, The Silver Scourge]]                                  | Dragon | Unknown | Feminine  | <ul><li>The Platinum Dragon</li><li>The Silver Scourge</li></ul>                |
-| [[World/Material Plane/Kingdom of Unurid/Gefestmere/NPC's/Bayle Fyppin, the Dread\|Bayle Fyppin, the Dread]] | Dragon | Unknown | Masculine | <ul><li>The Dread</li><li>The Dread of Gladenlil</li></ul>                      |
-| [[World/Nine Hells/2nd Layer - Dis/NPC's/Dispater - Archduke of Hell\|Dispater - Archduke of Hell]]          | \-     | \-      | \-        | \-                                                                              |
-| [[NPC's Assorted/Dragon Lord, Placidusax\|Dragon Lord, Placidusax]]                                          | Dragon | Unknown | Unkown    | <ul><li>Dragon Lord</li><li>King of the Dragons</li><li>Ymir's Chosen</li></ul> |
-| [[NPC's Assorted/Lady Maria, The Living God\|Lady Maria, The Living God]]                                    | \-     | \-      | \-        | \-                                                                              |
-| [[World/Nine Hells/2nd Layer - Dis/NPC's/Titivilus\|Titivilus]]                                              | \-     | \-      | \-        | \-                                                                              |
+#### Current Threads
+- Everything currently leads back to the grand cathedral in temple row
+- The list of names - you are yet to find [[World/Material Plane/Kingdom of Unurid/Gefestmere/NPC's/Jotaro\|Jotaro]] (who is almost certainly in the prison)
+- Who is involved with the ritual?
+	- The person that cast the ritual made a deal with the Sewer Grung
+	- [[World/Material Plane/Kingdom of Unurid/Gefestmere/NPC's/l'Gma\|l'Gma]] is involved, and has some sort of deal with the Wizard of Chronos that cast the ritual
+	- The [[World/Material Plane/Kingdom of Unurid/Gefestmere/NPC's/Abyssal Knight (Wolda Helry)\|Abyssal Knight (Wolda Helry)]] of the City Guard gave the order to capture you and is the one that killed you
+	- [[World/Material Plane/Kingdom of Unurid/Gefestmere/NPC's/Gaius\|Gaius]] talked about nobles named [[World/Material Plane/Kingdom of Unurid/Gefestmere/NPC's/Pito - Rakshasa\|Pito]] and [[World/Material Plane/Kingdom of Unurid/Gefestmere/NPC's/Meragar - Blackguard\|Meragar]] potentially being involved in killing the old regent
+	- [[World/Material Plane/Kingdom of Unurid/Gefestmere/NPC's/Pito - Rakshasa\|Pito]] and [[World/Material Plane/Kingdom of Unurid/Gefestmere/NPC's/Celak - Alhoon\|Celak]] know about the ritual. [[World/Material Plane/Kingdom of Unurid/Gefestmere/NPC's/Pito - Rakshasa\|Pito]] even seems to be aware of, or has ties to The Eternal Night Society 
+		- They also mentioned the priests of the [[World/Material Plane/Kingdom of Unurid/Gefestmere/Map Locations/Temple Row/Grand Cathedral\|Grand Cathedral]]
+- The Ancient Dragon
+	- [[World/Material Plane/Kingdom of Unurid/Gefestmere/NPC's/Bayle Fyppin, the Dread\|Bayle Fyppin, the Dread]] wants you to collect the rune stones that bind the ritual
+		- If you don't, he says you will all die
+- The Duke of Hell
+	- [[World/Nine Hells/2nd Layer - Dis/NPC's/Titivilus\|Titivilus]] is after the rune stones but you were unable to make a deal
+		- He now owns the rights to [[Player Characters/Ale\|Ale]]'s soul
+- Information about the ritual:
+	- Nature
+		- It is a time loop bound by rune stones 
+	- [[World/Material Plane/Kingdom of Unurid/Gefestmere/NPC's/Martin (DEAD)\|Martin]]'s Info:
+		- The ritual will result in the entire city going "poof" (according to [[World/Material Plane/Kingdom of Unurid/Gefestmere/NPC's/Pito - Rakshasa\|Pito]])
+		- The only way to survive is to buy in. Martin bought in by offering Ale as a sacrifice of sorts
+		- The spell that binds you in the time loop will result in your death once enough loops have transpired
+		- The spell that binds the conspirators protects them from the effects of the ritual
+		- He said he previously lived through what he can assume to be a full loop that lasted around 30 days
+		- You are all important parts of the ritual as you make sure each time loop is different. You have great power over the time loop
 
-{ .block-language-dataview}
-# Settlements
-| File                                                                                               | Nation                                                                             | Type |
-| -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ---- |
-| [[World/Material Plane/Celestria/The Shimmering Gate/The Shimmering Gate\|The Shimmering Gate]] | [[World/Material Plane/Celestria/Celestria\|Celestria]]                         | Fort |
-| [[z_Cannibal Grung Pages/Key Settlements/CGP Gefestmere\|CGP Gefestmere]]                       | [[World/Material Plane/Kingdom of Unurid/Kingdom of Unurid\|Kingdom of Unurid]] | City |
 
-{ .block-language-dataview}
+</div></div>
+
 
 # References
 | Name             | Effect                                         |
