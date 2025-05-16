@@ -10,14 +10,9 @@
 | [[Lore/Bestiary/Dragonborn\|Dragonborn]] | <ul><li>[[World/Material Plane/_Geography/Land/The Dragon Isles.md\\|The Dragon Isles]]</li></ul> | Humanoid      |
 | [[Lore/Bestiary/Grung\|Grung]]           | \-                                                                                                | Humanoid      |
 | [[Lore/Bestiary/Human\|Human]]           | \-                                                                                                | Humanoid      |
-| [[Lore/Bestiary/Lizardfolk\|Lizardfolk]] | \-                                                                                                | Humanoid      |
+| [[Lore/Bestiary/Lizardfolk\|Lizardfolk]] | <ul><li>[[World/Material Plane/_Geography/Land/The Dragon Isles.md\\|The Dragon Isles]]</li></ul> | Humanoid      |
 | [[Lore/Bestiary/Mapach\|Mapach]]         | \-                                                                                                | Humanoid      |
 | [[Lore/Bestiary/Manticore\|Manticore]]   | \-                                                                                                | Monstrosity   |
 
 { .block-language-dataview}
-| File                                        | CommonLocations                                                                                   |
-| ------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| [[Lore/Bestiary/Dragonborn\|Dragonborn]] | <ul><li>[[World/Material Plane/_Geography/Land/The Dragon Isles.md\\|The Dragon Isles]]</li></ul> |
-| [[Lore/Bestiary/Dragons\|Dragons]]       | <ul><li>[[World/Material Plane/_Geography/Land/The Dragon Isles.md\\|The Dragon Isles]]</li></ul> |
 
-{ .block-language-dataview}
