@@ -4,7 +4,7 @@
 
 >[!blank|float-right-medium]
 >>[!example]+ Notable Disciples:
->>- [[World/Material Plane/Kingdom of Unurid/Gefestmere/NPC's/Bayle Fyppin, the Dread\|Bayle Fyppin, the Dread]]
+>>- [[NPCs Assorted/Bayle Fyppin, the Dread\|Bayle Fyppin, the Dread]]
 >>- [[NPCs Assorted/Dragon Lord, Placidusax\|Dragon Lord, Placidusax]]
 >>- [[NPCs Assorted/Bahamut, The Silver Scourge\|Bahamut, The Silver Scourge]]
 

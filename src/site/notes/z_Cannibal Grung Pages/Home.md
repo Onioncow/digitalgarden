@@ -16,6 +16,7 @@
 | [[Player Characters/Ale\|Ale]]                         | Alex   | Alive  | 5     | [[Lore/Bestiary/Human\|Human]]   | Cleric  | 45 (as of 1491) | Male   |
 | [[Player Characters/Amauri De Nucci\|Amauri De Nucci]] | Lawrie | Alive  | 5     | [[Lore/Bestiary/Human\|Human]]   | Wizard  | \-              | Male   |
 | [[Player Characters/Flike Fyppin\|Flike Fyppin]]       | Jake   | Alive  | 5     | [[Lore/Bestiary/Mapach\|Mapach]] | Warlock | 10 (as of 1491) | Male   |
+| [[Player Characters/New PC\|New PC]]                   | \-     | Alive  | \-    | \-                                  | \-      | \-              | \-     |
 | [[Player Characters/w'Ixki\|w'Ixki]]                   | Ilay   | Alive  | 5     | [[Lore/Bestiary/Grung\|Grung]]   | Ranger  | 9 (as of 1491)  | Male   |
 
 { .block-language-dataview}
@@ -26,31 +27,34 @@
 
 
 #### Current Threads
-- Everything currently leads back to the grand cathedral in temple row
-- The list of names - you are yet to find [[World/Material Plane/Kingdom of Unurid/Gefestmere/NPC's/Jotaro\|Jotaro]] (who is almost certainly in the prison)
+- The list of names - you are yet to find [[World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/NPC's/Jotaro\|Jotaro]] (who is almost certainly in the prison)
 - Who is involved with the ritual?
-	- The person that cast the ritual made a deal with the Sewer Grung
-	- [[World/Material Plane/Kingdom of Unurid/Gefestmere/NPC's/l'Gma\|l'Gma]] is involved, and has some sort of deal with the Wizard of Chronos that cast the ritual
-	- The [[World/Material Plane/Kingdom of Unurid/Gefestmere/NPC's/Abyssal Knight (Wolda Helry)\|Abyssal Knight (Wolda Helry)]] of the City Guard gave the order to capture you and is the one that killed you
-	- [[World/Material Plane/Kingdom of Unurid/Gefestmere/NPC's/Gaius\|Gaius]] talked about nobles named [[World/Material Plane/Kingdom of Unurid/Gefestmere/NPC's/Pito - Rakshasa\|Pito]] and [[World/Material Plane/Kingdom of Unurid/Gefestmere/NPC's/Meragar - Blackguard\|Meragar]] potentially being involved in killing the old regent
-	- [[World/Material Plane/Kingdom of Unurid/Gefestmere/NPC's/Pito - Rakshasa\|Pito]] and [[World/Material Plane/Kingdom of Unurid/Gefestmere/NPC's/Celak - Alhoon\|Celak]] know about the ritual. [[World/Material Plane/Kingdom of Unurid/Gefestmere/NPC's/Pito - Rakshasa\|Pito]] even seems to be aware of, or has ties to The Eternal Night Society 
-		- They also mentioned the priests of the [[World/Material Plane/Kingdom of Unurid/Gefestmere/Map Locations/Temple Row/Grand Cathedral\|Grand Cathedral]]
+	- [[World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/NPC's/l'Gma\|l'Gma]]
+	- [[World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/NPC's/Abyssal Knight (Wolda Helry)\|Abyssal Knight (Wolda Helry)]]
+	- [[World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/NPC's/Pito - Rakshasa\|Pito]]
+	- [[World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/NPC's/Celak - Alhoon\|Celak]]
+	- [[World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/NPC's/Meragar - Blackguard\|Meragar]]
 - The Ancient Dragon
-	- [[World/Material Plane/Kingdom of Unurid/Gefestmere/NPC's/Bayle Fyppin, the Dread\|Bayle Fyppin, the Dread]] wants you to collect the rune stones that bind the ritual
+	- [[NPCs Assorted/Bayle Fyppin, the Dread\|Bayle Fyppin, the Dread]] wants you to collect the rune stones that bind the ritual
 		- If you don't, he says you will all die
 - The Duke of Hell
-	- [[World/Nine Hells/2nd Layer - Dis/NPC's/Titivilus\|Titivilus]] is after the rune stones but you were unable to make a deal
+	- [[NPCs Assorted/Titivilus\|Titivilus]] is after the rune stones but you were unable to make a deal
 		- He now owns the rights to [[Player Characters/Ale\|Ale]]'s soul
 - Information about the ritual:
 	- Nature
 		- It is a time loop bound by rune stones 
-	- [[World/Material Plane/Kingdom of Unurid/Gefestmere/NPC's/Martin (DEAD)\|Martin]]'s Info:
-		- The ritual will result in the entire city going "poof" (according to [[World/Material Plane/Kingdom of Unurid/Gefestmere/NPC's/Pito - Rakshasa\|Pito]])
+	- [[World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/NPC's/Martin (DEAD)\|Martin]]'s Info:
+		- The ritual will result in the entire city going "poof" (according to [[World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/NPC's/Pito - Rakshasa\|Pito]])
 		- The only way to survive is to buy in. Martin bought in by offering Ale as a sacrifice of sorts
 		- The spell that binds you in the time loop will result in your death once enough loops have transpired
 		- The spell that binds the conspirators protects them from the effects of the ritual
 		- He said he previously lived through what he can assume to be a full loop that lasted around 30 days
 		- You are all important parts of the ritual as you make sure each time loop is different. You have great power over the time loop
+	- The Cultist beneath the [[World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/Map Locations/Temple Row/Grand Cathedral\|Grand Cathedral]]:
+		- There are 12 total loops
+		- You are on the 3rd loop
+		- There will be a metamorphosis to transform you into "higher beings" for [[Lore/Gods/Primordial Gods/Chronos\|Chronos]]
+			- The cultist calls this a "blessing"
 
 
 </div></div>
