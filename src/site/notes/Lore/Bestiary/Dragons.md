@@ -24,7 +24,7 @@ Dragons are often accompanied by [[Lore/Bestiary/Dragonborn\|Dragonborn]] and [[
 >Elder dragons are the oldest and most powerful dragons, commanding reverence and fear wherever they appear. They were born directly from [[Lore/Gods/Primordial Gods/Ymir\|Ymir]], before time even started, with [[NPCs Assorted/Dragon Lord, Placidusax\|Dragon Lord, Placidusax]] being the first.
 >>[!example]+ Known Elder Dragons 
 >>- [[NPCs Assorted/Dragon Lord, Placidusax\|Dragon Lord, Placidusax]]
->>- [[NPCs Assorted/Bahamut, The Silver Scourge\|Bahamut, The Silver Scourge]]
+>>- [[NPCs Assorted/Caligo, Miasma of the Night\|Caligo, Miasma of the Night]]
 >>- [[NPCs Assorted/Bayle Fyppin, the Dread\|Bayle Fyppin, the Dread]]
 
 >[!info]+ Ancient Dragons

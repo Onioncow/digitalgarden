@@ -11,13 +11,12 @@
 >- [[z_Cannibal Grung Pages/Material Plane Maps\|Material Plane Maps]]
 
 # Player Characters
-| File                                                      | Player | Status | Level | Race                                | Class   | Age             | Gender |
-| --------------------------------------------------------- | ------ | ------ | ----- | ----------------------------------- | ------- | --------------- | ------ |
-| [[Player Characters/Ale\|Ale]]                         | Alex   | Alive  | 5     | [[Lore/Bestiary/Human\|Human]]   | Cleric  | 45 (as of 1491) | Male   |
-| [[Player Characters/Amauri De Nucci\|Amauri De Nucci]] | Lawrie | Alive  | 5     | [[Lore/Bestiary/Human\|Human]]   | Wizard  | \-              | Male   |
-| [[Player Characters/Flike Fyppin\|Flike Fyppin]]       | Jake   | Alive  | 5     | [[Lore/Bestiary/Mapach\|Mapach]] | Warlock | 10 (as of 1491) | Male   |
-| [[Player Characters/New PC\|New PC]]                   | \-     | Alive  | \-    | \-                                  | \-      | \-              | \-     |
-| [[Player Characters/w'Ixki\|w'Ixki]]                   | Ilay   | Alive  | 5     | [[Lore/Bestiary/Grung\|Grung]]   | Ranger  | 9 (as of 1491)  | Male   |
+| File                                                      | Player | Status | Campaign                                                    | Level | AC | PP | Special Features                                                   | Race                                | Class   | Age             | Gender |
+| --------------------------------------------------------- | ------ | ------ | ----------------------------------------------------------- | ----- | -- | -- | ------------------------------------------------------------------ | ----------------------------------- | ------- | --------------- | ------ |
+| [[Player Characters/Ale\|Ale]]                         | Alex   | Alive  | [[Campaigns/Hidden Ritual/Hidden Ritual\|Hidden Ritual]] | 5     | 19 | 13 | An ex-battle cleric                                                | [[Lore/Bestiary/Human\|Human]]   | Cleric  | 45 (as of 1491) | Male   |
+| [[Player Characters/Amauri De Nucci\|Amauri De Nucci]] | Lawrie | Alive  | [[Campaigns/Hidden Ritual/Hidden Ritual\|Hidden Ritual]] | 5     | 15 | 13 | A noble in Gefestmere                                              | [[Lore/Bestiary/Human\|Human]]   | Wizard  | \-              | Male   |
+| [[Player Characters/Flike Fyppin\|Flike Fyppin]]       | Jake   | Alive  | [[Campaigns/Hidden Ritual/Hidden Ritual\|Hidden Ritual]] | 5     | 13 | 13 | [[z_DM Screen/References/Magic Wheel Spins\|Magic Wheel Spins]] | [[Lore/Bestiary/Mapach\|Mapach]] | Warlock | 10 (as of 1491) | Male   |
+| [[Player Characters/w'Ixki\|w'Ixki]]                   | Ilay   | Alive  | [[Campaigns/Hidden Ritual/Hidden Ritual\|Hidden Ritual]] | 5     | 16 | 14 | Poisonous Skin                                                     | [[Lore/Bestiary/Grung\|Grung]]   | Ranger  | 9 (as of 1491)  | Male   |
 
 { .block-language-dataview}
 # Campaign Notes
@@ -55,6 +54,14 @@
 		- You are on the 3rd loop
 		- There will be a metamorphosis to transform you into "higher beings" for [[Lore/Gods/Primordial Gods/Chronos\|Chronos]]
 			- The cultist calls this a "blessing"
+- Deciphering the rune stones:
+	- The Stone beneath the Church:
+		- The runes marked on this perfectly spherical, smooth stone appear to be the work of both arcane and divine magic. The combination of devout cleric and a powerful wizard. 
+		- There is a complex web of runes covering the stone that seem to centre around runes describing the creation of new life, and an exchange of lifetimes to make that possible
+		- There is a magical boundary, likely around the parameter of the city, that contains the ritual magic
+		- A great divine power is needed to destroy or disable the stone
+		- This is one of three Rune Stones
+		- 
 
 
 </div></div>

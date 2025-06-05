@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/lore/artefacts/wrought-iron-tower/"}
 ---
 
-
 >[!blank|float-right-medium]
 >![Pasted image 20250425190452.png](/img/user/z_Assets/Pasted%20image%2020250425190452.png)
 >>[!danger]+ Stats

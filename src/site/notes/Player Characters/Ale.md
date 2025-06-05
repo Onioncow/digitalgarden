@@ -29,7 +29,7 @@ A short human male, standing at around 5'1, with green hair and a strong build. 
 
 ## History
 ### Backstory
-- He fought on the front lines in the war between the [[World/Material Plane/Kingdom of Unurid/Kingdom of Unurid\|Kingdom of Unurid]] and [[Edrea\|Edrea]] as a battle cleric
+- He fought on the front lines in the war between the [[World/Material Plane/Kingdom of Unurid/Kingdom of Unurid\|Kingdom of Unurid]] and [[World/Material Plane/Edrea/Edrea\|Edrea]] as a battle cleric
 - He decided to give up fighting after seeing the horrors of war and settle down in the city of [[World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/Gefestmere\|Gefestmere]]
 - He started work for the Merchants Guild there
 - One day, on his way home from work, he was confronted by Martin, who he knew from his terrible performances

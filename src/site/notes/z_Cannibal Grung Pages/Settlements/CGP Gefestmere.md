@@ -18,7 +18,7 @@
 >>[!info]+ Settlement Politics
 >>Gefestmere, like many cities in the [[World/Material Plane/Kingdom of Unurid/Kingdom of Unurid\|Kingdom of Unurid]], has devolved power. The city is ruled by a Regent that is democratically elected every 10 years.
 >>Guilds and factions hold immense power during elections
->>[[World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/NPC's/Lord Regent Elegad\|Lord Regent Elegad]] is the current Regent
+>>[[NPCs Assorted/Lord Regent Elegad\|Lord Regent Elegad]] is the current Regent
 >>**Gambling is strictly prohibited** due to the growing Temperance faction in city politics
 >
 >>[!tldr]+ Holidays, Events, and Celebrations

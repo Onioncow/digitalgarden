@@ -9,6 +9,7 @@
 | [[Lore/Bestiary/Devils\|Devils]]         | \-                                                                                                | Fiend (Devil) |
 | [[Lore/Bestiary/Dragonborn\|Dragonborn]] | <ul><li>[[World/Material Plane/_Geography/Land/The Dragon Isles.md\\|The Dragon Isles]]</li></ul> | Humanoid      |
 | [[Lore/Bestiary/Grung\|Grung]]           | \-                                                                                                | Humanoid      |
+| [[Lore/Bestiary/Half-Elf\|Half-Elf]]     | \-                                                                                                | Humanoid      |
 | [[Lore/Bestiary/Human\|Human]]           | \-                                                                                                | Humanoid      |
 | [[Lore/Bestiary/Lizardfolk\|Lizardfolk]] | <ul><li>[[World/Material Plane/_Geography/Land/The Dragon Isles.md\\|The Dragon Isles]]</li></ul> | Humanoid      |
 | [[Lore/Bestiary/Mapach\|Mapach]]         | \-                                                                                                | Humanoid      |

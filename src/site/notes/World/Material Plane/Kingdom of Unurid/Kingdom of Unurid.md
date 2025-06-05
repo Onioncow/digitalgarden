@@ -35,13 +35,13 @@ Unurid operates on a strict, feudal hierarchy, placing heavy value on family nam
 ### Relations
 The Kingdom has had a rocky past with non-humans, expanding into and taking over their territory. One key example is the founding of [[World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/Gefestmere\|Gefestmere]] in 1181, where the Kingdom of Unurid slaughtered the native Wood-Elves. More recently, however, these other cultures and races have been absorbed into the Kingdom with Elves even taking on high ranking positions such as Lord Regent. Especially among the commoner class, there is much less prejudice due to a sense of class solidarity.
 
-- [[Edrea\|Edrea]] is one of, if not the main rival nation. They are often at war over border disputes and have formed a sort of no-mans-land at the border. 
-- [[Kaplin\|Kaplin]] also has an uneasy relationship due to a common goal of colonial expansion into the continent of [[World/Material Plane/_Geography/Land/Tercus\|Tercus]].
-- [[Eldertide\|Eldertide]] and [[Ithil'norei\|Ithil'norei]] operate as key trading partners for the Kingdom of Unurid
-- [[Sylvaranth\|Sylvaranth]] has an uneasy truce and has begun trading with their new neighbours
+- [[World/Material Plane/Edrea/Edrea\|Edrea]] is one of, if not the main rival nation. They are often at war over border disputes and have formed a sort of no-mans-land at the border. 
+- [[World/Material Plane/Kaplin/Kaplin\|Kaplin]] also has an uneasy relationship due to a common goal of colonial expansion into the continent of [[World/Material Plane/_Geography/Land/Tercus\|Tercus]].
+- [[World/Material Plane/Eldertide/Eldertide\|Eldertide]] and [[World/Material Plane/Ithil'norei/Ithil'norei\|Ithil'norei]] operate as key trading partners for the Kingdom of Unurid
+- [[World/Material Plane/Sylvaranth/Sylvaranth\|Sylvaranth]] has an uneasy truce and has begun trading with their new neighbours
 
 ## Religion
-There is no single core religion in Unurid. The most common religion worships [[Lore/Gods/Planar Gods/Felonia - God of Agriculture and Harvest\|Felonia - God of Agriculture and Harvest]] as many of the commoners work on farms and one of the main products that Unurid produces is food. The military also often works with worshipers of [[Lore/Gods/Planar Gods/Gurzil - God of War and Destruction\|Gurzil - God of War and Destruction]] and employs battle Clerics onto the front lines in their fights with [[Edrea\|Edrea]]
+There is no single core religion in Unurid. The most common religion worships [[Lore/Gods/Planar Gods/Felonia - God of Agriculture and Harvest\|Felonia - God of Agriculture and Harvest]] as many of the commoners work on farms and one of the main products that Unurid produces is food. The military also often works with worshipers of [[Lore/Gods/Planar Gods/Gurzil - God of War and Destruction\|Gurzil - God of War and Destruction]] and employs battle Clerics onto the front lines in their fights with [[World/Material Plane/Edrea/Edrea\|Edrea]]
 
 ## Government
 The Kahler Monarchy founded the Kingdom of Unurid and rules it to this day. From generation to generation, the first born inherits the crown. Currently, Boden Kahler III is the king of Unurid. As the kingdom expanded and absorbed more settlements in [[World/Material Plane/_Geography/Land/Sonipes Mundi\|Sonipes Mundi]], it became clear that the Monarch would need to install Lords to rule sections in their place. Lord Regents have been appointed in major cities to rule over the populace. The title of Lord Regent is granted to the Monarchs most trusted aristocratic advisors with the key exception of [[World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/Gefestmere\|Gefestmere]], where the Lord Regent is elected.
@@ -58,7 +58,7 @@ The outlier of [[World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/Gefest
 The laws in the kingdom generally uphold the strict class structure, allowing for very little mobility. 
 
 ## Economy
-The kingdom has a strong economy, trading in vast food supplies of meat and wheat. Their conquest has also resulted in them holding the territory that contains Blackrock Forests. The wood from these trees is incredibly strong and can even be sharpened into weapons that rival the best steel. It is far easier to work with than steel, not requiring forging, but does suffer from being a little less durable in the long run. This, and seizing control of the Divine Gate of Enlil, has positioned Unurid as being one of the strongest economies in the world.
+The kingdom has a strong economy, trading in vast food supplies of meat and wheat. Their conquest has also resulted in them holding the territory that contains Blackrock Forests. The Blackrock Wood from these trees is incredibly strong and can even be sharpened into weapons that rival the best steel. It is far easier to work with than steel, not requiring forging, but does suffer from being a little less durable in the long run. This, and seizing control of the Divine Gate of Enlil, has positioned Unurid as being one of the strongest economies in the world.
 
 The Divine Gate of Enlil, is a key trade route and one of three naval passages that bypasses the dangers of the [[World/Material Plane/_Geography/Water/Eye of Creation\|Eye of Creation]] and [[World/Material Plane/_Geography/Land/The Dragon Isles\|The Dragon Isles]]. It is a key holding for the [[World/Material Plane/Kingdom of Unurid/Kingdom of Unurid\|Kingdom of Unurid]] and one the Monarchy wants to keep at all costs.
 
@@ -66,5 +66,9 @@ The Divine Gate of Enlil, is a key trade route and one of three naval passages t
 The main might of Unurid is its navy. It boasts one of the strongest navies, protecting trade routes and shipping lanes with absolute authority. Its infantry is nothing to laugh at either, but Unurid's real military strength comes from its ships, now made with Blackrock Wood. 
 
 ## History
+The Nation of Unurid was founded on military conquest and expansion, uniting local cities in [[World/Material Plane/_Geography/Land/Sonipes Mundi\|Sonipes Mundi]] into what is now the Kingdom of Unurid. During the 1100's of the Second Age, Unurid expanded its borders onto the continents of [[World/Material Plane/_Geography/Land/Vitria\|Vitria]] and [[World/Material Plane/_Geography/Land/Gladenlil\|Gladenlil]]. What started with diplomatic expansion became aggressive as the Kingdom became more interested in local resources. 
 
+This expansion into other continents was largely due to a stalemate with [[World/Material Plane/Edrea/Edrea\|Edrea]]. The two nations proved an equal match and the geography of their borders made an assault very difficult. To gain an upper hand, Unurid looked beyond its shores to gather more resources and secure trade routes that would grant them massive wealth.
+
+### Hidden Ritual
 
