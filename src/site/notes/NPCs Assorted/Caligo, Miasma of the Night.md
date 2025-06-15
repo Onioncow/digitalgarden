@@ -3,7 +3,7 @@
 ---
 
 >[!blank|float-right-large]
->>![Pasted image 20250425225613.png](/img/user/z_Assets/Pasted%20image%2020250425225613.png)
+>>![Caligo.webp](/img/user/z_Assets/Caligo.webp)
 >>- Age: Unknown
 >>- Race: [[Lore/Bestiary/Dragons\|Dragons]]
 >>- Gender: Feminine

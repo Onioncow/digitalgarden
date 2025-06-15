@@ -15,4 +15,8 @@ Ymir is responsible for all life in the universe. [[Lore/Bestiary/Dragons\|Drago
 >	- Life Domain
 >	- Light Domain
 >	- Nature Domain
+>	- Healing Domain 
+>	- Sun Domain 
+>	- Fire Domain 
+>	- Dragon Domain
 >>It is very rare to find people that directly worship the Primordial Gods as they do not often grant power or grant change to those people
