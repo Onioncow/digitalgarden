@@ -5,7 +5,7 @@
 >[!blank|float-right-large]
 >>![Pasted image 20250507192901.png](/img/user/z_Assets/Pasted%20image%2020250507192901.png)
 >>- Age: 10
->>- Race: [[Lore/Bestiary/Mapach\|Mapach]]
+>>- Race: [[Lore/Bestiary/Mapach or Tanuki\|Mapach or Tanuki]]
 >>- Gender: Male
 >>- Home: The forest upstream from [[World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/Gefestmere\|Gefestmere]]
 >>- Class: Warlock

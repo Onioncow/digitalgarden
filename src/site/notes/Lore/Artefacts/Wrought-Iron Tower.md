@@ -4,12 +4,14 @@
 
 >[!blank|float-right-medium]
 >![Pasted image 20250425190452.png](/img/user/z_Assets/Pasted%20image%2020250425190452.png)
->>[!danger]+ Stats
+>>[!danger]+ Stats 5E
 >>- **+3 to attack and damage rolls**
 >>- **An additional 3d6 fire damage** to good aligned creatures
 >>- **Random Properties**: the rod has 2 [minor beneficial](https://5e.tools/tables.html#artifact%20properties%3b%20minor%20beneficial%20properties_dmg) properties
 >>- **+2 AC, +2 Saving Throws**
 >>- [In depth stats](https://5e.tools/items.html#wrought-iron%20tower_coa,flsttype:melee%20weapon=1~treasure%20(gemstone)=2~treasure%20(art%20object)=2~renaissance=2~treasure%20(coinage)=2~modern=2~trade%20bar=2~futuristic=2,flstmiscellaneous:)
+>
+>>[!danger]+ Stats PF2E
 >
 >>[!example]+ Tags
 >>#Magical_Artifacts #Item #Weapon #Warhammer #Martial_Weapon #Requires_Attunement

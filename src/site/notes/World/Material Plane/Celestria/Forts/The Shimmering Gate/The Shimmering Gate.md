@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world/material-plane/celestria/forts/the-shimmering-gate/the-shimmering-gate/","tags":["CGP-Settlement"]}
+{"dg-publish":true,"permalink":"/world/material-plane/celestria/forts/the-shimmering-gate/the-shimmering-gate/","tags":["Fort"]}
 ---
 
 >[!blank|float-right-large]

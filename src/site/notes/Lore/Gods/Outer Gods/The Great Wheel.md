@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/lore/gods/outer-gods/the-great-wheel/","tags":["God"]}
 ---
 
->[!blank|float-right-medium]
+>[!blank|float-right-small]
 >>[!example]+ Notable Disciples:
 >>- [[Player Characters/Flike Fyppin\|Flike Fyppin]]
 

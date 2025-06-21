@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/lore/gods/primordial-gods/ymir/","tags":["God"]}
 ---
 
->[!blank|float-right-medium]
+>[!blank|float-right-small]
 >>[!example]+ Notable Disciples:
 >>- [[NPCs Assorted/Bayle Fyppin, the Dread\|Bayle Fyppin, the Dread]]
 >>- [[NPCs Assorted/Dragon Lord, Placidusax\|Dragon Lord, Placidusax]]
