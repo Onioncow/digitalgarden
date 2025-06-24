@@ -2,7 +2,15 @@
 {"dg-publish":true,"permalink":"/campaigns/hidden-ritual/hidden-ritual/","tags":["CampaignSummary"]}
 ---
 
+### Players
+| File                                                      | Player | Status | Level | AC | PP | Special Features                                                   | Race                                                    | Class   | Age             |
+| --------------------------------------------------------- | ------ | ------ | ----- | -- | -- | ------------------------------------------------------------------ | ------------------------------------------------------- | ------- | --------------- |
+| [[Player Characters/Ale\|Ale]]                         | Alex   | Alive  | 5     | 19 | 13 | An ex-battle cleric                                                | [[Lore/Bestiary/Human\|Human]]                       | Cleric  | 45 (as of 1491) |
+| [[Player Characters/Amauri De Nucci\|Amauri De Nucci]] | Lawrie | Alive  | 5     | 15 | 13 | A noble in Gefestmere                                              | [[Lore/Bestiary/Human\|Human]]                       | Wizard  | \-              |
+| [[Player Characters/Flike Fyppin\|Flike Fyppin]]       | Jake   | Alive  | 5     | 13 | 13 | [[z_DM Screen/References/Magic Wheel Spins\|Magic Wheel Spins]] | [[Lore/Bestiary/Mapach or Tanuki\|Mapach or Tanuki]] | Warlock | 10 (as of 1491) |
+| [[Player Characters/w'Ixki\|w'Ixki]]                   | Ilay   | Alive  | 5     | 16 | 14 | Poisonous Skin                                                     | [[Lore/Bestiary/Grung or Tripkee\|Grung or Tripkee]] | Ranger  | 9 (as of 1491)  |
 
+{ .block-language-dataview}
 
 ### Sessions
 | File                                                  | day | level up | creation date |

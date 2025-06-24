@@ -10,6 +10,7 @@
 | File                                                                               | Governance | Current Leader   |
 | ---------------------------------------------------------------------------------- | ---------- | ---------------- |
 | [[World/Material Plane/Celestria/Celestria\|Celestria]]                         | \-         | \-               |
+| [[World/Material Plane/Kaplin/Kaplin\|Kaplin]]                                  | \-         | \-               |
 | [[World/Material Plane/Kingdom of Unurid/Kingdom of Unurid\|Kingdom of Unurid]] | Monarchy   | Boden Kahler III |
 
 { .block-language-dataview}
