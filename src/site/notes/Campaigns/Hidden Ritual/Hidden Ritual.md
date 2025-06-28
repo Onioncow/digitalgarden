@@ -5,10 +5,10 @@
 ### Players
 | File                                                      | Player | Status | Level | AC | PP | Special Features                                                   | Race                                                    | Class   | Age             |
 | --------------------------------------------------------- | ------ | ------ | ----- | -- | -- | ------------------------------------------------------------------ | ------------------------------------------------------- | ------- | --------------- |
-| [[Player Characters/Ale\|Ale]]                         | Alex   | Alive  | 5     | 19 | 13 | An ex-battle cleric                                                | [[Lore/Bestiary/Human\|Human]]                       | Cleric  | 45 (as of 1491) |
-| [[Player Characters/Amauri De Nucci\|Amauri De Nucci]] | Lawrie | Alive  | 5     | 15 | 13 | A noble in Gefestmere                                              | [[Lore/Bestiary/Human\|Human]]                       | Wizard  | \-              |
-| [[Player Characters/Flike Fyppin\|Flike Fyppin]]       | Jake   | Alive  | 5     | 13 | 13 | [[z_DM Screen/References/Magic Wheel Spins\|Magic Wheel Spins]] | [[Lore/Bestiary/Mapach or Tanuki\|Mapach or Tanuki]] | Warlock | 10 (as of 1491) |
-| [[Player Characters/w'Ixki\|w'Ixki]]                   | Ilay   | Alive  | 5     | 16 | 14 | Poisonous Skin                                                     | [[Lore/Bestiary/Grung or Tripkee\|Grung or Tripkee]] | Ranger  | 9 (as of 1491)  |
+| [[Player Characters/Ale\|Ale]]                         | Alex   | Alive  | 6     | 19 | 13 | An ex-battle cleric                                                | [[Lore/Bestiary/Human\|Human]]                       | Cleric  | 45 (as of 1491) |
+| [[Player Characters/Amauri De Nucci\|Amauri De Nucci]] | Lawrie | Alive  | 6     | 15 | 13 | A noble in Gefestmere                                              | [[Lore/Bestiary/Human\|Human]]                       | Wizard  | \-              |
+| [[Player Characters/Flike Fyppin\|Flike Fyppin]]       | Jake   | Alive  | 6     | 13 | 13 | [[z_DM Screen/References/Magic Wheel Spins\|Magic Wheel Spins]] | [[Lore/Bestiary/Mapach or Tanuki\|Mapach or Tanuki]] | Warlock | 10 (as of 1491) |
+| [[Player Characters/w'Ixki\|w'Ixki]]                   | Ilay   | Alive  | 6     | 16 | 14 | Poisonous Skin                                                     | [[Lore/Bestiary/Grung or Tripkee\|Grung or Tripkee]] | Ranger  | 9 (as of 1491)  |
 
 { .block-language-dataview}
 
@@ -36,5 +36,6 @@
 | [[Campaigns/Hidden Ritual/Session 18\|Session 18]] | 1   | no       | 15 May, 2025  |
 | [[Campaigns/Hidden Ritual/Session 19\|Session 19]] | 2   | no       | 21 May, 2025  |
 | [[Campaigns/Hidden Ritual/Session 20\|Session 20]] | 2   | no       | 05 June, 2025 |
+| [[Campaigns/Hidden Ritual/Session 21\|Session 21]] | 2   | yes      | 26 June, 2025 |
 
 { .block-language-dataview}
