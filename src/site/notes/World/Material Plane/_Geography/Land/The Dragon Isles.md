@@ -1,5 +1,5 @@
 ```dataview
 >>LIST
 >>FROM #Creatures
->>WHERE CommonLocations["[[The Dragon Isles]]"] and CreatureType = "Humanoid"
+>>WHERE contains(CommonLocations, [[The Dragon Isles]]) and CreatureType = "Humanoid"
 >>```
