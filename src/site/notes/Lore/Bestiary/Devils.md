@@ -3,7 +3,7 @@
 ---
 
 >[!blank|float-right-large]
->>![Pasted image 20250705161105.png](/img/user/z_Assets/Pasted%20image%2020250705161105.png)
+>>![Pasted image 20250706220944.png](/img/user/z_Assets/Pasted%20image%2020250706220944.png)
 >>- Lifespan: Unknown
 >>- Languages: Common, Celestial, Abyssal, Infernal
 >>- Magical?: Yes

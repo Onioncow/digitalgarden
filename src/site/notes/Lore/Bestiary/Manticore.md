@@ -7,7 +7,7 @@
 >>![Pasted image 20250705155451.png](/img/user/z_Assets/Pasted%20image%2020250705155451.png)
 >>- Lifespan: 150 years
 >>- Languages: Common
->>- Magical?: Yes
+>>- Magical?: No
 >>- Tags: #Creatures #Species #Beast
 >
 >>[!info]+ Common Locations
