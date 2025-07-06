@@ -10,13 +10,14 @@
 
 # Mountains of Volantem Lacertae
 
->[!multi-column]
->
->>[!check]+ Humanoids
->>- Item 1
->
->>[!danger]+ Others
->>Item 1
+>[!check]+ Humanoids
+> - [[Lore/Bestiary/Lizardfolk\|Lizardfolk]]
+> 
+{ .block-language-dataview}
+
+>[!danger]+ Others
+> 
+{ .block-language-dataview}
 
 >[!tip]+ Desc and Fauna
 >This is an example description of the specific area
@@ -24,13 +25,16 @@
 
 # Head of the Spear
 
->[!multi-column]
->
->>[!check]+ Humanoids
->>- Item 1
->
->>[!danger]+ Others
->>Item 1
+>[!check]+ Humanoids
+> - [[Lore/Bestiary/Human\|Human]]
+> - [[Lore/Bestiary/Lizardfolk\|Lizardfolk]]
+> 
+{ .block-language-dataview}
+
+>[!danger]+ Others
+> - [[Lore/Bestiary/Manticore\|Manticore]]
+> 
+{ .block-language-dataview}
 
 >[!tip]+ Desc and Fauna
 >This is an example description of the specific area
@@ -38,13 +42,15 @@
 
 # Main Gladenlil
 
->[!multi-column]
->
->>[!check]+ Humanoids
->>- Item 1
->
->>[!danger]+ Others
->>Item 1
+>[!check]+ Humanoids
+> - [[Lore/Bestiary/Elf\|Elf]]
+> - [[Lore/Bestiary/Lizardfolk\|Lizardfolk]]
+> 
+{ .block-language-dataview}
+
+>[!danger]+ Others
+> 
+{ .block-language-dataview}
 
 >[!tip]+ Desc and Fauna
 >This is an example description of the specific area

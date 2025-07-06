@@ -7,7 +7,7 @@
 >>- Lifespan:
 >>- Languages: Common, Draconic
 >>- Magical?: Yes
->>- Tags: #Creatures #Species #Humanoid #Dragon
+>>- Tags: #Creatures #Species #Humanoid #Dragon #Heritage
 >
 >>[!info]+ Common Locations
 >>1. Item 1

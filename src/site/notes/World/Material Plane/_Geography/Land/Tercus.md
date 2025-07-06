@@ -10,26 +10,28 @@
 
 # Pluvia Jungle
 
->[!multi-column]
->
->>[!check]+ Humanoids
->>- Item 1
->
->>[!danger]+ Others
->>Item 1
+>[!check]+ Humanoids
+> - [[Lore/Bestiary/Human\|Human]]
+> 
+{ .block-language-dataview}
+
+>[!danger]+ Others
+> 
+{ .block-language-dataview}
 
 >[!tip]+ Desc and Fauna
 >This is an example description of the specific area
 
 # Harenae Desert
 
->[!multi-column]
->
->>[!check]+ Humanoids
->>- Item 1
->
->>[!danger]+ Others
->>Item 1
+>[!check]+ Humanoids
+> - [[Lore/Bestiary/Human\|Human]]
+> 
+{ .block-language-dataview}
+
+>[!danger]+ Others
+> 
+{ .block-language-dataview}
 
 >[!tip]+ Desc and Fauna
 >This is an example description of the specific area
@@ -37,13 +39,14 @@
 
 # Southern Dunes
 
->[!multi-column]
->
->>[!check]+ Humanoids
->>- Item 1
->
->>[!danger]+ Others
->>Item 1
+>[!check]+ Humanoids
+> - [[Lore/Bestiary/Human\|Human]]
+> 
+{ .block-language-dataview}
+
+>[!danger]+ Others
+> 
+{ .block-language-dataview}
 
 >[!tip]+ Desc and Fauna
 >This is an example description of the specific area
@@ -51,13 +54,14 @@
 
 # Kafto Grasslands
 
->[!multi-column]
->
->>[!check]+ Humanoids
->>- Item 1
->
->>[!danger]+ Others
->>Item 1
+>[!check]+ Humanoids
+> - [[Lore/Bestiary/Human\|Human]]
+> 
+{ .block-language-dataview}
+
+>[!danger]+ Others
+> 
+{ .block-language-dataview}
 
 >[!tip]+ Desc and Fauna
 >This is an example description of the specific area
@@ -65,26 +69,26 @@
 
 # The Ashen Veil
 
->[!multi-column]
->
->>[!check]+ Humanoids
->>- Item 1
->
->>[!danger]+ Others
->>Item 1
+>[!check]+ Humanoids
+> 
+{ .block-language-dataview}
+
+>[!danger]+ Others
+> 
+{ .block-language-dataview}
 
 >[!tip]+ Desc and Fauna
 >This is an example description of the specific area
 
 # Sunderpeaks
 
->[!multi-column]
->
->>[!check]+ Humanoids
->>- Item 1
->
->>[!danger]+ Others
->>Item 1
+>[!check]+ Humanoids
+> 
+{ .block-language-dataview}
+
+>[!danger]+ Others
+> 
+{ .block-language-dataview}
 
 >[!tip]+ Desc and Fauna
 >This is an example description of the specific area

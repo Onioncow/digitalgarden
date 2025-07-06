@@ -7,7 +7,7 @@
 >>- Lifespan: 60 Years
 >>- Languages: Common, Tripkee 
 >>- Magical?: No
->>- Tags: #Creatures #Species #Humanoid 
+>>- Tags: #Creatures #Species #Humanoid #Tripkee
 >
 >>[!info]+ Common Locations
 >>1. [[World/Material Plane/_Geography/Land/Vitria#Leaping Bog\|Vitria#Leaping Bog]]
