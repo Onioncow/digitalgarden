@@ -26,8 +26,8 @@
 # Head of the Spear
 
 >[!check]+ Humanoids
-> - [[Lore/Bestiary/Human\|Human]]
 > - [[Lore/Bestiary/Lizardfolk\|Lizardfolk]]
+> - [[Lore/Bestiary/Human\|Human]]
 > 
 { .block-language-dataview}
 
@@ -43,8 +43,8 @@
 # Main Gladenlil
 
 >[!check]+ Humanoids
-> - [[Lore/Bestiary/Elf\|Elf]]
 > - [[Lore/Bestiary/Lizardfolk\|Lizardfolk]]
+> - [[Lore/Bestiary/Elf\|Elf]]
 > 
 { .block-language-dataview}
 

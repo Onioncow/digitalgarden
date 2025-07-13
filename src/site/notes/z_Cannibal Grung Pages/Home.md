@@ -23,54 +23,5 @@
 | [[Player Characters/w'Ixki\|w'Ixki]]                   | Ilay   | Alive  | [[Campaigns/Hidden Ritual/Hidden Ritual\|Hidden Ritual]] | 6     | 16 | 17 | Poisonous Skin                                                     | [[Lore/Bestiary/Grung or Tripkee\|Grung or Tripkee]] | Ranger  | 9 (as of 1491)  | Male   |
 
 { .block-language-dataview}
-# Campaign Notes
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-#### Current Threads
-- The list of names - you are yet to find [[World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/NPC's/Jotaro\|Jotaro]] (who is almost certainly in the prison)
-- Who is involved with the ritual?
-	- [[World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/NPC's/l'Gma\|l'Gma]]
-	- [[World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/NPC's/Abyssal Knight (Wolda Helry)\|Abyssal Knight (Wolda Helry)]]
-	- [[World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/NPC's/Pito - Rakshasa\|Pito]]
-	- [[World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/NPC's/Celak - Alhoon\|Celak]]
-	- [[World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/NPC's/Meragar - Blackguard\|Meragar]]
-- The Ancient Dragon
-	- [[NPCs Assorted/Bayle Fyppin, the Dread\|Bayle Fyppin, the Dread]] wants you to collect the rune stones that bind the ritual
-		- If you don't, he says you will all die
-- The Duke of Hell
-	- [[NPCs Assorted/Titivilus\|Titivilus]] is after the rune stones but you were unable to make a deal
-		- He now owns the rights to [[Player Characters/Ale\|Ale]]'s soul
-- Information about the ritual:
-	- Nature
-		- It is a time loop bound by rune stones 
-	- [[World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/NPC's/Martin (DEAD)\|Martin]]'s Info:
-		- The ritual will result in the entire city going "poof" (according to [[World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/NPC's/Pito - Rakshasa\|Pito]])
-		- The only way to survive is to buy in. Martin bought in by offering Ale as a sacrifice of sorts
-		- The spell that binds you in the time loop will result in your death once enough loops have transpired
-		- The spell that binds the conspirators protects them from the effects of the ritual
-		- He said he previously lived through what he can assume to be a full loop that lasted around 30 days
-		- You are all important parts of the ritual as you make sure each time loop is different. You have great power over the time loop
-	- The Cultist beneath the [[World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/Map Locations/Temple Row/Grand Cathedral\|Grand Cathedral]]:
-		- There are 12 total loops
-		- You are on the 3rd loop
-		- There will be a metamorphosis to transform you into "higher beings" for [[Lore/Gods/Primordial Gods/Chronos\|Chronos]]
-			- The cultist calls this a "blessing"
-	- The [[World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/NPC's/Abyssal Knight (Wolda Helry)\|Abyssal Knight]]'s Office:
-		- You found contracts that expose key conspirators in the ritual. One of which appears to be [[World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/NPC's/Barron Trump\|Barron Trump]]'s dad 
-		- You also found a letter from "E.F"
-			- This person is likely the person that cast Scry on you.
-- Deciphering the rune stones:
-	- The Stone beneath the Church:
-		- The runes marked on this perfectly spherical, smooth stone appear to be the work of both arcane and divine magic. The combination of devout cleric and a powerful wizard. 
-		- There is a complex web of runes covering the stone that seem to centre around runes describing the creation of new life, and an exchange of lifetimes to make that possible
-		- There is a magical boundary, likely around the parameter of the city, that contains the ritual magic
-		- A great divine power is needed to destroy or disable the stone
-		- This is one of three Rune Stones
-
-
-</div></div>
 
 

@@ -110,8 +110,8 @@
 # Wyrmcrest Range
 
 >[!check]+ Humanoids
-> - [[Lore/Bestiary/Elf\|Elf]]
 > - [[Lore/Bestiary/Lizardfolk\|Lizardfolk]]
+> - [[Lore/Bestiary/Elf\|Elf]]
 > 
 { .block-language-dataview}
 

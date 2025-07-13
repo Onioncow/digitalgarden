@@ -11,8 +11,8 @@
 # Western Sonipes
 
 >[!check]+ Humanoids
-> - [[Lore/Bestiary/Human\|Human]]
 > - [[Lore/Bestiary/Mapach or Tanuki\|Mapach or Tanuki]]
+> - [[Lore/Bestiary/Human\|Human]]
 > - [[Lore/Bestiary/Dragonborn (Dragonblood)\|Dragonborn (Dragonblood)]]
 > 
 { .block-language-dataview}
@@ -56,8 +56,8 @@
 # The Horned Coast
 
 >[!check]+ Humanoids
-> - [[Lore/Bestiary/Human\|Human]]
 > - [[Lore/Bestiary/Mapach or Tanuki\|Mapach or Tanuki]]
+> - [[Lore/Bestiary/Human\|Human]]
 > 
 { .block-language-dataview}
 
@@ -72,8 +72,8 @@
 # Mist Dragon Valley 
 
 >[!check]+ Humanoids
-> - [[Lore/Bestiary/Human\|Human]]
 > - [[Lore/Bestiary/Mapach or Tanuki\|Mapach or Tanuki]]
+> - [[Lore/Bestiary/Human\|Human]]
 > - [[Lore/Bestiary/Dragonborn (Dragonblood)\|Dragonborn (Dragonblood)]]
 > 
 { .block-language-dataview}
@@ -88,8 +88,8 @@
 # Mountains of the Weeping Ghost
 
 >[!check]+ Humanoids
-> - [[Lore/Bestiary/Human\|Human]]
 > - [[Lore/Bestiary/Mapach or Tanuki\|Mapach or Tanuki]]
+> - [[Lore/Bestiary/Human\|Human]]
 > - [[Lore/Bestiary/Dragonborn (Dragonblood)\|Dragonborn (Dragonblood)]]
 > 
 { .block-language-dataview}

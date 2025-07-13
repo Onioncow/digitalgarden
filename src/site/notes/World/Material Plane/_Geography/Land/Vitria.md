@@ -11,8 +11,8 @@
 # Northern Vitria
 
 >[!check]+ Humanoids
-> - [[Lore/Bestiary/Elf\|Elf]]
 > - [[Lore/Bestiary/Human\|Human]]
+> - [[Lore/Bestiary/Elf\|Elf]]
 > 
 { .block-language-dataview}
 
@@ -29,9 +29,9 @@
 # River Magnum
 
 >[!check]+ Humanoids
-> - [[Lore/Bestiary/Elf\|Elf]]
-> - [[Lore/Bestiary/Human\|Human]]
 > - [[Lore/Bestiary/Mapach or Tanuki\|Mapach or Tanuki]]
+> - [[Lore/Bestiary/Human\|Human]]
+> - [[Lore/Bestiary/Elf\|Elf]]
 > 
 { .block-language-dataview}
 
@@ -49,8 +49,8 @@
 # Blackrock Forest Novum
 
 >[!check]+ Humanoids
-> - [[Lore/Bestiary/Elf\|Elf]]
 > - [[Lore/Bestiary/Human\|Human]]
+> - [[Lore/Bestiary/Elf\|Elf]]
 > 
 { .block-language-dataview}
 
@@ -67,8 +67,8 @@
 # Mediwood
 
 >[!check]+ Humanoids
-> - [[Lore/Bestiary/Elf\|Elf]]
 > - [[Lore/Bestiary/Mapach or Tanuki\|Mapach or Tanuki]]
+> - [[Lore/Bestiary/Elf\|Elf]]
 > 
 { .block-language-dataview}
 
@@ -102,9 +102,9 @@
 # Inferus Forest
 
 >[!check]+ Humanoids
-> - [[Lore/Bestiary/Elf\|Elf]]
-> - [[Lore/Bestiary/Grung or Tripkee\|Grung or Tripkee]]
 > - [[Lore/Bestiary/Mapach or Tanuki\|Mapach or Tanuki]]
+> - [[Lore/Bestiary/Grung or Tripkee\|Grung or Tripkee]]
+> - [[Lore/Bestiary/Elf\|Elf]]
 > 
 { .block-language-dataview}
 
