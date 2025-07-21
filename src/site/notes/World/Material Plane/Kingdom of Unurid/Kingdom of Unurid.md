@@ -41,7 +41,7 @@ The Kingdom has had a rocky past with non-humans, expanding into and taking over
 - [[World/Material Plane/Sylvaranth/Sylvaranth\|Sylvaranth]] has an uneasy truce and has begun trading with their new neighbours
 
 ## Religion
-There is no single core religion in Unurid. The most common religion worships [[Lore/Gods/Planar Gods/Felonia - God of Agriculture and Harvest\|Felonia - God of Agriculture and Harvest]] as many of the commoners work on farms and one of the main products that Unurid produces is food. The military also often works with worshipers of [[Lore/Gods/Planar Gods/Gurzil - God of War and Destruction\|Gurzil - God of War and Destruction]] and employs battle Clerics onto the front lines in their fights with [[World/Material Plane/Edrea/Edrea\|Edrea]]
+There is no single core religion in Unurid. The most common religion worships [[Lore/Gods/Planar Gods/Felonia - God of Agriculture and Harvest\|Felonia - God of Agriculture and Harvest]] as many of the commoners work on farms and one of the main products that Unurid produces is food. The military also often works with worshipers of [[Lore/Gods/Planar Gods/Gurzil\|Gurzil]] and employs battle Clerics onto the front lines in their fights with [[World/Material Plane/Edrea/Edrea\|Edrea]]
 
 ## Government
 The Kahler Monarchy founded the Kingdom of Unurid and rules it to this day. From generation to generation, the first born inherits the crown. Currently, Boden Kahler III is the king of Unurid. As the kingdom expanded and absorbed more settlements in [[World/Material Plane/_Geography/Land/Sonipes Mundi\|Sonipes Mundi]], it became clear that the Monarch would need to install Lords to rule sections in their place. Lord Regents have been appointed in major cities to rule over the populace. The title of Lord Regent is granted to the Monarchs most trusted aristocratic advisors with the key exception of [[World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/Gefestmere\|Gefestmere]], where the Lord Regent is elected.
@@ -51,7 +51,7 @@ The outlier of [[World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/Gefest
 ### Prominent Guilds
 - The Merchants Guild
 - The Church of [[Lore/Gods/Planar Gods/Felonia - God of Agriculture and Harvest\|Felonia - God of Agriculture and Harvest]]
-- The Church of [[Lore/Gods/Planar Gods/Gurzil - God of War and Destruction\|Gurzil - God of War and Destruction]]
+- The Church of [[Lore/Gods/Planar Gods/Gurzil\|Gurzil]]
 - The Aristocracy (Faction)
 - The Shipwrights Guild
 ### Laws

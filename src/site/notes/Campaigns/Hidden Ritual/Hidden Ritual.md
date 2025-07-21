@@ -38,5 +38,6 @@
 | [[Campaigns/Hidden Ritual/Session 20\|Session 20]] | 2   | no       | 05 June, 2025 |
 | [[Campaigns/Hidden Ritual/Session 21\|Session 21]] | 2   | yes      | 26 June, 2025 |
 | [[Campaigns/Hidden Ritual/Session 22\|Session 22]] | 3   | no       | 02 July, 2025 |
+| [[Campaigns/Hidden Ritual/Session 23\|Session 23]] | 3   | no       | 16 July, 2025 |
 
 { .block-language-dataview}

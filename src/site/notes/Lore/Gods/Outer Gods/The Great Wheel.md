@@ -11,8 +11,7 @@ The wheel is chaos manifest. Often imagined as a giant wheel of possibilities th
 
 [[z_DM Screen/References/Magic Wheel Spins\|Magic Wheel Spins]]
 
->[!info]+ Types of Worshippers
->- Warlock
->	- Great Old One
+>[!info] Domains
+>
 
 

@@ -10,7 +10,7 @@
 >>- Gender: Male 
 >>- Home: [[World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/Gefestmere\|Gefestmere]]
 >>- Class: Cleric 
->>- Subclass: Tempest Domain (Worshipping [[Lore/Gods/Planar Gods/Gurzil - God of War and Destruction\|Gurzil - God of War and Destruction]])
+>>- Subclass: Tempest Domain (Worshipping [[Lore/Gods/Planar Gods/Gurzil\|Gurzil]])
 >
 >>[!tldr]+ NPC Relationships
 >>- Legally married to [[NPCs Assorted/Bayle Fyppin, the Dread\|Bayle Fyppin, the Dread]], alongside [[Player Characters/Flike Fyppin\|Flike Fyppin]] and [[Player Characters/w'Ixki\|w'Ixki]]
@@ -21,7 +21,7 @@
 
 
 ## Description
-A short human male, standing at around 5'1, with green hair and a strong build. He has a pendent displaying the holy image of [[Lore/Gods/Planar Gods/Gurzil - God of War and Destruction\|Gurzil - God of War and Destruction]] - around his neck.
+A short human male, standing at around 5'1, with green hair and a strong build. He has a pendent displaying the holy image of [[Lore/Gods/Planar Gods/Gurzil\|Gurzil]] - around his neck.
 
 ## Personal Quests
 - [x] To find [[World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/NPC's/Martin (DEAD)\|Martin]] and take his revenge by killing him
