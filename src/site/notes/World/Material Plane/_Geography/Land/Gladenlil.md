@@ -26,8 +26,8 @@
 # Head of the Spear
 
 >[!check]+ Humanoids
-> - [[Lore/Bestiary/Lizardfolk\|Lizardfolk]]
 > - [[Lore/Bestiary/Human\|Human]]
+> - [[Lore/Bestiary/Lizardfolk\|Lizardfolk]]
 > 
 { .block-language-dataview}
 

@@ -29,7 +29,7 @@ He is quick to anger and viciously violent, often killing for fun and sport.
 ## Powers
 - Through [[Player Characters/Flike Fyppin\|Flike Fyppin]], he has access to [[Lore/Gods/Outer Gods/The Great Wheel\|The Great Wheel]]
 - He breaths a mix of fire and lightning
-- He can enhance his physical body with orange lightning
+- He can enhance his physical body with orange lightning 
 
 ## Possessions
 - [[Lore/Artefacts/The Arcane Pool\|The Arcane Pool]]
