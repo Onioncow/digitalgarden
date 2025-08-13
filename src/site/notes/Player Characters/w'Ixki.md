@@ -34,3 +34,9 @@ As a green [[Lore/Bestiary/Grung or Tripkee\|Grung or Tripkee]], w'Ixki is at th
 
 
 
+### Images
+
+> ![image.png|300](/img/user/z_Assets/image.png)
+>w'Ixki at the Inauguration Ball
+
+
