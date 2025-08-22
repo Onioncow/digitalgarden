@@ -43,8 +43,8 @@
 # Main Gladenlil
 
 >[!check]+ Humanoids
-> - [[Lore/Bestiary/Lizardfolk\|Lizardfolk]]
 > - [[Lore/Bestiary/Elf\|Elf]]
+> - [[Lore/Bestiary/Lizardfolk\|Lizardfolk]]
 > 
 { .block-language-dataview}
 

@@ -40,9 +40,8 @@ Dragons are often accompanied by [[Lore/Bestiary/Dragonborn (Dragonblood)\|Drago
 >Lesser dragons are creatures that have descended from dragons. There are a whole range of sub-species that range from intelligent to beats.
 
 ##### List of Lesser Dragons:
-- [[Lore/Bestiary/Dragonborn (Dragonblood)\|Dragonborn (Dragonblood)]]
+![[Base_Bestiary.base#Dragons]]
 
-{ .block-language-dataview}
 ## History
 Dragons are the oldest creatures in the [[World/Material Plane/Material Plane\|Material Plane]]. They existed during [[Lore/Ages/01 - The Mythic Age\|01 - The Mythic Age]] before [[Lore/Gods/Primordial Gods/Chronos\|Chronos]] began time. In the [[Lore/Ages/01 - The Mythic Age\|01 - The Mythic Age]], the Dragons ruled the world with [[NPCs Assorted/Dragon Lord, Placidusax\|Dragon Lord, Placidusax]] as their Monarch sitting on the old draconic throne that existed in what is now [[World/Material Plane/Celestria/Celestria\|Celestria]]. 
 

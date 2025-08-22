@@ -4,7 +4,7 @@
 
 
 >[!blank|float-right-large]
->>[Image]
+>>![Ale token.png](/img/user/z_Assets/Ale%20token.png)
 >>- Age: 45 (as of 1491)
 >>- Race: [[Lore/Bestiary/Human\|Human]]
 >>- Gender: Male 
@@ -35,7 +35,7 @@ A short human male, standing at around 5'1, with green hair and a strong build. 
 - One day, on his way home from work, he was confronted by Martin, who he knew from his terrible performances
 	- Ale would often heckle Martin
 - Martin, with some help, rendered Ale unconscious, taking him to be part of the ritual  
-### Campaign 1
+### [[Campaigns/Hidden Ritual/Hidden Ritual\|Hidden Ritual]]
 
 
 

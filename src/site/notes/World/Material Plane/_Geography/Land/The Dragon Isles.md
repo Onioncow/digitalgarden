@@ -9,8 +9,8 @@
 >>This is an example description of the entire continent including any relevant history or specific religious connotations 
 
 >[!check]+ Humanoids
-> - [[Lore/Bestiary/Lizardfolk\|Lizardfolk]]
 > - [[Lore/Bestiary/Dragonborn (Dragonblood)\|Dragonborn (Dragonblood)]]
+> - [[Lore/Bestiary/Lizardfolk\|Lizardfolk]]
 > 
 { .block-language-dataview}
 

@@ -29,7 +29,7 @@
 ### Backstory
 - He joined the Temperance faction of [[World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/Gefestmere\|Gefestmere]] on his journey to become immortal.
 - He was a diligent member, pushing for a purified [[World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/Gefestmere\|Gefestmere]] and helping the faction become one of the more powerful political factions in the city and region.
-### Campaign 1
+### [[Campaigns/Hidden Ritual/Hidden Ritual\|Hidden Ritual]]
 
 
 

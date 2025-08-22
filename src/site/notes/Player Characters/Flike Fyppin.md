@@ -5,7 +5,7 @@
 >[!blank|float-right-large]
 >>![Pasted image 20250507192901.png](/img/user/z_Assets/Pasted%20image%2020250507192901.png)
 >>- Age: 10
->>- Race: [[Lore/Bestiary/Mapach or Tanuki\|Mapach or Tanuki]]
+>>- Race: [[Lore/Bestiary/Tanuki\|Tanuki]]
 >>- Gender: Male
 >>- Home: The forest upstream from [[World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/Gefestmere\|Gefestmere]]
 >>- Class: Warlock
@@ -36,6 +36,6 @@ Born 17th Marpenoth 1481 (absolute) of the 2nd Era in his home town just east of
 - He learnt everything he knows about his religion (cult) from Habby
 - He has a tabaxi uncle in the [[World/Material Plane/_Geography/Land/Condeus#Perfumed Quag\|Perfumed Quag]]
 
-### Campaign 1
+### [[Campaigns/Hidden Ritual/Hidden Ritual\|Hidden Ritual]]
 
 
