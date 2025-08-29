@@ -8,16 +8,7 @@
 >>[!info]+ General Info
 >>This is an example description of the entire continent including any relevant history or specific religious connotations 
 
->[!check]+ Humanoids
-> - [[Lore/Bestiary/Dragonborn (Dragonblood)\|Dragonborn (Dragonblood)]]
-> - [[Lore/Bestiary/Lizardfolk\|Lizardfolk]]
-> 
-{ .block-language-dataview}
-
->[!danger]+ Others
-> - [[Lore/Bestiary/Dragons\|Dragons]]
-> 
-{ .block-language-dataview}
+![[Base_Bestiary.base#Dragon Isles]]
 
 >[!tip]+ Desc and Fauna
 >This is an example description of the specific area

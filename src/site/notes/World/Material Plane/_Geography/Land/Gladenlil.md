@@ -8,50 +8,19 @@
 >>[!info]+ General Info
 >>This is an example description of the entire continent including any relevant history or specific religious connotations 
 
+![[Base_Bestiary.base#Gladenil]]
+
 # Mountains of Volantem Lacertae
-
->[!check]+ Humanoids
-> - [[Lore/Bestiary/Lizardfolk\|Lizardfolk]]
-> 
-{ .block-language-dataview}
-
->[!danger]+ Others
-> 
-{ .block-language-dataview}
-
 >[!tip]+ Desc and Fauna
 >This is an example description of the specific area
 
 
 # Head of the Spear
-
->[!check]+ Humanoids
-> - [[Lore/Bestiary/Human\|Human]]
-> - [[Lore/Bestiary/Lizardfolk\|Lizardfolk]]
-> 
-{ .block-language-dataview}
-
->[!danger]+ Others
-> - [[Lore/Bestiary/Manticore\|Manticore]]
-> 
-{ .block-language-dataview}
-
 >[!tip]+ Desc and Fauna
 >This is an example description of the specific area
 
 
 # Main Gladenlil
-
->[!check]+ Humanoids
-> - [[Lore/Bestiary/Elf\|Elf]]
-> - [[Lore/Bestiary/Lizardfolk\|Lizardfolk]]
-> 
-{ .block-language-dataview}
-
->[!danger]+ Others
-> 
-{ .block-language-dataview}
-
 >[!tip]+ Desc and Fauna
 >This is an example description of the specific area
 
