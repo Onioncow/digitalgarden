@@ -14,3 +14,11 @@
 ![[Base_Player Characters.base#All Players]]
 
 
+```base
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Player Characters")
+```
