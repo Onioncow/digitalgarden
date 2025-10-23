@@ -25,7 +25,7 @@ A short human male, standing at around 5'1, with green hair and a strong build. 
 
 ## Personal Quests
 - [x] To find [[World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/NPC's/Martin (DEAD)\|Martin]] and take his revenge by killing him
-- [ ] To retrieve his soul from [[NPCs Assorted/Titivilus\|Titivilus]]
+- [x] To retrieve his soul from [[NPCs Assorted/Titivilus\|Titivilus]]
 
 ## History
 ### Backstory
@@ -38,4 +38,7 @@ A short human male, standing at around 5'1, with green hair and a strong build. 
 ### [[Campaigns/Hidden Ritual/Hidden Ritual\|Hidden Ritual]]
 
 
+## Images
 
+>![Pasted image 20251022223022.png|300](/img/user/z_Assets/Pasted%20image%2020251022223022.png)
+>Ale under the shadow of [[NPCs Assorted/Bayle Fyppin, the Dread\|Bayle Fyppin, the Dread]]...
