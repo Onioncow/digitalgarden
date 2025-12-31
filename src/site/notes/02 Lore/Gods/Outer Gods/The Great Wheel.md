@@ -1,0 +1,17 @@
+---
+{"dg-publish":true,"permalink":"/02-lore/gods/outer-gods/the-great-wheel/","tags":["God"]}
+---
+
+>[!blank|float-right-small]
+>>[!example]+ Notable Disciples:
+>>- [[04 Player Characters/Flike Fyppin\|Flike Fyppin]]
+
+
+The wheel is chaos manifest. Often imagined as a giant wheel of possibilities that chooses to alter reality based on chance. Those that serve the wheel give up their afterlife in return for eldritch powers - they become part of a giant network of minds that determine random chance
+
+[[z_DM Screen/References/Magic Wheel Spins\|Magic Wheel Spins]]
+
+>[!info] Domains
+>
+
+
