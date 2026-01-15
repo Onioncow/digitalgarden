@@ -10,8 +10,6 @@
 >>- Home: [[05 World/Material Plane/_Geography/Land/The Dragon Isles\|The Dragon Isles]]
 >>- Titles: The Platinum Dragon, The Silver Scourge, Miasma of the Night
 >
->>[!help]+ Campaign Knowledge
->>- Item 1
 
 
 ## Description

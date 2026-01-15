@@ -10,9 +10,6 @@
 >>- Home: [[05 World/Nine Hells/2nd Layer - Dis/Map Locations/City of Dis\|City of Dis]]
 >>- Titles: Archdevil, Archduke of Hell, Archduke of Dis, The Iron Duke, The Father of Strife
 >>- [Stablock](https://5e.tools/bestiary.html#dispater_coa,flstenvironment:grassland=1,flstmiscellaneous:adventure%20npc=2)
->
->>[!help]+ Campaign Knowledge
->>- Item 1
 
 
 Dispater was the Lord of Dis and an archdevil whose extreme vigilance almost personified caution. The urbane Iron Duke ruled the Iron City from within his Iron Tower, and was legendary for his impregnable layers of defence.
