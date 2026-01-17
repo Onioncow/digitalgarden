@@ -13,4 +13,4 @@
 # Player Characters
 ![[Base_Player Characters.base#All Players]]
 
-
+(The databases are currently not supported so it looks a lil jank. Maybe one day it'll be updated but for now you will just have to use the navigation bar on the left.)

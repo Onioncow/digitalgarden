@@ -27,6 +27,7 @@ He is quick to anger and viciously violent, often killing for fun and sport.
 
 ## Possessions
 - [[02 Lore/Artefacts/The Arcane Pool\|The Arcane Pool]]
+- [[02 Lore/Artefacts/Chronos Rune Stones\|Chronos Rune Stones]]
 
 ## Relationships
 >[!multi-column]

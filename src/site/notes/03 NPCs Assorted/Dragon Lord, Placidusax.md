@@ -10,9 +10,6 @@
 >>- Gender: Unknown
 >>- Home: [[05 World/Material Plane/_Geography/Land/The Dragon Isles\|The Dragon Isles]]
 >>- Titles: Dragon Lord, King of the Dragons, Ymir's Chosen
->
->>[!help]+ Campaign Knowledge
->>- Item 1
 
 
 ## Description

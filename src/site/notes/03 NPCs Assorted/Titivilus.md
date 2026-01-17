@@ -9,9 +9,7 @@
 >>- Gender: Masculine
 >>- Home: [[05 World/Nine Hells/2nd Layer - Dis/Map Locations/City of Dis\|City of Dis]]
 >>- Titles: Nuncio of Dispater 
->
->>[!help]+ Hidden Ritual
->>- He wants you to collect the [[02 Lore/Artefacts/Chronos Rune Stones\|Chronos Rune Stones]] for him 
+
 
 
 Titivilus was an archdevil of the Nine Hells who served the Lord of the Second, Dispater. The Nuncio of the Iron Tower was the viceroy and ambassador of his lord, and held increasing power over Dis and its populace as the Iron Duke retreated deeper into his Iron Tower
@@ -32,15 +30,13 @@ His lack of height and stature have made him quick to anger, overcompensating fo
 - His power with words allows him to corrupt his foes, twisting their will to his own 
 
 ## Possessions
-- [[04 Player Characters/Ale\|Ale]]'s soul
 
 ## Relationships
 >[!multi-column]
 >
 >>[!check]+ Player Characters
 >>- [[04 Player Characters/Ale\|Ale]]
->>	- Ale broke an NDA with Titivilus, his soul is now forfeit
->>	- He rather likes the idea of toying with his new pet
+>>	- He dislikes how Ale got his soul back in a rather underhanded way
 >>
 >>- [[04 Player Characters/Flike Fyppin\|Flike Fyppin]]
 >>	- Flike attacked Titivilus unprovoked, giving him a bad impression of the Mapach
@@ -55,27 +51,6 @@ His lack of height and stature have made him quick to anger, overcompensating fo
 
 ## History
 ### Hidden Ritual
-
-
-## Deals with the Devil 
->[!multi-column]
->
->>[!example]+ Offers
->>- The Devils Blessing (Increase ability score by 1 or 2)
->>- Blessing of Protection (+1 AC and +1 to saving throws)
->>- Weapon enchantment (a nonmagical weapon becomes a +1 magical weapon)
->>- The Devils service - the devil will complete 1 task (must be used within the next 9 absolute days)
->>- Information
->>- 50000gp 
->
->>[!warning]+ Compensation
->>- Your Soul
->>- A pure soul (without magical coercion)
->>- Steal the harvest relic from the temple
->>- Bayle dead
->>- The Party's service (you will be called upon to serve Titivilus and will be unable to say no)
-
-
 
 
 
