@@ -6,7 +6,6 @@
 ![Pasted image 20250425112240.png](/img/user/z_Assets/Pasted%20image%2020250425112240.png)
 # Info
 >[!blank|float-right-large]
->[[05 World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/Interactive Map - Gefestmere\|Interactive Map - Gefestmere]]
 >>Population: ~15,000
 >>Inhabitants: Multicultural with a large Elven and Human population
 >>Settlement Type: #City

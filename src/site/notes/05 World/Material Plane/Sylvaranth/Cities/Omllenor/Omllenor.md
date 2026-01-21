@@ -5,7 +5,7 @@
 ![City of Omllenor.webp](/img/user/z_Assets/City%20of%20Omllenor.webp)
 # Info
 >[!blank|float-right-large]
->[[05 World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/Interactive Map - Gefestmere\|Interactive Map - Gefestmere]]
+>[[Interactive Map - Gefestmere\|Interactive Map - Gefestmere]]
 >>Population:
 >>Inhabitants: 
 >>Settlement Type: #City
