@@ -10,8 +10,8 @@
 >>- Tags: #Creatures #Species #Humanoid #Tripkee
 >
 >>[!info]+ Common Locations
->>1. [[05 World/Material Plane/_Geography/Land/Vitria#Leaping Bog\|Vitria#Leaping Bog]]
->>2. [[05 World/Material Plane/_Geography/Land/Vitria#Inferus Forest\|Vitria#Inferus Forest]]
+>>1. [[05 World/Material Plane/01 Geography/Land/Vitria#Leaping Bog\|Vitria#Leaping Bog]]
+>>2. [[05 World/Material Plane/01 Geography/Land/Vitria#Inferus Forest\|Vitria#Inferus Forest]]
 
 
 Tripkees resemble humanoid tree frogs, with oversized eyes, wide mouths, and gangly physiques. Their slight frames and large toes can afford excellent grip while climbing, while their colorful skin provides reliable camouflage that varies by their home environment—green and brown for jungle-dwelling groups, blue and orange for riparian communities, and many other colors between. A tripkee grows quickly, reaching their adult size of approximately 2 feet in height about 3 years after hatching, though they're only considered adults around age 12. Tripkees rarely live beyond 60 years, though exceptional individuals occasionally live as long as a century

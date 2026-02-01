@@ -10,8 +10,8 @@
 >>- Tags: #Creatures #Species #Humanoid #Elf
 >
 >>[!info]+ Common Locations
->>1. Most of [[05 World/Material Plane/_Geography/Land/Vitria\|Vitria]]
->>2. Western [[05 World/Material Plane/_Geography/Land/Condeus\|Condeus]]
+>>1. Most of [[05 World/Material Plane/01 Geography/Land/Vitria\|Vitria]]
+>>2. Western [[05 World/Material Plane/01 Geography/Land/Condeus\|Condeus]]
 
 
 As an ancient people, elves have seen great change and have the perspective that can come only from watching the arc of history. Elves value kindness, intellect, and beauty, with many elves striving to improve their manners, appearance, and culture. Their studies delve into a level of detail that most shorter-lived peoples find excessive or inefficient.

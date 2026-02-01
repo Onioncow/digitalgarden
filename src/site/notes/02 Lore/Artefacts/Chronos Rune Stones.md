@@ -13,7 +13,7 @@
 # Description
 These rune stones can control time. The most advanced of which can be combined to create a time loop that devours timelines, erasing the affected creatures from existence
 
-Notably, these were used during the Hidden Ritual campaign in [[05 World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/Gefestmere\|Gefestmere]]. [[03 NPCs Assorted/Lord Regent Elegad\|Lord Regent Elegad]] used them to trap the entire city in a time loop.
+Notably, these were used during the Hidden Ritual campaign in [[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere\|Gefestmere]]. [[03 NPCs Assorted/Lord Regent Elegad\|Lord Regent Elegad]] used them to trap the entire city in a time loop.
 
 They are small stones, polished perfectly smooth with small, intricate Elvish runes engraved on all sides. The dialect is an ancient Elvish and is incredibly difficult to translate due to the complexity.
 

@@ -9,7 +9,7 @@
 >>- Age: 19 (as of 1491)
 >>- Race: [[02 Lore/Bestiary/Human\|Human]]
 >>- Gender: Male
->>- Home: [[05 World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/Gefestmere\|Gefestmere]]
+>>- Home: [[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere\|Gefestmere]]
 >>- Titles: Elden Lord, Saviour of the Wasteland
 
 ## Description
@@ -30,7 +30,7 @@ Being hit with his suitcase causes mental damage
 >[!multi-column]
 >
 >>[!check]+ Player Characters
->> - [[04 Player Characters/Amauri De Nucci\|Amauri De Nucci]]: He has grown quite fond of Amauri and has helped to fund his political campaign in [[05 World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/Gefestmere\|Gefestmere]], helping to secure the Regency for Amauri and [[03 NPCs Assorted/Wilhye\|Wilhye]]
+>> - [[04 Player Characters/Amauri De Nucci\|Amauri De Nucci]]: He has grown quite fond of Amauri and has helped to fund his political campaign in [[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere\|Gefestmere]], helping to secure the Regency for Amauri and [[03 NPCs Assorted/Wilhye\|Wilhye]]
 >> - [[04 Player Characters/Flike Fyppin\|Flike Fyppin]]: Barron shares Flikes simpler nature, allowing for a very natural connection between them, though Barron was unpersuaded to join Flike's polycule 
 >> - [[04 Player Characters/w'Ixki\|w'Ixki]]: Barron always liked how w'Ixki would stand up for him and advocate for him, making him feel seen
 >> - [[04 Player Characters/Ale\|Ale]]: Barron really liked Ale, especially in tavern situations. He became Barrons favourite drinking partner. Although he did find Ale's affinity for brutal violence a little disturbing
@@ -43,5 +43,5 @@ Being hit with his suitcase causes mental damage
 ## History
 ### [[01 Campaigns/Hidden Ritual/Hidden Ritual\|Hidden Ritual]]
 - He was pulled into a time ritual by [[03 NPCs Assorted/Donald Trump\|Donald Trump]]
-- He ultimately helped in collecting the [[02 Lore/Artefacts/Chronos Rune Stones\|Chronos Rune Stones]] and preventing the ritual from being completed, saving the entire city of [[05 World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/Gefestmere\|Gefestmere]]
+- He ultimately helped in collecting the [[02 Lore/Artefacts/Chronos Rune Stones\|Chronos Rune Stones]] and preventing the ritual from being completed, saving the entire city of [[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere\|Gefestmere]]
 - At the end of this quest, he started up his own business empire and invested in [[04 Player Characters/Amauri De Nucci\|Amauri De Nucci]]'s political campaign helping Amauri secure the Regency

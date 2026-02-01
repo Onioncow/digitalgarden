@@ -7,7 +7,7 @@
 >>- Age: 309
 >>- Race: Half-[[02 Lore/Bestiary/Elf\|Elf]], Half-[[02 Lore/Bestiary/Human\|Human]]
 >>- Gender: Male
->>- Home: [[05 World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/Gefestmere\|Gefestmere]]
+>>- Home: [[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere\|Gefestmere]]
 >>- Titles: Lord Regent 
 
 

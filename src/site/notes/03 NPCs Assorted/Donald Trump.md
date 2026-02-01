@@ -7,7 +7,7 @@
 >>- Age: Unknown
 >>- Race: [[02 Lore/Bestiary/Human\|Human]] (Vampire)
 >>- Gender: Male
->>- Home: [[05 World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/Gefestmere\|Gefestmere]]
+>>- Home: [[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere\|Gefestmere]]
 >>- Titles:
 
 
@@ -36,7 +36,7 @@ He has many material possessions but nothing of note.
 >> - Niklaus: a loyal servant
 
 ## History
-Many hundreds of years ago, Donald Trump was turned into a vampire spawn by his father. It wasn't long before Donald drank his own fathers blood and killed him so he could ascend to be a full on vampire and take over his fathers businesses and assets. Donald became the richest person in [[05 World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/Gefestmere\|Gefestmere]] with assets all over the city and even outside the city. It was relatively recently that he met the love of his life, [[03 NPCs Assorted/Sleepy Joe\|Sleepy Joe]] Biden, and they adopted a child ([[03 NPCs Assorted/Barron Trump\|Barron Trump]]) together.
+Many hundreds of years ago, Donald Trump was turned into a vampire spawn by his father. It wasn't long before Donald drank his own fathers blood and killed him so he could ascend to be a full on vampire and take over his fathers businesses and assets. Donald became the richest person in [[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere\|Gefestmere]] with assets all over the city and even outside the city. It was relatively recently that he met the love of his life, [[03 NPCs Assorted/Sleepy Joe\|Sleepy Joe]] Biden, and they adopted a child ([[03 NPCs Assorted/Barron Trump\|Barron Trump]]) together.
 
 ### [[01 Campaigns/Hidden Ritual/Hidden Ritual\|Hidden Ritual]]
 - He attempted to outsmart the [[03 NPCs Assorted/Lord Regent Elegad\|Lord Regent Elegad]] by altering the [[02 Lore/Artefacts/Chronos Rune Stones\|Chronos Rune Stones]] magic via a blood pool he had amassed

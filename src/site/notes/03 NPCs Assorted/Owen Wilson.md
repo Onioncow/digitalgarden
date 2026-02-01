@@ -7,12 +7,12 @@
 >>- Age: 38
 >>- Race: [[02 Lore/Bestiary/Human\|Human]]
 >>- Gender: Male
->>- Home: [[05 World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/Gefestmere\|Gefestmere]]
+>>- Home: [[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere\|Gefestmere]]
 >>- Titles: Champion of the Arena
 
 
 ## Description
-An easy going honorary Aristocrat. His prowess in the arena of [[05 World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/Gefestmere\|Gefestmere]] has earned him many accolades. He does like to show off his champions armour though and can often be found in his ornate plate.  
+An easy going honorary Aristocrat. His prowess in the arena of [[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere\|Gefestmere]] has earned him many accolades. He does like to show off his champions armour though and can often be found in his ornate plate.  
 
 ## Personality
 He's very easy going and little clueless. He's not the most observant, but always means well and loves signing things for his fans.

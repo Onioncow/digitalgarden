@@ -7,8 +7,8 @@
 >>- Age: Unknown
 >>- Race: [[02 Lore/Bestiary/Dragons\|Dragons]]
 >>- Gender: Masculine
->>- Home: [[05 World/Material Plane/_Points of Interest/Bayle's Peak\|Bayle's Peak]], [[05 World/Material Plane/_Geography/Land/Gladenlil\|Gladenlil]]
->>- Titles: The Dread, Bayle The Dread, The Dread of [[05 World/Material Plane/_Geography/Land/Gladenlil\|Gladenlil]]
+>>- Home: [[05 World/Material Plane/07 Points of Interest/Bayle's Peak\|Bayle's Peak]], [[05 World/Material Plane/01 Geography/Land/Gladenlil\|Gladenlil]]
+>>- Titles: The Dread, Bayle The Dread, The Dread of [[05 World/Material Plane/01 Geography/Land/Gladenlil\|Gladenlil]]
 
 
 Bayle the Dread is one of the Elder Dragons created directly by [[02 Lore/Gods/Primordial Gods/Ymir\|Ymir]]. Arguably the weakest of the three Elder Dragons, Bayle appeared loyal to the [[03 NPCs Assorted/Dragon Lord, Placidusax\|Dragon Lord, Placidusax]] while he schemed for more power to overthrow his master.
@@ -47,7 +47,7 @@ He is quick to anger and viciously violent, often killing for fun and sport.
 >>	- He is more cautious of this one, finding him a more cunning individual that is more discerning of Bayle's intent 
 >
 >>[!danger]+ Non Player Characters
->>- The people of [[05 World/Material Plane/_Geography/Land/Gladenlil\|Gladenlil]]
+>>- The people of [[05 World/Material Plane/01 Geography/Land/Gladenlil\|Gladenlil]]
 >>	- The people that live near his home have learnt to worship this elder dragon in hopes that he wont kill them
 >>
 >>- [[03 NPCs Assorted/Igon\|Igon]]

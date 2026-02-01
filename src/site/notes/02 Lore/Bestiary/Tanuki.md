@@ -11,8 +11,8 @@
 >>- Tags: #Creatures #Species 
 >
 >>[!info]+ Common Locations
->>1. Wooded areas of [[05 World/Material Plane/_Geography/Land/Vitria\|Vitria]]
->>2. Wooded areas of [[05 World/Material Plane/_Geography/Land/Sonipes Mundi\|Sonipes Mundi]]
+>>1. Wooded areas of [[05 World/Material Plane/01 Geography/Land/Vitria\|Vitria]]
+>>2. Wooded areas of [[05 World/Material Plane/01 Geography/Land/Sonipes Mundi\|Sonipes Mundi]]
 
 Tanuki delight in pranks and practical jokes, especially those that allow them to take the high and mighty down a notch and show them what life is like for everyone else. Where other peoples take pride in their storied histories, noble traditions, or intricate ceremonies, tanuki take pride in their simplicity and disregard for the world's many rules. Though some might claim this outlook reduces tanuki to uncouth rubes, tanuki feel it makes them more cultured; after all, one must know a rule to bend it, and one must understand a norm to break it.
 

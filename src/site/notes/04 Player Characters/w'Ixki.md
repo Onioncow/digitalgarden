@@ -7,7 +7,7 @@
 >>- Age: 9
 >>- Race: [[02 Lore/Bestiary/Tripkee\|Tripkee]]
 >>- Gender: Male
->>- Home: [[05 World/Material Plane/_Geography/Land/Vitria#Leaping Bog\|The Leaping Bog]]
+>>- Home: [[05 World/Material Plane/01 Geography/Land/Vitria#Leaping Bog\|The Leaping Bog]]
 >>- Class: Ranger
 >>- Subclass: Monster Slayer
 >
@@ -22,13 +22,13 @@ A 3'3" Grung (tall for a grung) with slimy green skin. His skin oozes a poisonou
 
 ## Personal Quests
 - [ ] The leadership in his home have tasked him with tracking down the red [[02 Lore/Bestiary/Tripkee\|Tripkee]], [[03 NPCs Assorted/l'Gma\|l'Gma]], and bring him back home. 
-- [ ] He has a personal vendetta against the Thieves Guild in [[05 World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/Gefestmere\|Gefestmere]] and is determined to report them to the city guard in every time loop
+- [ ] He has a personal vendetta against the Thieves Guild in [[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere\|Gefestmere]] and is determined to report them to the city guard in every time loop
 
 ## History
 Born on the 2nd Kythorn 1482 (absolute) of the Second Age, he has a Luna first quarter rising and a Devana waxing crescent rising. 
 
 ### Backstory
-As a green [[02 Lore/Bestiary/Tripkee\|Tripkee]], w'Ixki is at the bottom of the Grung hierarchy, often tasked with doing menial labour. A red Grung, a healer, shaman, and adviser, has deserted the village and the higher ups want him tracked down and returned. This task has been given to w'Ixki who managed to track his target down to [[05 World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/Gefestmere\|Gefestmere]].
+As a green [[02 Lore/Bestiary/Tripkee\|Tripkee]], w'Ixki is at the bottom of the Grung hierarchy, often tasked with doing menial labour. A red Grung, a healer, shaman, and adviser, has deserted the village and the higher ups want him tracked down and returned. This task has been given to w'Ixki who managed to track his target down to [[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere\|Gefestmere]].
 
 ### [[01 Campaigns/Hidden Ritual/Hidden Ritual\|Hidden Ritual]]
 

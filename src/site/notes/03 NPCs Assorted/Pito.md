@@ -7,13 +7,13 @@
 >>- Age: 41
 >>- Race: Human?
 >>- Gender: Male
->>- Home: [[05 World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/Gefestmere\|Gefestmere]]
+>>- Home: [[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere\|Gefestmere]]
 >>- Titles: 
 
 ## Description
 He appears to be a tall human dressed in fine fabrics and jewellery. His fingernails are long and claw-like but strangely, his hands appear to be on backwards. His face always appears smug, as if gloating while he bears his golden canine. 
 
-He is the head of the Merchants Guild in [[05 World/Material Plane/Kingdom of Unurid/Cities/Gefestmere/Gefestmere\|Gefestmere]] and is considered one of, if not the, richest people in the city.
+He is the head of the Merchants Guild in [[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere\|Gefestmere]] and is considered one of, if not the, richest people in the city.
 ## Personality
 A smug aristocrat. He's not one for choosing direct violence, but he enjoys inflicting it in more underhanded ways. Many would describe him as slimy.
 

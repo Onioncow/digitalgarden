@@ -7,7 +7,7 @@
 >>- Age: Unknown
 >>- Race: [[02 Lore/Bestiary/Dragons\|Dragons]]
 >>- Gender: Feminine
->>- Home: [[05 World/Material Plane/_Geography/Land/The Dragon Isles\|The Dragon Isles]]
+>>- Home: [[05 World/Material Plane/01 Geography/Land/The Dragon Isles\|The Dragon Isles]]
 >>- Titles: The Platinum Dragon, The Silver Scourge, Miasma of the Night
 >
 

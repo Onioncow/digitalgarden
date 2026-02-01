@@ -8,7 +8,7 @@
 >>- Age: Unknown
 >>- Race: [[02 Lore/Bestiary/Dragons\|Dragons]]
 >>- Gender: Unknown
->>- Home: [[05 World/Material Plane/_Geography/Land/The Dragon Isles\|The Dragon Isles]]
+>>- Home: [[05 World/Material Plane/01 Geography/Land/The Dragon Isles\|The Dragon Isles]]
 >>- Titles: Dragon Lord, King of the Dragons, Ymir's Chosen
 
 

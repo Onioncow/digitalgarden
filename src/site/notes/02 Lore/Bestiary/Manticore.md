@@ -11,14 +11,14 @@
 >>- Tags: #Creatures #Species #Beast
 >
 >>[!info]+ Common Locations
->>- [[05 World/Material Plane/_Geography/Land/Vitria#River Magnum\|Vitria#River Magnum]]
->>  - [[05 World/Material Plane/_Geography/Land/Vitria#Mediwood\|Vitria#Mediwood]]
->>  - [[05 World/Material Plane/_Geography/Land/Vitria#Blackrock Forest Novum\|Vitria#Blackrock Forest Novum]]
->>  - [[05 World/Material Plane/_Geography/Land/Gladenlil#Head of the Spear\|Gladenlil#Head of the Spear]]
->>  - [[05 World/Material Plane/_Geography/Land/Sonipes Mundi#Eastern Sonipes\|Sonipes Mundi#Eastern Sonipes]]
->>  - [[05 World/Material Plane/_Geography/Land/Sonipes Mundi#The Horned Coast\|Sonipes Mundi#The Horned Coast]]
->>  - [[05 World/Material Plane/_Geography/Land/Condeus#Eastern Condeus\|Condeus#Eastern Condeus]]
->>  - [[05 World/Material Plane/_Geography/Land/Condeus#The Riverwood\|Condeus#The Riverwood]]
+>>- [[05 World/Material Plane/01 Geography/Land/Vitria#River Magnum\|Vitria#River Magnum]]
+>>  - [[05 World/Material Plane/01 Geography/Land/Vitria#Mediwood\|Vitria#Mediwood]]
+>>  - [[05 World/Material Plane/01 Geography/Land/Vitria#Blackrock Forest Novum\|Vitria#Blackrock Forest Novum]]
+>>  - [[05 World/Material Plane/01 Geography/Land/Gladenlil#Head of the Spear\|Gladenlil#Head of the Spear]]
+>>  - [[05 World/Material Plane/01 Geography/Land/Sonipes Mundi#Eastern Sonipes\|Sonipes Mundi#Eastern Sonipes]]
+>>  - [[05 World/Material Plane/01 Geography/Land/Sonipes Mundi#The Horned Coast\|Sonipes Mundi#The Horned Coast]]
+>>  - [[05 World/Material Plane/01 Geography/Land/Condeus#Eastern Condeus\|Condeus#Eastern Condeus]]
+>>  - [[05 World/Material Plane/01 Geography/Land/Condeus#The Riverwood\|Condeus#The Riverwood]]
 
 
 A manticore is a monstrous amalgamation of lion, dragon, and human with a penchant for feasting on human flesh. Its distinctive tail is festooned with large quills like those of a porcupine, which the manticore flings at prey by whipping its tail like a sling. These deadly spikes give the manticore the power to slaughter even well-armed warriors from the safety of the sky.  
