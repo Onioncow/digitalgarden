@@ -18,7 +18,7 @@
 >>**Gambling is strictly prohibited** due to the growing Temperance faction in city politics
 >
 >>[!tldr]+ Holidays, Events, and Celebrations
->>- 1st Eleint to Highharvestide: Harvest Festival and celebration of [[02 Lore/Gods/Planar Gods/Felonia - God of Agriculture and Harvest\|Felonia - God of Agriculture and Harvest]]
+>>- 1st Eleint to Highharvestide: Harvest Festival and celebration of [[02 Lore/Gods/Planar Gods/Jaidi\|Jaidi]]
 >
 >>[!note]+ Additional Notes
 >>- They have animated armour to help the city guard
@@ -35,7 +35,7 @@
 >- The Temperance Faction (aka, the Eternal Night Society)
 >- The Merchants Guild
 >- The Artists Guild
->- The Church of [[02 Lore/Gods/Planar Gods/Felonia - God of Agriculture and Harvest\|Felonia - God of Agriculture and Harvest]]
+>- The Church of [[02 Lore/Gods/Planar Gods/Jaidi\|Jaidi]]
 >>[!info]+ Minor Factions
 >>- The Thieves Guild
 >>- The Smugglers
