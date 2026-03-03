@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-np-cs-assorted/lord-regent-elegad/","tags":["npc","#secret"]}
+{"dg-publish":true,"permalink":"/03-np-cs-assorted/lord-regent-elegad/","tags":["npc"]}
 ---
 
 >[!blank|float-right-large]

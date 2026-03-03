@@ -62,8 +62,3 @@ Dragons have no common relationship to religion. They may have been born directl
 
 
 
-
-
-
-
-

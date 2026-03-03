@@ -17,15 +17,11 @@
 >>- He holds a grudge against the musician, [[05 World/Material Plane/03 Cities/Gefestmere/NPC's/Martin (DEAD)\|Martin]] 
 >>	- Martin is also the reason he is caught up in the ritual to begin with
 >>	- He was able to kill Martin in one of the timelines though
->>- [[03 NPCs Assorted/Titivilus\|Titivilus]] currently owns his soul and can condemn Ale to an eternity in hell at any time
-
+>>- [[03 NPCs Assorted/Titivilus\|Titivilus]] currently owns his soul and can condemn Ale to an eternity in hell at any timelines
 
 ## Description
 A short human male, standing at around 5'1, with green hair and a strong build. He has a pendent displaying the holy image of [[02 Lore/Gods/Planar Gods/Gurzil\|Gurzil]] - around his neck.
 
-## Personal Quests
-- [x] To find [[05 World/Material Plane/03 Cities/Gefestmere/NPC's/Martin (DEAD)\|Martin]] and take his revenge by killing him
-- [x] To retrieve his soul from [[03 NPCs Assorted/Titivilus\|Titivilus]]
 
 ## History
 ### Backstory
