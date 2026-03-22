@@ -17,8 +17,6 @@
 
 ## Description
 
-## Personal Quests
-
 
 ## History
 

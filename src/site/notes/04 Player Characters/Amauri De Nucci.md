@@ -10,6 +10,7 @@
 >>- Home: [[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere\|Gefestmere]]
 >>- Class: Wizard
 >>- Subclass: Blade Singer
+>>- Campaign: [[01 Campaigns/Hidden Ritual/Hidden Ritual\|Hidden Ritual]]
 >
 >>[!tldr]+ NPC Relationships
 >>- [[05 World/Material Plane/03 Cities/Gefestmere/NPC's/Niklaus\|Niklaus]]
@@ -18,19 +19,15 @@
 >>- Has a familiar: [[04 Player Characters/Companions/Wine\|Wine]]
 
 
-## Description
-
-
-## Personal Quests
-- [ ] As a lower ranked noble, Amauri is trying to amass more power and become a prominent figure in [[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere\|Gefestmere]]
-- [ ] He is searching for immortality through his connections in the Eternal Night Society
-
 ## History
-### Backstory
 - He joined the Temperance faction of [[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere\|Gefestmere]] on his journey to become immortal.
 - He was a diligent member, pushing for a purified [[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere\|Gefestmere]] and helping the faction become one of the more powerful political factions in the city and region.
-### [[01 Campaigns/Hidden Ritual/Hidden Ritual\|Hidden Ritual]]
+- The ultimate goal of this faction was that of Vampire Supremacy, realising a world without the sun
 
+### [[01 Campaigns/Hidden Ritual/Hidden Ritual\|Hidden Ritual]]
+Amauri's faction ultimately betrayed him, having him inducted into a time altering ritual, one that would result in an eternal night. While Amauri had hoped to see this eternal night for himself as an immortal vampire, [[03 NPCs Assorted/Donald Trump\|Donald Trump]] saw things differently, wanting the power exclusively for himself and his inner circle. Amauri was just a sacrificial lamb. However, he along with a party of other victims of this ritual, uncovered the truth and thwarted these schemes.
+
+After the events of the ritual, Amauri De Nucci attempted to seize power in [[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere\|Gefestmere]] with [[03 NPCs Assorted/Wilhye\|Wilhye]] as his running mate and was ultimately successful despite [[03 NPCs Assorted/Pito\|Pito]]'s efforts.
 
 
 
