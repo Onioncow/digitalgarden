@@ -13,8 +13,7 @@
 >>[!info]+ Common Locations
 >>1. [[05 World/Material Plane/01 Geography/Land/The Dragon Isles\|The Dragon Isles]]
 >>2. [[05 World/Material Plane/01 Geography/Land/Gladenlil\|Gladenlil]]
->>3. [[05 World/Material Plane/01 Geography/Land/Condeus#Celestial Springs\|Condeus#Celestial Springs]]
->>4. [[05 World/Material Plane/01 Geography/Land/Condeus#Wyrmcrest Range\|Condeus#Wyrmcrest Range]]
+>>3. [[05 World/Material Plane/01 Geography/Land/Condeus\|Condeus]]
 
 _Lizardfolk are scaled humanoids with a history that stretches into the distant past._  
   

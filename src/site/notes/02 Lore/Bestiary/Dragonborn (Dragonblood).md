@@ -10,7 +10,8 @@
 >>- Tags: #Creatures #Species #Humanoid #Dragon #Heritage
 >
 >>[!info]+ Common Locations
->>1. Item 1
+>>1. [[05 World/Material Plane/01 Geography/Land/The Dragon Isles\|The Dragon Isles]]
+>>2. [[05 World/Material Plane/01 Geography/Land/Sonipes Mundi\|Sonipes Mundi]]
 
 Not really a race in their own right, Dragonborn (or Dragonblood heritage) creatures are Humans or other creatures, crossed with [[02 Lore/Bestiary/Dragons\|Dragons]]. This usually occurs from a Dragon taking the form of a mortal, and producing offspring.
 

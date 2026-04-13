@@ -21,7 +21,7 @@ Dragons are often accompanied by [[02 Lore/Bestiary/Dragonborn (Dragonblood)\|Dr
 ## Sub-races
 
 >[!info]+ Elder Dragons 
->Elder dragons are the oldest and most powerful dragons, commanding reverence and fear wherever they appear. They were born directly from [[02 Lore/Gods/Primordial Gods/Ymir\|Ymir]], before time even started, with [[03 NPCs Assorted/Dragon Lord, Placidusax\|Dragon Lord, Placidusax]] being the first.
+>Elder dragons (or Archdragons) are the oldest and most powerful dragons, commanding reverence and fear wherever they appear. They were born directly from [[02 Lore/Gods/Primordial Gods/Ymir\|Ymir]], before time even started, with [[03 NPCs Assorted/Dragon Lord, Placidusax\|Dragon Lord, Placidusax]] being the first.
 >>[!example]+ Known Elder Dragons 
 >>- [[03 NPCs Assorted/Dragon Lord, Placidusax\|Dragon Lord, Placidusax]]
 >>- [[03 NPCs Assorted/Caligo, Miasma of the Night\|Caligo, Miasma of the Night]]
