@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-dm-screen/references/conditions-and-states/"}
+{"dg-publish":true,"permalink":"/z-dm-screen/references/conditions-and-states/","dg-note-properties":{}}
 ---
 
 # Blinded 

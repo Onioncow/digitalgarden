@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-cannibal-grung-pages/material-plane-maps/"}
+{"dg-publish":true,"permalink":"/z-cannibal-grung-pages/material-plane-maps/","dg-note-properties":{}}
 ---
 
 # Maps

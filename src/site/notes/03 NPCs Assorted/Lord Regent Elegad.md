@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-np-cs-assorted/lord-regent-elegad/","tags":["npc"]}
+{"dg-publish":true,"permalink":"/03-np-cs-assorted/lord-regent-elegad/","tags":["npc"],"dg-note-properties":{"tags":["npc"],"Race":"[[02 Lore/Bestiary/Elf\|Elf]]","Gender":"Male","Titles":["Lord Regent"],"Age":"309","Status":"Dead","currentLocation":"[[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere\|Gefestmere]]","cssclasses":["wide-page"]}}
 ---
 
 >[!blank|float-right-large]

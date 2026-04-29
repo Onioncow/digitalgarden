@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-np-cs-assorted/wilhye/","tags":["npc"]}
+{"dg-publish":true,"permalink":"/03-np-cs-assorted/wilhye/","tags":["npc"],"dg-note-properties":{"tags":["npc"],"Race":"[[Human]]","Gender":"Male","Titles":null,"Age":"Unknown","Status":"Alive","currentLocation":"[[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere\|Gefestmere]]","cssclasses":["wide-page"]}}
 ---
 
 >[!blank|float-right-large]

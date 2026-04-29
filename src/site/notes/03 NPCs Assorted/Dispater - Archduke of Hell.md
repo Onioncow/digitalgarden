@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-np-cs-assorted/dispater-archduke-of-hell/","tags":["npc"]}
+{"dg-publish":true,"permalink":"/03-np-cs-assorted/dispater-archduke-of-hell/","tags":["npc"],"dg-note-properties":{"tags":["npc"],"Race":"[[Devils]]","Gender":"Masculine","Titles":["Archdevil","Archduke of Hell","Archduke of Dis","The Iron Duke","The Father of Strife"],"Age":"Unknown","Status":"Alive","currentLocation":"[[05 World/Nine Hells/2nd Layer - Dis/Map Locations/City of Dis\|City of Dis]]","cssclasses":["wide-page"]}}
 ---
 
 >[!blank|float-right-large]

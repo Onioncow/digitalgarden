@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-lore/bestiary/devils/"}
+{"dg-publish":true,"permalink":"/02-lore/bestiary/devils/","dg-note-properties":{"CommonLocations":["[Nine Hells]]"],"CreatureType":"Fiend","cssclasses":["wide-page"],"Pfp":"[[Pasted image 20250706220944.png](/img/user/05%20World/Nine%20Hells/Nine%20Hells.md)"}}
 ---
 
 >[!blank|float-right-large]

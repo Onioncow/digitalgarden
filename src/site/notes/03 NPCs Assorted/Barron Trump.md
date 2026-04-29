@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-np-cs-assorted/barron-trump/","tags":["npc"]}
+{"dg-publish":true,"permalink":"/03-np-cs-assorted/barron-trump/","tags":["npc"],"dg-note-properties":{"tags":["npc"],"Race":"[[02 Lore/Bestiary/Human\|Human]]","Gender":"Male","Titles":["Elden Lord","Saviour of the Wasteland"],"Age":"19 (as of 1491)","Status":"Alive","currentLocation":"[[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere\|Gefestmere]]","cssclasses":["wide-page"]}}
 ---
 
 

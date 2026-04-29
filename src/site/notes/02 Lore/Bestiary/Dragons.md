@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-lore/bestiary/dragons/"}
+{"dg-publish":true,"permalink":"/02-lore/bestiary/dragons/","dg-note-properties":{"CommonLocations":["[The Dragon Isles]]"],"CreatureType":"Dragon","cssclasses":["wide-page"],"Pfp":"[[Pasted image 20250425001635.png](/img/user/05%20World/Material%20Plane/01%20Geography/Land/The%20Dragon%20Isles.md)"}}
 ---
 
 >[!blank|float-right-large]
@@ -40,7 +40,196 @@ Dragons are often accompanied by [[02 Lore/Bestiary/Dragonborn (Dragonblood)\|Dr
 >Lesser dragons are creatures that have descended from dragons. There are a whole range of sub-species that range from intelligent to beats.
 
 ##### List of Lesser Dragons:
-![[Base_Bestiary.base#Dragons]]
+
+```base
+views:
+  - type: table
+    name: Main Bestiary
+    filters:
+      and:
+        - file.hasTag("Creatures")
+        - not:
+            - file.inFolder("z_Templates")
+    groupBy:
+      property: CreatureType
+      direction: ASC
+    order:
+      - file.name
+      - CreatureType
+      - CommonLocations
+      - file.tags
+    sort:
+      - property: CreatureType
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.CommonLocations: 321
+    rowHeight: tall
+  - type: cards
+    name: Main Bestiary Cards
+    filters:
+      and:
+        - file.hasTag("Creatures")
+        - not:
+            - file.inFolder("z_Templates")
+    groupBy:
+      property: CreatureType
+      direction: ASC
+    order:
+      - file.name
+      - CreatureType
+      - CommonLocations
+      - file.tags
+    sort:
+      - property: CreatureType
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.CommonLocations: 321
+    rowHeight: tall
+    cardSize: 370
+    image: note.Pfp
+  - type: table
+    name: Dragons
+    filters:
+      and:
+        - file.hasTag("Dragon")
+        - not:
+            - file.name == "Dragons"
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Vitria
+    filters:
+      and:
+        - file.hasTag("Creatures")
+        - not:
+            - file.inFolder("z_Templates")
+        - CommonLocations.contains(link("Vitria"))
+    order:
+      - file.name
+      - CreatureType
+      - file.tags
+      - CommonLocations
+    sort:
+      - property: CreatureType
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.CommonLocations: 321
+    rowHeight: medium
+  - type: table
+    name: Dragon Isles
+    filters:
+      and:
+        - file.hasTag("Creatures")
+        - not:
+            - file.inFolder("z_Templates")
+        - CommonLocations.contains(link("The Dragon Isles"))
+    order:
+      - file.name
+      - CreatureType
+      - file.tags
+      - CommonLocations
+    sort:
+      - property: CreatureType
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.CommonLocations: 321
+    rowHeight: medium
+  - type: table
+    name: Tercus
+    filters:
+      and:
+        - file.hasTag("Creatures")
+        - not:
+            - file.inFolder("z_Templates")
+        - CommonLocations.contains(link("Tercus"))
+    order:
+      - file.name
+      - CreatureType
+      - file.tags
+      - CommonLocations
+    sort:
+      - property: CreatureType
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.CommonLocations: 321
+    rowHeight: medium
+  - type: table
+    name: Sonipes Mundi
+    filters:
+      and:
+        - file.hasTag("Creatures")
+        - not:
+            - file.inFolder("z_Templates")
+        - CommonLocations.contains(link("Sonipes Mundi"))
+    order:
+      - file.name
+      - CreatureType
+      - file.tags
+      - CommonLocations
+    sort:
+      - property: CreatureType
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.CommonLocations: 321
+    rowHeight: medium
+  - type: table
+    name: Gladenil
+    filters:
+      and:
+        - file.hasTag("Creatures")
+        - not:
+            - file.inFolder("z_Templates")
+        - CommonLocations.contains(link("Gladenlil"))
+    order:
+      - file.name
+      - CreatureType
+      - file.tags
+      - CommonLocations
+    sort:
+      - property: CreatureType
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.CommonLocations: 321
+    rowHeight: medium
+  - type: table
+    name: Condeus
+    filters:
+      and:
+        - file.hasTag("Creatures")
+        - not:
+            - file.inFolder("z_Templates")
+        - CommonLocations.contains(link("Condeus"))
+    order:
+      - file.name
+      - CreatureType
+      - file.tags
+      - CommonLocations
+    sort:
+      - property: CreatureType
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.CommonLocations: 321
+    rowHeight: medium
+
+```
+
 
 ## History
 Dragons are the oldest creatures in the [[05 World/Material Plane/Material Plane\|Material Plane]]. They existed during [[02 Lore/Ages/01 - The Mythic Age\|01 - The Mythic Age]] before [[02 Lore/Gods/Primordial Gods/Chronos\|Chronos]] began time. In the [[02 Lore/Ages/01 - The Mythic Age\|01 - The Mythic Age]], the Dragons ruled the world with [[03 NPCs Assorted/Dragon Lord, Placidusax\|Dragon Lord, Placidusax]] as their Monarch sitting on the old draconic throne that existed in what is now [[05 World/Material Plane/02 Nations/Celestria\|Celestria]]. 

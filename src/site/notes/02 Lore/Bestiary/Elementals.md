@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-lore/bestiary/elementals/"}
+{"dg-publish":true,"permalink":"/02-lore/bestiary/elementals/","dg-note-properties":{"CommonLocations":null,"CreatureType":"Elemental","cssclasses":["wide-page"],"Pfp":"[Pasted image 20250425001739.png](/img/user/z_Assets/Pasted%20image%2020250425001739.png)"}}
 ---
 
 >[!blank|float-right-large]

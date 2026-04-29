@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-lore/artefacts/chronos-rune-stones/"}
+{"dg-publish":true,"permalink":"/02-lore/artefacts/chronos-rune-stones/","dg-note-properties":{"currentLocation":"[[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere\|Gefestmere]]","cssclasses":["wide-page"]}}
 ---
 
 >[!blank|float-right-medium]

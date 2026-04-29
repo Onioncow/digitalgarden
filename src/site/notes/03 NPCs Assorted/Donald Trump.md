@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-np-cs-assorted/donald-trump/","tags":["npc"]}
+{"dg-publish":true,"permalink":"/03-np-cs-assorted/donald-trump/","tags":["npc"],"dg-note-properties":{"tags":["npc"],"Race":"[[02 Lore/Bestiary/Human\|Human]]","Gender":"Male","Titles":null,"Age":"Unknown","Status":"Alive","currentLocation":"Unknown","cssclasses":["wide-page"]}}
 ---
 
 >[!blank|float-right-large]

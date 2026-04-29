@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-lore/bestiary/human/"}
+{"dg-publish":true,"permalink":"/02-lore/bestiary/human/","dg-note-properties":{"CommonLocations":["[[Vitria]]","[[Condeus]]","[[Gladenlil]]","[[Sonipes Mundi]]","[[Tercus]]"],"CreatureType":"Humanoid","cssclasses":["wide-page"],"Pfp":"[[Pasted image 20250706162350.png]]"}}
 ---
 
 >[!blank|float-right-large]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-np-cs-assorted/igon/","tags":["npc"]}
+{"dg-publish":true,"permalink":"/03-np-cs-assorted/igon/","tags":["npc"],"dg-note-properties":{"tags":["npc"],"Race":"[[02 Lore/Bestiary/Human\|Human]]","Gender":"Male","Titles":["The Drake Warrior"],"Age":"74 (as of 1491)","Status":"Alive","currentLocation":"Unknown","cssclasses":["wide-page"]}}
 ---
 
 >[!blank|float-right-large]

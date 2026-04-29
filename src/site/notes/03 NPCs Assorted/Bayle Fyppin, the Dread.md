@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-np-cs-assorted/bayle-fyppin-the-dread/","tags":["npc"]}
+{"dg-publish":true,"permalink":"/03-np-cs-assorted/bayle-fyppin-the-dread/","tags":["npc"],"dg-note-properties":{"tags":["npc"],"Race":"[[Dragons]]","Gender":"Masculine","Titles":["The Dread","The Dread of Gladenlil"],"Age":"Unknown","Status":"Alive","currentLocation":"[[Gefestmere]]","cssclasses":["wide-page"]}}
 ---
 
 >[!blank|float-right-large]

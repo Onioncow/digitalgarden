@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-world/nine-hells/2nd-layer-dis/map-locations/city-of-dis/"}
+{"dg-publish":true,"permalink":"/05-world/nine-hells/2nd-layer-dis/map-locations/city-of-dis/","dg-note-properties":{}}
 ---
 
 Several miles tall and hundreds across,[18] to call Dis a vast maze of a city was an understatement; it was a labyrinthine[8] and disorienting place almost-constantly defying possibility, where one could truly wander the streets forever and get nowhere for the effort.[11] The residents eagerly conned and cajoled the visitors,[15] uncovered secrets were sold to the highest bidder,[12] and Dispater dispensed his own paranoid brand of justice.[19] A plane of heat and pain, the layer perfectly reflected its infernal master.[20] Like Avernus above it, it was a reality where the forces of fire and earth were magnified, but went a step further by rendering magic of air and water not just diminished, but totally impotent.[8][21] Any who fail to show caution were likely to get burned in more ways than one.[15]

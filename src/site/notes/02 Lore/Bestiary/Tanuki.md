@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-lore/bestiary/tanuki/"}
+{"dg-publish":true,"permalink":"/02-lore/bestiary/tanuki/","dg-note-properties":{"CommonLocations":["[Vitria]]","[[05 World/Material Plane/01 Geography/Land/Sonipes Mundi\|Sonipes Mundi]]"],"CreatureType":"Humanoid","cssclasses":["wide-page"],"Pfp":"[[Pasted image 20250706012300.png](/img/user/05%20World/Material%20Plane/01%20Geography/Land/Vitria.md)","aliases":["Mapach"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-lore/bestiary/rakshasa/"}
+{"dg-publish":true,"permalink":"/02-lore/bestiary/rakshasa/","dg-note-properties":{"CommonLocations":null,"CreatureType":"Spirit","cssclasses":["wide-page"],"Pfp":"[Rakshasa.png](/img/user/z_Assets/Rakshasa.png)"}}
 ---
 
 

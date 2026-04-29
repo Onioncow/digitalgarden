@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-player-characters/moon-elder-root/","tags":["PC"]}
+{"dg-publish":true,"permalink":"/04-player-characters/moon-elder-root/","tags":["PC"],"dg-note-properties":{"tags":["PC"],"Race":"Leshy","Gender":"Male","Age":null,"Class":"Kineticist","Level":1,"Status":"Alive","Player":"Jake","Campaign":"[[One Shot Fellas]]","AC":17,"PP":14,"SpecialFeatures":"Cult Lore","cssclasses":["wide-page"],"Pfp":"[[Moon Elder Root.png]]"}}
 ---
 
 >[!blank|float-right-large]

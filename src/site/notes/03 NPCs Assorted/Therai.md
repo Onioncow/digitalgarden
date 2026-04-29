@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-np-cs-assorted/therai/","tags":["npc"]}
+{"dg-publish":true,"permalink":"/03-np-cs-assorted/therai/","tags":["npc"],"dg-note-properties":{"tags":["npc"],"Race":"Nephilim","Gender":"Non-Binary","Titles":null,"Age":"32 (as of 1491)","Status":"Alive","currentLocation":"Unknown","cssclasses":["wide-page"]}}
 ---
 
 >[!blank|float-right-large]

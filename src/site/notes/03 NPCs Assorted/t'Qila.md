@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-np-cs-assorted/t-qila/","tags":["npc"]}
+{"dg-publish":true,"permalink":"/03-np-cs-assorted/t-qila/","tags":["npc"],"dg-note-properties":{"tags":["npc"],"Race":"[[Tripkee]]","Gender":"Male","Titles":null,"Age":"9 (as of 1491)","Status":"Alive","currentLocation":"Brokeback Mountain","cssclasses":["wide-page"]}}
 ---
 
 >[!blank|float-right-large]

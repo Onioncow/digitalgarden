@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-world/nine-hells/2nd-layer-dis/map-locations/agora-of-floating-knives/"}
+{"dg-publish":true,"permalink":"/05-world/nine-hells/2nd-layer-dis/map-locations/agora-of-floating-knives/","dg-note-properties":{}}
 ---
 
 The Agora of Floating Knives is one of the largest trading hubs in the known planes and is welcoming to non-devils.

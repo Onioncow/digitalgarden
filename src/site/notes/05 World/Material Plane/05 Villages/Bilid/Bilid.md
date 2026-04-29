@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-world/material-plane/05-villages/bilid/bilid/","tags":["#Settlement"]}
+{"dg-publish":true,"permalink":"/05-world/material-plane/05-villages/bilid/bilid/","tags":["#Settlement"],"dg-note-properties":{"cssclasses":["wide-page"],"Type":"Village","Nation":"[[05 World/Material Plane/02 Nations/Kaplin\|Kaplin]]","tags":["#Settlement"]}}
 ---
 
 ![Forest Village 02.jpeg](/img/user/z_Assets/Forest%20Village%2002.jpeg)

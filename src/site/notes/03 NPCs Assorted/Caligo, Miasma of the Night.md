@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-np-cs-assorted/caligo-miasma-of-the-night/","tags":["npc"]}
+{"dg-publish":true,"permalink":"/03-np-cs-assorted/caligo-miasma-of-the-night/","tags":["npc"],"dg-note-properties":{"tags":["npc"],"Race":"[[Dragons]]","Gender":"Feminine","Titles":["The Platinum Dragon","The Silver Scourge"],"Age":"Unknown","Status":"Alive","currentLocation":"[[Caligo's Rest]]","cssclasses":["wide-page"]}}
 ---
 
 >[!blank|float-right-large]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-world/nine-hells/2nd-layer-dis/map-locations/garden-of-delight/"}
+{"dg-publish":true,"permalink":"/05-world/nine-hells/2nd-layer-dis/map-locations/garden-of-delight/","dg-note-properties":{}}
 ---
 
 Devils from all layers are known to travel to Dis solely for the Garden, where all manner of luxuries and pleasures can be enjoyed. The Garden provides the income needed to improve [[03 NPCs Assorted/Dispater - Archduke of Hell\|Dispater - Archduke of Hell]]'s city and armies, and it keeps his citizens happy. The Garden also serves as a distraction for the denizens of the Nine Hells from the tortures of everyday existence in this bleak place. However, the characters are mortal beings and the illusions found inside overwhelm their minds. If they explore the Garden of Delights, they become enchanted by its beauty and may forget themselves. For considerable time they're unable to remember their mission and wander the Garden aimlessly.

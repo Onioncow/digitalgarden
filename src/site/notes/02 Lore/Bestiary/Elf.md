@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-lore/bestiary/elf/"}
+{"dg-publish":true,"permalink":"/02-lore/bestiary/elf/","dg-note-properties":{"CommonLocations":["[Vitria]]","[[05 World/Material Plane/01 Geography/Land/Condeus\|Condeus]]","[[Gladenlil]]"],"CreatureType":"Humanoid","cssclasses":["wide-page"],"Pfp":"[[Pasted image 20250706153512.png](/img/user/05%20World/Material%20Plane/01%20Geography/Land/Vitria.md)","aliases":["Elves"]}}
 ---
 
 >[!blank|float-right-large]

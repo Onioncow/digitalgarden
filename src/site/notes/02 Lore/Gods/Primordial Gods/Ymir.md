@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-lore/gods/primordial-gods/ymir/","tags":["God"]}
+{"dg-publish":true,"permalink":"/02-lore/gods/primordial-gods/ymir/","tags":["God"],"dg-note-properties":{"tags":["God"],"GodLevel":"Primordial","Domain":"Creation"}}
 ---
 
 >[!blank|float-right-small]

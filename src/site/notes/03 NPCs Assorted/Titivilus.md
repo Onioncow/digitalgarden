@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-np-cs-assorted/titivilus/","tags":["npc"]}
+{"dg-publish":true,"permalink":"/03-np-cs-assorted/titivilus/","tags":["npc"],"dg-note-properties":{"tags":["npc"],"Race":"[[Devils]]","Gender":"Male","Titles":["Nuncio of Dispater"],"Age":"Unknown","Status":"Alive","currentLocation":"[[05 World/Nine Hells/2nd Layer - Dis/Map Locations/City of Dis\|City of Dis]]","cssclasses":["wide-page"]}}
 ---
 
 >[!blank|float-right-large]

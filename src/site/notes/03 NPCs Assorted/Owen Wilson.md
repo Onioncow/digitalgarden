@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-np-cs-assorted/owen-wilson/","tags":["npc"]}
+{"dg-publish":true,"permalink":"/03-np-cs-assorted/owen-wilson/","tags":["npc"],"dg-note-properties":{"tags":["npc"],"Race":"[[02 Lore/Bestiary/Human\|Human]]","Gender":"Male","Titles":["Champion of the Arena"],"Age":"38 (as of 1491)","Status":"Alive","currentLocation":"[[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere\|Gefestmere]]","cssclasses":["wide-page"]}}
 ---
 
 >[!blank|float-right-large]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-np-cs-assorted/pito/","tags":["npc"]}
+{"dg-publish":true,"permalink":"/03-np-cs-assorted/pito/","tags":["npc"],"dg-note-properties":{"tags":["npc"],"Race":"Rakshasa","Gender":"Male","Titles":null,"Age":"41 (as of 1491)","Status":"Alive","currentLocation":"[[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere\|Gefestmere]]","cssclasses":["wide-page"]}}
 ---
 
 >[!blank|float-right-large]

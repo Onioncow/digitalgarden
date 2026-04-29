@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-player-characters/amauri-de-nucci/","tags":["PC"]}
+{"dg-publish":true,"permalink":"/04-player-characters/amauri-de-nucci/","tags":["PC"],"dg-note-properties":{"tags":["PC"],"Race":"[[Human]]","Gender":"Male","Age":null,"Class":"Wizard","Level":9,"Status":"Alive","Player":"Lawrie","Campaign":"[[01 Campaigns/Hidden Ritual/Hidden Ritual\|Hidden Ritual]]","AC":15,"PP":13,"SpecialFeatures":"A noble in Gefestmere","cssclasses":["wide-page"],"Pfp":"[[Pasted image 20250508104849.png]]"}}
 ---
 
 >[!blank|float-right-large]

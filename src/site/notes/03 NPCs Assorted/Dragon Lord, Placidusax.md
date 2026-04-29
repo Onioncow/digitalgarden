@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-np-cs-assorted/dragon-lord-placidusax/","tags":["npc"]}
+{"dg-publish":true,"permalink":"/03-np-cs-assorted/dragon-lord-placidusax/","tags":["npc"],"dg-note-properties":{"tags":["npc"],"Race":"[[Dragons]]","Gender":"Unkown","Titles":["Dragon Lord","King of the Dragons","Ymir's Chosen"],"Age":"Unknown","Status":"Alive","currentLocation":"[[The Floating Temple of Placidusax]]","cssclasses":["wide-page"]}}
 ---
 
 

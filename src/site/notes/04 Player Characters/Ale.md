@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-player-characters/ale/","tags":["PC"]}
+{"dg-publish":true,"permalink":"/04-player-characters/ale/","tags":["PC"],"dg-note-properties":{"tags":["PC"],"Race":"[Human]]","Gender":"Male","Age":"45 (as of 1491)","Class":"Cleric","Level":9,"Status":"Alive","Player":"Alex","Campaign":"[[01 Campaigns/Hidden Ritual/Hidden Ritual\|Hidden Ritual]]","AC":19,"PP":13,"SpecialFeatures":"An ex-battle cleric","cssclasses":["wide-page"],"Pfp":"[[Ale token.png](/img/user/02%20Lore/Bestiary/Human.md)"}}
 ---
 
 
@@ -38,5 +38,5 @@ After the ritual ordeal, Ale went out to travel the worlds pubs and taverns, bec
 
 ## Images
 
->![Pasted image 20251022223022.png|300](/img/user/z_Assets/Pasted%20image%2020251022223022.png)
+>![Pasted image 20251022223022.png\|300](/img/user/z_Assets/Pasted%20image%2020251022223022.png)
 >Ale under the shadow of [[03 NPCs Assorted/Bayle Fyppin, the Dread\|Bayle Fyppin, the Dread]]...

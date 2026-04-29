@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-lore/bestiary/centaur/"}
+{"dg-publish":true,"permalink":"/02-lore/bestiary/centaur/","dg-note-properties":{"CommonLocations":["[Gladenlil]]","[[05 World/Material Plane/01 Geography/Land/Condeus\|Condeus]]"],"CreatureType":"Humanoid","cssclasses":["wide-page"],"Pfp":"[[Centaur.png](/img/user/05%20World/Material%20Plane/01%20Geography/Land/Gladenlil.md)"}}
 ---
 
 

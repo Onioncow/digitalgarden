@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-lore/artefacts/the-arcane-pool/"}
+{"dg-publish":true,"permalink":"/02-lore/artefacts/the-arcane-pool/","dg-note-properties":{"currentLocation":"[[Gefestmere]]","cssclasses":["wide-page"]}}
 ---
 
 >[!blank|float-right-medium]

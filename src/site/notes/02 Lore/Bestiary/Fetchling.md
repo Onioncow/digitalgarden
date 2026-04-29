@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-lore/bestiary/fetchling/"}
+{"dg-publish":true,"permalink":"/02-lore/bestiary/fetchling/","dg-note-properties":{"CommonLocations":["[[Condeus]]","[[Gladenlil]]","[[Sonipes Mundi]]","[[Tercus]]","[[Vitria]]","[[02 Lore/Gods/Outer Gods/Void\|Void]]"],"CreatureType":"Humanoid","cssclasses":["wide-page"],"Pfp":"[[Fetchling.png]]"}}
 ---
 
 >[!blank|float-right-large]

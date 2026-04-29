@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-lore/gods/outer-gods/the-great-wheel/","tags":["God"]}
+{"dg-publish":true,"permalink":"/02-lore/gods/outer-gods/the-great-wheel/","tags":["God"],"dg-note-properties":{"tags":["God"],"GodLevel":"Outer","Domain":"Random Chance","aliases":["Chaos"]}}
 ---
 
 >[!blank|float-right-small]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-lore/artefacts/wrought-iron-tower/"}
+{"dg-publish":true,"permalink":"/02-lore/artefacts/wrought-iron-tower/","dg-note-properties":{"currentLocation":"[[Iron Tower of Dispater]]","cssclasses":["wide-page"]}}
 ---
 
 >[!blank|float-right-medium]

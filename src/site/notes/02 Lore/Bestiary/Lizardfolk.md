@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-lore/bestiary/lizardfolk/"}
+{"dg-publish":true,"permalink":"/02-lore/bestiary/lizardfolk/","dg-note-properties":{"CommonLocations":["[The Dragon Isles]]","[[05 World/Material Plane/01 Geography/Land/Gladenlil\|Gladenlil]]","[[05 World/Material Plane/01 Geography/Land/Condeus\|Condeus]]"],"CreatureType":"Humanoid","cssclasses":["wide-page"],"Pfp":"[[Pasted image 20250706180558.png](/img/user/05%20World/Material%20Plane/01%20Geography/Land/The%20Dragon%20Isles.md)"}}
 ---
 
 

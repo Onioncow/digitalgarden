@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-np-cs-assorted/ryan/","tags":["npc"]}
+{"dg-publish":true,"permalink":"/03-np-cs-assorted/ryan/","tags":["npc"],"dg-note-properties":{"tags":["npc"],"Race":"[[02 Lore/Bestiary/Manticore\|Manticore]]","Gender":"Male","Titles":null,"Age":"~90","Status":"Alive","currentLocation":"[[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere\|Gefestmere]]","cssclasses":["wide-page"]}}
 ---
 
 >[!blank|float-right-large]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-lore/bestiary/manticore/"}
+{"dg-publish":true,"permalink":"/02-lore/bestiary/manticore/","dg-note-properties":{"CommonLocations":["[[Vitria]]","[[Gladenlil]]","[[Condeus]]","[[Sonipes Mundi]]"],"CreatureType":"Monstrosity","cssclasses":["wide-page"],"Pfp":"[[Pasted image 20250705155451.png]]"}}
 ---
 
 

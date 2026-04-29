@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-world/material-plane/06-forts/the-shimmering-gate/the-shimmering-gate/","tags":["Fort"]}
+{"dg-publish":true,"permalink":"/05-world/material-plane/06-forts/the-shimmering-gate/the-shimmering-gate/","tags":["Fort"],"dg-note-properties":{"Type":"Fort","Nation":"[[05 World/Material Plane/02 Nations/Celestria\|Celestria]]","tags":["Fort"]}}
 ---
 
 >[!blank|float-right-large]

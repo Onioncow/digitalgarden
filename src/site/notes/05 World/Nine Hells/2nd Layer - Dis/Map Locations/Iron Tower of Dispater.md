@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-world/nine-hells/2nd-layer-dis/map-locations/iron-tower-of-dispater/"}
+{"dg-publish":true,"permalink":"/05-world/nine-hells/2nd-layer-dis/map-locations/iron-tower-of-dispater/","dg-note-properties":{}}
 ---
 
 Though several iron towers decorate the city, none are as large as the Iron Tower, [[03 NPCs Assorted/Dispater - Archduke of Hell\|Dispater - Archduke of Hell]]'s fortress and palace. It is visible from anywhere in the city, and through enchantment magic always appears to be very close. [[03 NPCs Assorted/Dispater - Archduke of Hell\|Dispater - Archduke of Hell]] maintains complete control over the tower—including the capability to shift its form and interiors to match his desires—and the tower can only be entered if he permits. If [[03 NPCs Assorted/Dispater - Archduke of Hell\|Dispater - Archduke of Hell]] has no interest in meeting you, even reaching the tower requires tremendous effort and immense willpower.

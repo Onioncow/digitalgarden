@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-world/material-plane/02-nations/kingdom-of-unurid/","tags":["Nation"]}
+{"dg-publish":true,"permalink":"/05-world/material-plane/02-nations/kingdom-of-unurid/","tags":["Nation"],"dg-note-properties":{"tags":["Nation"],"Governance":"Monarchy","CurrentLeader":"Boden Kahler III","cssclasses":["wide-page"]}}
 ---
 
 >[!blank|float-right-large]

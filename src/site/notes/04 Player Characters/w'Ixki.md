@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-player-characters/w-ixki/","tags":["PC"]}
+{"dg-publish":true,"permalink":"/04-player-characters/w-ixki/","tags":["PC"],"dg-note-properties":{"tags":["PC"],"Race":"[Tripkee]]","Gender":"Male","Age":"9 (as of 1491)","Class":"Ranger","Level":9,"Status":"Alive","Player":"Ilay","Campaign":"[[01 Campaigns/Hidden Ritual/Hidden Ritual\|Hidden Ritual]]","AC":16,"PP":17,"SpecialFeatures":"Poisonous Skin","cssclasses":["wide-page"],"Pfp":"[[Pasted image 20250426211814.png](/img/user/02%20Lore/Bestiary/Tripkee.md)"}}
 ---
 
 >[!blank|float-right-large]
@@ -47,7 +47,7 @@ When [[03 NPCs Assorted/l'Gma\|l'Gma]] ran from the village to [[05 World/Materi
 A few months after the ending of the time loop, (most) the party received two letters. The first, papers filing for the divorce of w’Ixki from the polycule; beneath that, an invitation to the wedding of w’Ixki and t’Qila to be held in just under a year's time. Following the conclusion of the whole ritual affair, w’Ixki spent his time with the sewer [[02 Lore/Bestiary/Tripkee\|grung]] of [[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere\|Gefestmere]]. While t’Qila worked to integrate the sewer [[02 Lore/Bestiary/Tripkee\|grung]] into the city above, w’Ixki took odd bounties further afield for monsters and other undesirables, the proceeds of which going into their shared bank account to save for the construction of a ranch in their favourite fishing spot in the mountains.
 ## Images
 
-> ![image.png|300](/img/user/z_Assets/image.png)
+> ![image.png\|300](/img/user/z_Assets/image.png)
 >w'Ixki at the Inauguration Ball
 
 

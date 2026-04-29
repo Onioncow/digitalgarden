@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-np-cs-assorted/l-gma/","tags":["npc"]}
+{"dg-publish":true,"permalink":"/03-np-cs-assorted/l-gma/","tags":["npc"],"dg-note-properties":{"tags":["npc"],"Race":"[[02 Lore/Bestiary/Tripkee\|Tripkee]]","Gender":"Male","Titles":null,"Age":"9 (as of 1491)","Status":"Alive","currentLocation":"Unknown","cssclasses":["wide-page"]}}
 ---
 
 >[!blank|float-right-large]

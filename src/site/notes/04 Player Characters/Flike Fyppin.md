@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-player-characters/flike-fyppin/","tags":["PC"]}
+{"dg-publish":true,"permalink":"/04-player-characters/flike-fyppin/","tags":["PC"],"dg-note-properties":{"tags":["PC"],"Race":"[Tanuki]]","Gender":"Male","Age":"10 (as of 1491)","Class":"Warlock","Level":9,"Status":"Alive","Player":"Jake","Campaign":"[[01 Campaigns/Hidden Ritual/Hidden Ritual\|Hidden Ritual]]","AC":13,"PP":10,"SpecialFeatures":"[[Magic Wheel Spins]]","cssclasses":["wide-page"],"Pfp":"[[Pasted image 20250507192901.png](/img/user/02%20Lore/Bestiary/Tanuki.md)"}}
 ---
 
 >[!blank|float-right-large]
