@@ -23,11 +23,17 @@ views:
         - file.hasTag("PC")
         - not:
             - file.inFolder("z_Templates")
+    groupBy:
+      property: Campaign
+      direction: ASC
     order:
       - file.name
       - Player
       - Age
       - Gender
+    sort:
+      - property: file.name
+        direction: ASC
   - type: table
     name: Settlements
     filters:
@@ -37,9 +43,11 @@ views:
             - file.inFolder("z_Templates")
     order:
       - file.name
-      - dg-publish
       - Nation
       - Type
+    sort:
+      - property: Nation
+        direction: ASC
 
 ```
 
