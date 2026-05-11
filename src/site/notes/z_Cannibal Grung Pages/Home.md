@@ -12,6 +12,7 @@ views:
       and:
         - file.hasTag("PC")
         - '!file.inFolder("z_Templates")'
+        - note["dg-publish"] == true
     order:
       - file.name
       - Player
@@ -37,6 +38,7 @@ views:
       and:
         - file.hasTag("Settlement")
         - '!file.inFolder("z_Templates")'
+        - note["dg-publish"] == true
     order:
       - file.name
       - Nation
@@ -53,6 +55,7 @@ views:
       and:
         - file.hasTag("npc")
         - '!file.inFolder("z_Templates")'
+        - note["dg-publish"] == true
     order:
       - file.name
       - currentLocation
