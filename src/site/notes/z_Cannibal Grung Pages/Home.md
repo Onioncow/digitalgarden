@@ -2,15 +2,6 @@
 {"dg-publish":true,"permalink":"/z-cannibal-grung-pages/home/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
->[!info]- Quick Links
->- [[04 Player Characters/04 Player Characters\|04 Player Characters]]
->- [[02 Lore/Artefacts/Artefacts\|Artefacts]]
->- [[02 Lore/Bestiary/Bestiary\|02 Lore/Bestiary/Bestiary]]
->- [[02 Lore/Gods/Gods\|Gods]]
->- [[03 NPCs Assorted/03 NPCs Assorted\|NPC's]]
->- [[z_Cannibal Grung Pages/Material Plane Maps\|Material Plane Maps]]
-
-
 
 
 # Player Characters
@@ -23,15 +14,15 @@ views:
         - file.hasTag("PC")
         - not:
             - file.inFolder("z_Templates")
-    groupBy:
-      property: Campaign
-      direction: ASC
     order:
+      - Campaign
       - file.name
       - Player
       - Age
       - Gender
     sort:
+      - property: Campaign
+        direction: ASC
       - property: file.name
         direction: ASC
   - type: table
@@ -42,8 +33,8 @@ views:
         - not:
             - file.inFolder("z_Templates")
     order:
-      - file.name
       - Nation
+      - file.name
       - Type
     sort:
       - property: Nation
