@@ -17,7 +17,7 @@
 ```base
 views:
   - type: table
-    name: Table
+    name: Player Characters
     filters:
       and:
         - file.hasTag("PC")
@@ -28,6 +28,18 @@ views:
       - Player
       - Age
       - Gender
+  - type: table
+    name: Settlements
+    filters:
+      and:
+        - file.hasTag("Settlement")
+        - not:
+            - file.inFolder("z_Templates")
+    order:
+      - file.name
+      - dg-publish
+      - Nation
+      - Type
 
 ```
 
