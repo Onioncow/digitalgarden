@@ -3,6 +3,7 @@
 ---
 
 
+# Player Characters
 ```base
 views:
   - type: table
@@ -26,3 +27,36 @@ views:
       note.Level: 80
 
 ```
+
+# Settlements
+```base
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasTag("Settlement")
+        - '!file.inFolder("z_Templates")'
+    order:
+      - file.name
+      - Nation
+      - Type
+
+```
+
+# Bestiary 
+```base
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasTag("Creatures")
+    order:
+      - file.name
+      - CreatureType
+      - CommonLocations
+
+```
+
+# 
