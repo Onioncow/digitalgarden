@@ -20,6 +20,7 @@ views:
       - CreatureType
       - CommonLocations
       - file.tags
+      - dg-publish
     sort:
       - property: CreatureType
         direction: ASC
