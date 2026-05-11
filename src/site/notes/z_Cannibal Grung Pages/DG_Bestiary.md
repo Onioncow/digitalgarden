@@ -5,7 +5,7 @@
 
 ```base
 views:
-  - type: list
+  - type: table
     name: Table
     filters:
       and:
@@ -14,6 +14,7 @@ views:
         - note["dg-publish"] == true
     order:
       - file.name
+      - CreatureType
 
 ```
 
