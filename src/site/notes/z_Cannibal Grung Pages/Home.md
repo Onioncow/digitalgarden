@@ -24,15 +24,5 @@ views:
         direction: ASC
     columnSize:
       note.Level: 80
-  - type: table
-    name: Settlements
-    filters:
-      and:
-        - file.hasTag("Settlement")
-        - '!file.inFolder("z_Templates")'
-    order:
-      - file.name
-      - Type
-      - Nation
 
 ```
