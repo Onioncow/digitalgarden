@@ -3,8 +3,6 @@
 ---
 
 
-
-# Player Characters
 ```base
 views:
   - type: table
@@ -15,11 +13,11 @@ views:
         - not:
             - file.inFolder("z_Templates")
     order:
-      - Campaign
       - file.name
       - Player
       - Age
       - Gender
+      - Campaign
     sort:
       - property: Campaign
         direction: ASC
@@ -33,11 +31,21 @@ views:
         - not:
             - file.inFolder("z_Templates")
     order:
-      - Nation
       - file.name
       - Type
+      - Nation
+    sort: []
+  - type: table
+    name: Bestiary
+    filters:
+      and:
+        - file.hasTag("Creatures")
+        - '!file.inFolder("z_Templates")'
+    order:
+      - file.name
+      - CreatureType
     sort:
-      - property: Nation
+      - property: CreatureType
         direction: ASC
 
 ```
