@@ -44,19 +44,22 @@ views:
 
 ```
 
-# Bestiary 
+# NPC's  
 ```base
 views:
   - type: table
     name: Table
     filters:
       and:
-        - file.hasTag("Creatures")
+        - file.hasTag("npc")
+        - '!file.inFolder("z_Templates")'
     order:
       - file.name
-      - CreatureType
-      - CommonLocations
+      - currentLocation
+      - Race
+      - Age
+      - Gender
+      - Status
 
 ```
 
-# 
