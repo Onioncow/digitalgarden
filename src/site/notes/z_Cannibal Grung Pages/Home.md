@@ -23,6 +23,11 @@ views:
         - file.hasTag("PC")
         - not:
             - file.inFolder("z_Templates")
+    order:
+      - file.name
+      - Player
+      - Age
+      - Gender
 
 ```
 
