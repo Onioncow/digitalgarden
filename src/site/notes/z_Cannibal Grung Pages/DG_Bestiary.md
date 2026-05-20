@@ -9,8 +9,7 @@ views:
     name: Table
     filters:
       and:
-        - file.hasTag("Creatures")
-        - '!file.inFolder("z_Templates")'
+        - file.inFolder("02 Lore/Bestiary")
         - note["dg-publish"] == true
     order:
       - file.name
