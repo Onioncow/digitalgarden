@@ -11,6 +11,9 @@ views:
       and:
         - file.inFolder("02 Lore/Bestiary")
         - note["dg-publish"] == true
+    groupBy:
+      property: CreatureType
+      direction: ASC
     order:
       - file.name
       - CreatureType
