@@ -15,10 +15,9 @@ views:
         - note["dg-publish"] == true
     order:
       - file.name
-      - currentLocation
       - Race
-      - Age
       - Gender
+      - Age
       - Status
 
 ```
