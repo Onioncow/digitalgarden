@@ -2,16 +2,17 @@
 {"dg-publish":true,"permalink":"/z-cannibal-grung-pages/dg-player-characters/","dg-note-properties":{}}
 ---
 
-
 ```base
 views:
   - type: table
     name: Table
     filters:
       and:
-        - file.hasTag("PC")
-        - '!file.inFolder("z_Templates")'
+        - file.inFolder("04 Player Characters")
         - note["dg-publish"] == true
+    groupBy:
+      property: Campaign
+      direction: ASC
     order:
       - file.name
       - Player
@@ -19,13 +20,5 @@ views:
       - Level
       - Race
       - Class
-      - Age
-      - Gender
-    sort:
-      - property: AC
-        direction: DESC
-    columnSize:
-      note.Level: 89
 
 ```
-

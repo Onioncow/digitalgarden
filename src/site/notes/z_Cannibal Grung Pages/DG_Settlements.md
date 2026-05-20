@@ -10,7 +10,6 @@ views:
     filters:
       and:
         - file.hasTag("Settlement")
-        - '!file.inFolder("z_Templates")'
         - note["dg-publish"] == true
     order:
       - file.name
