@@ -157,14 +157,15 @@ views:
     sort:
       - property: Campaign
         direction: ASC
-      - property: file.name
-        direction: ASC
     columnSize:
       file.name: 276
-      note.Player: 265
-      note.SpecialFeatures: 294
-      note.Class: 159
-      note.Age: 120
+      note.Player: 82
+      note.Level: 81
+      note.AC: 68
+      note.PP: 63
+      note.SpecialFeatures: 156
+      note.Class: 113
+      note.Age: 66
   - type: table
     name: One Shot Fellas
     filters:

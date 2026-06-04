@@ -6,7 +6,7 @@
 # Info
 >[!blank|float-right-large]
 >[[Interactive Map - Gefestmere\|Interactive Map - Gefestmere]]
->>Population:
+>>Population: ~17,000
 >>Inhabitants: 
 >>Settlement Type: #City
 >>Kingdom/Country: [[05 World/Material Plane/02 Nations/Sylvaranth\|Sylvaranth]]
