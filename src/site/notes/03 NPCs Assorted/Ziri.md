@@ -11,13 +11,13 @@
 >>- Titles:
 
 ## Description
-A mild mannered Dwarven Woman with blonde hair tied back in a braid. She is a devout follower of [[02 Lore/Gods/Planar Gods/Jaidi\|Jaidi]] and seeks to help those need.
+A mild mannered Dwarven Woman with blonde hair tied back in a braid. She is a devout follower of [[02 Lore/Gods/Planar Gods/Erastil\|Erastil]] and seeks to help those need.
 
 ## Personality
 She's strives to be kind and looks for the best in everyone.
 
 ## Powers
-She gets her power from her worship of [[02 Lore/Gods/Planar Gods/Jaidi\|Jaidi]]
+She gets her power from her worship of [[02 Lore/Gods/Planar Gods/Erastil\|Erastil]]
 
 ## Possessions
 

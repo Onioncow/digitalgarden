@@ -18,7 +18,7 @@
 >>**Gambling is strictly prohibited** due to the growing Temperance faction in city politics
 >
 >>[!tldr]+ Holidays, Events, and Celebrations
->>- 1st Eleint to Highharvestide: Harvest Festival and celebration of [[02 Lore/Gods/Planar Gods/Jaidi\|Jaidi]]
+>>- 1st Eleint to Highharvestide: Harvest Festival and celebration of [[02 Lore/Gods/Planar Gods/Erastil\|Erastil]]
 >
 >>[!note]+ Additional Notes
 >>- They have animated armour to help the city guard
@@ -35,13 +35,13 @@
 >- The Temperance Faction (aka, the Eternal Night Society)
 >- The Merchants Guild
 >- The Artists Guild
->- The Church of [[02 Lore/Gods/Planar Gods/Jaidi\|Jaidi]]
+>- The Church of [[02 Lore/Gods/Planar Gods/Erastil\|Erastil]]
 >>[!info]+ Minor Factions
 >>- The Thieves Guild
 >>- The Smugglers
 >>- The Sewer Grung 
 >>- The Fighters Guild
->>- The Church of [[02 Lore/Gods/Planar Gods/Laetitia - God of Joy\|Laetitia - God of Joy]]
+>>- The Church of [[02 Lore/Gods/Planar Gods/Sarenrae\|Sarenrae]]
 >>- The Goblin Gang 
 
 ## History

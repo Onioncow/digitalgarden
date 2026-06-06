@@ -12,10 +12,14 @@ views:
         - file.hasTag("God")
         - not:
             - file.inFolder("z_Templates")
+    groupBy:
+      property: GodLevel
+      direction: ASC
     order:
       - file.name
       - GodLevel
       - Domain
+      - dg-publish
     sort:
       - property: GodLevel
         direction: ASC

@@ -10,7 +10,7 @@
 >>- Gender: Male 
 >>- Home: [[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere\|Gefestmere]]
 >>- Class: Cleric 
->>- Subclass: Tempest Domain (Worshipping [[02 Lore/Gods/Planar Gods/Gurzil\|Gurzil]])
+>>- Subclass: Tempest Domain (Worshipping [[02 Lore/Gods/Planar Gods/Gorum\|Gorum]])
 >>- Campaign: [[01 Campaigns/Hidden Ritual/Hidden Ritual\|Hidden Ritual]]
 >
 >>[!tldr]+ NPC Relationships
@@ -21,7 +21,7 @@
 
 
 ## Description
-A short human male, standing at around 5'1, with green hair and a strong build. He has a pendent displaying the holy image of [[02 Lore/Gods/Planar Gods/Gurzil\|Gurzil]] - around his neck.
+A short human male, standing at around 5'1, with green hair and a strong build. He has a pendent displaying the holy image of [[02 Lore/Gods/Planar Gods/Gorum\|Gorum]] - around his neck.
 
 
 ## History

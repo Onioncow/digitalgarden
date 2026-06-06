@@ -20,11 +20,6 @@ A master strategist and expert in intrigue, Dispater had a well-earned reputatio
 
 More recently however, a flaw had appeared in Dispater's seemingly invincible defense; his never-ending vigilance had been slowly transitioning into anxiety and paranoia. Unless otherwise forced to, he never left his city or even his tower, fearing a fate like Geryon or Moloch before him. No one was trusted, surprises were, at best, unpleasant, and he went out of his way to make clear who was in charge. The gloomy archdevil's paranoia affected his every action[5][6] and the ever-cautious Lord of the Nine had at least nine escape routes and back-up plans at any given time.
 
-## Powers
-- Devil's Sight. Magical darkness doesn't impede Dispater's darkvision.
-- Fiendish Regeneration.
-- Rust Metal. Any nonmagical weapon or ammunition made of metal that hits Dispater corrodes. After its hit, the weapon or ammunition is destroyed.
-
 ## Possessions
 - [[02 Lore/Artefacts/Wrought-Iron Tower\|Wrought-Iron Tower]]
 ## Relationships
