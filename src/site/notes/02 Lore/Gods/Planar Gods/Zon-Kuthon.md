@@ -8,7 +8,7 @@
 >>- 
 
 # The Midnight Lord
-The Midnight Lord embodies and glorifies pain, shadows, and mutilation, and he is one of the most twisted and malevolent gods on the face of Golarion. Once known as Dou-Bral, he crafted the immense Star Towers that still help keep [[02 Lore/Gods/Planar Gods/Rovagug\|Rovagug]] pinned in his prison, lending his own skill and ability to the great deific alliance to bind that evil entity. Yet a divine argument between him and his sister [[02 Lore/Gods/Planar Gods/Shelyn\|Shelyn]] resulted in the god departing for parts unknown. Zon-Kutho traveled beyond the edges of the multiverse and stared into the face of the incomprehensible things that dwell there. No one knows what he found in that place, but he returned—changed, but claiming to be strengthened by what he had endured.
+The Midnight Lord embodies and glorifies pain, shadows, and mutilation, and he is one of the most twisted and malevolent gods on the face of Issaeron. Once known as Dou-Bral, he crafted the immense Star Towers that still help keep [[02 Lore/Gods/Planar Gods/Rovagug\|Rovagug]] pinned in his prison, lending his own skill and ability to the great deific alliance to bind that evil entity. Yet a divine argument between him and his sister [[02 Lore/Gods/Planar Gods/Shelyn\|Shelyn]] resulted in the god departing for parts unknown. Zon-Kutho traveled beyond the edges of the multiverse and stared into the face of the incomprehensible things that dwell there. No one knows what he found in that place, but he returned—changed, but claiming to be strengthened by what he had endured.
 
 **Edicts** bring pain to the world, mutilate your body  
 **Anathema** create permanent or long-lasting sources of light, provide comfort to those who suffer  
