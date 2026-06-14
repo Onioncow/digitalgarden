@@ -12,9 +12,14 @@
 
 
 
-Titivilus was an archdevil of the Nine Hells who served the Lord of the Second, Dispater. The Nuncio of the Iron Tower was the viceroy and ambassador of his lord, and held increasing power over Dis and its populace as the Iron Duke retreated deeper into his Iron Tower
-## Description
-Titivilus resembled a 5.5‑foot-tall (1.7‑meter) satyr with pale skin and slightly ruddy cheeks. The fur on his goat legs were black, as were the twin horns protruding from the front of his bald head. He also had small, black, bat-like wings sprouting from his back, and yet despite this was somehow more human-like than a satyr; something was compelling about him, and feelings of kinship were invoked among those who perceived him.
+Upon the backs of all beholden to him, Titivilus scratches the record of [Hell](https://2e.aonprd.com/Planes.aspx?ID=42) with long claws. His is a slender form, almost like a [human](https://2e.aonprd.com/Ancestries.aspx?ID=64) man stretched well beyond his typical proportions, with skin the color of the deep purples of a sunset. Nine hands, each with nine fingers, transcribe every word spoken within the rings in illustrious longhand and great detail, down to the tones and rhythms. Steel is a crude tool for change; the Scrivening Count would crumble empires with but a whisper. A spear and shield may break a body, but lies, propaganda, rhetoric, and truth manipulate the hearts and minds that drive the hands.
+
+**Edicts** Quote people back to themselves, chronicle the times you live in, skew the truth to your purpose  
+**Anathema** Allow a rumor to go unchallenged, destroy records, trust in memory alone  
+**Areas of Concern** Lies, propaganda, rhetoric, truth  
+**Religious Symbol** Devil hand writing  
+**Sacred Animal** Viper  
+**Sacred Color(s)** Black, white
 
 ## Personality
 Titivilus was not particularly big, strong, or otherwise powerful in the conventional sense, at least by the standards of archdevils, but this physical weakness was more than compensated for by his great cunning and cleverness. He was notorious for his skill in twisting words to confuse his enemies, leaving all those who used them befuddled. Charming and pleasant, Titivilus was an archdevil who had so mastered the art of negotiation that his victims could end up believing him their friend.
@@ -26,8 +31,14 @@ Titivilus's shrewd and calculating ways extended to how he treated combat. He wa
 His lack of height and stature have made him quick to anger, overcompensating for these shortcomings.
 
 ## Powers
-- He can speak all languages and throw his voice around and can communicate telepathically
-- His power with words allows him to corrupt his foes, twisting their will to his own 
+**[Divine Attribute](https://2e.aonprd.com/Backgrounds.aspx?ID=132)** Intelligence or Charisma  
+**Divine Font** _[harm](https://2e.aonprd.com/Spells.aspx?ID=146)_  
+**Divine Sanctification** must choose unholy  
+**Divine Skill** [Deception](https://2e.aonprd.com/Skills.aspx?ID=38)  
+**Favored Weapon** [longsword](https://2e.aonprd.com/Weapons.aspx?ID=386)  
+**Domains** [confidence](https://2e.aonprd.com/Domains.aspx?ID=67), [glyph](https://2e.aonprd.com/Domains.aspx?ID=109), [knowledge](https://2e.aonprd.com/Domains.aspx?ID=80), [secrecy](https://2e.aonprd.com/Domains.aspx?ID=91)  
+**[Alternate Domains](https://2e.aonprd.com/Rules.aspx?ID=3351)** [trickery](https://2e.aonprd.com/Domains.aspx?ID=94), [truth](https://2e.aonprd.com/Domains.aspx?ID=95), [vigil](https://2e.aonprd.com/Domains.aspx?ID=123)  
+**Cleric Spells** 1st: _[mindlink](https://2e.aonprd.com/Spells.aspx?ID=1603)_, 3rd: _[distracting chatter](https://2e.aonprd.com/Spells.aspx?ID=895)_, 5th: _[subconscious suggestion](https://2e.aonprd.com/Spells.aspx?ID=1692)_
 
 ## Possessions
 
