@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-world/material-plane/03-cities/gefestmere/gefestmere/","tags":["#Settlement"],"dg-note-properties":{"cssclasses":["wide-page"],"Type":"City","Nation":"[[05 World/Material Plane/02 Nations/Kingdom of Unurid\|Kingdom of Unurid]]","tags":["#Settlement"]}}
+{"dg-publish":true,"permalink":"/05-world/material-plane/03-cities/gefestmere/gefestmere/","tags":["#Settlement"],"dg-note-properties":{"cssclasses":["wide-page"],"Type":"City","Nation":"[[05 World/Material Plane/02 Nations/Kingdom of Unurid]]","tags":["#Settlement"]}}
 ---
 
 
@@ -55,5 +55,5 @@
 	- The whole system is corrupt and there is a major inequality problem
 	- The city even makes it difficult for people from the poorer areas to travel to the more wealthy areas via checkpoints
 
-### Marpenoth, 1491 (Hidden Ritual Campaign)
+### Yavie, 1491 (Hidden Ritual Campaign)
 - Just after the death of the Regent, Uther.

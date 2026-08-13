@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-lore/bestiary/dragons/","dg-note-properties":{"CommonLocations":["[The Dragon Isles]]"],"CreatureType":"Dragon","cssclasses":["wide-page"],"Pfp":"[[Pasted image 20250425001635.png](/img/user/05%20World/Material%20Plane/01%20Geography/Land/The%20Dragon%20Isles.md)"}}
+{"dg-publish":true,"permalink":"/02-lore/bestiary/dragons/","dg-note-properties":{"CommonLocations":["[[05 World/Material Plane/01 Geography/Land/The Dragon Isles]]"],"CreatureType":"Dragon","cssclasses":["wide-page"],"Pfp":"[[z_Assets/Pasted image 20250425001635.png]]"}}
 ---
 
 >[!blank|float-right-large]
@@ -27,9 +27,9 @@ Dragons are often accompanied by [[02 Lore/Bestiary/Dragonborn (Dragonblood)\|Dr
 >>- [[03 NPCs Assorted/Caligo, Miasma of the Night\|Caligo, Miasma of the Night]]
 >>- [[03 NPCs Assorted/Bayle Fyppin, the Dread\|Bayle Fyppin, the Dread]]
 
->[!info]+ Ancient Dragons
+>[!info]+ Archdragons
 >A very strong subset of dragons that born shortly after the Elder Dragons. They are almost as old and almost as powerful
->>[!Example]+ Known Ancient Dragons
+>>[!Example]+ Known Archdragons
 >>- Adula
 
 >[!info]+ Common Dragons
@@ -44,55 +44,6 @@ Dragons are often accompanied by [[02 Lore/Bestiary/Dragonborn (Dragonblood)\|Dr
 ```base
 views:
   - type: table
-    name: Main Bestiary
-    filters:
-      and:
-        - file.hasTag("Creatures")
-        - not:
-            - file.inFolder("z_Templates")
-    groupBy:
-      property: CreatureType
-      direction: ASC
-    order:
-      - file.name
-      - CreatureType
-      - CommonLocations
-      - file.tags
-      - dg-publish
-    sort:
-      - property: CreatureType
-        direction: ASC
-      - property: file.name
-        direction: ASC
-    columnSize:
-      note.CommonLocations: 321
-    rowHeight: tall
-  - type: cards
-    name: Main Bestiary Cards
-    filters:
-      and:
-        - file.hasTag("Creatures")
-        - not:
-            - file.inFolder("z_Templates")
-    groupBy:
-      property: CreatureType
-      direction: ASC
-    order:
-      - file.name
-      - CreatureType
-      - CommonLocations
-      - file.tags
-    sort:
-      - property: CreatureType
-        direction: ASC
-      - property: file.name
-        direction: ASC
-    columnSize:
-      note.CommonLocations: 321
-    rowHeight: tall
-    cardSize: 370
-    image: note.Pfp
-  - type: table
     name: Dragons
     filters:
       and:
@@ -102,132 +53,6 @@ views:
     sort:
       - property: file.name
         direction: ASC
-  - type: table
-    name: Vitria
-    filters:
-      and:
-        - file.hasTag("Creatures")
-        - not:
-            - file.inFolder("z_Templates")
-        - CommonLocations.contains(link("Vitria"))
-    order:
-      - file.name
-      - CreatureType
-      - file.tags
-      - CommonLocations
-    sort:
-      - property: CreatureType
-        direction: ASC
-      - property: file.name
-        direction: ASC
-    columnSize:
-      note.CommonLocations: 321
-    rowHeight: medium
-  - type: table
-    name: Dragon Isles
-    filters:
-      and:
-        - file.hasTag("Creatures")
-        - not:
-            - file.inFolder("z_Templates")
-        - CommonLocations.contains(link("The Dragon Isles"))
-    order:
-      - file.name
-      - CreatureType
-      - file.tags
-      - CommonLocations
-    sort:
-      - property: CreatureType
-        direction: ASC
-      - property: file.name
-        direction: ASC
-    columnSize:
-      note.CommonLocations: 321
-    rowHeight: medium
-  - type: table
-    name: Tercus
-    filters:
-      and:
-        - file.hasTag("Creatures")
-        - not:
-            - file.inFolder("z_Templates")
-        - CommonLocations.contains(link("Tercus"))
-    order:
-      - file.name
-      - CreatureType
-      - file.tags
-      - CommonLocations
-    sort:
-      - property: CreatureType
-        direction: ASC
-      - property: file.name
-        direction: ASC
-    columnSize:
-      note.CommonLocations: 321
-    rowHeight: medium
-  - type: table
-    name: Sonipes Mundi
-    filters:
-      and:
-        - file.hasTag("Creatures")
-        - not:
-            - file.inFolder("z_Templates")
-        - CommonLocations.contains(link("Sonipes Mundi"))
-    order:
-      - file.name
-      - CreatureType
-      - file.tags
-      - CommonLocations
-    sort:
-      - property: CreatureType
-        direction: ASC
-      - property: file.name
-        direction: ASC
-    columnSize:
-      note.CommonLocations: 321
-    rowHeight: medium
-  - type: table
-    name: Gladenil
-    filters:
-      and:
-        - file.hasTag("Creatures")
-        - not:
-            - file.inFolder("z_Templates")
-        - CommonLocations.contains(link("Gladenlil"))
-    order:
-      - file.name
-      - CreatureType
-      - file.tags
-      - CommonLocations
-    sort:
-      - property: CreatureType
-        direction: ASC
-      - property: file.name
-        direction: ASC
-    columnSize:
-      note.CommonLocations: 321
-    rowHeight: medium
-  - type: table
-    name: Condeus
-    filters:
-      and:
-        - file.hasTag("Creatures")
-        - not:
-            - file.inFolder("z_Templates")
-        - CommonLocations.contains(link("Condeus"))
-    order:
-      - file.name
-      - CreatureType
-      - file.tags
-      - CommonLocations
-    sort:
-      - property: CreatureType
-        direction: ASC
-      - property: file.name
-        direction: ASC
-    columnSize:
-      note.CommonLocations: 321
-    rowHeight: medium
 
 ```
 

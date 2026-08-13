@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-np-cs-assorted/t-qila/","tags":["npc"],"dg-note-properties":{"tags":["npc"],"Race":"[[Tripkee]]","Gender":"Male","Titles":null,"Age":"9 (as of 1491)","Status":"Alive","currentLocation":"Brokeback Mountain","cssclasses":["wide-page"]}}
+{"dg-publish":true,"permalink":"/03-np-cs-assorted/t-qila/","tags":["npc"],"dg-note-properties":{"tags":["npc"],"Race":"[[02 Lore/Bestiary/Tripkee]]","Gender":"Male","Titles":null,"Age":"9 (as of 1491)","Status":"Alive","currentLocation":"Brokeback Mountain","cssclasses":["wide-page"]}}
 ---
 
 >[!blank|float-right-large]
@@ -31,5 +31,8 @@ He's quite outgoing and responsible. He's always been a bit of a big brother typ
 >> - [[03 NPCs Assorted/l'Gma\|l'Gma]]: They used to be close before their village was raided and they were split apart. They found each other again in [[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere\|Gefestmere]] but [[03 NPCs Assorted/l'Gma\|l'Gma]] was already a red [[02 Lore/Bestiary/Tripkee\|Grung]] at this point and his mind and personality had shifted so far away from the person he used to be, that they never quite recovered the bond they once had
 
 ## History
+Growing up, t'Qila always looked out for [w'Ixki](app://obsidian.md/w'Ixki) and was very protective of him. They grew very close before they were split apart by a raid on their home village. When they finally found each other again at brokeback mountain, their relationship rekindled. They met up again in [Gefestmere](app://obsidian.md/Gefestmere) during the events of [Hidden Ritual](app://obsidian.md/Hidden%20Ritual) and became even closer. They then decided to move in together in a house on brokeback mountain, where they share a room and are now engaged to be married (in a best friends kinda way).
+
+He used to be close with [[03 NPCs Assorted/l'Gma\|l'Gma]] before their village was raided and they were split apart. They found each other again in [Gefestmere](app://obsidian.md/Gefestmere) but [l'Gma](app://obsidian.md/l'Gma) was already a red [Grung](app://obsidian.md/Tripkee) at this point and his mind and personality had shifted so far away from the person he used to be, that they never quite recovered the bond they once had
 
 ### [[01 Campaigns/Hidden Ritual/Hidden Ritual\|Hidden Ritual]]

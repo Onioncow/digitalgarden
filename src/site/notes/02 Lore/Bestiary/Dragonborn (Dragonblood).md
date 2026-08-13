@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-lore/bestiary/dragonborn-dragonblood/","dg-note-properties":{"CommonLocations":["[The Dragon Isles]]","[[05 World/Material Plane/01 Geography/Land/Sonipes Mundi\|Sonipes Mundi]]"],"CreatureType":"Humanoid","cssclasses":["wide-page"],"Pfp":"[[Pasted image 20250426215656.png](/img/user/05%20World/Material%20Plane/01%20Geography/Land/The%20Dragon%20Isles.md)"}}
+{"dg-publish":true,"permalink":"/02-lore/bestiary/dragonborn-dragonblood/","dg-note-properties":{"CommonLocations":["[[05 World/Material Plane/01 Geography/Land/The Dragon Isles]]","[[05 World/Material Plane/01 Geography/Land/Sonipes Mundi]]"],"CreatureType":"Humanoid","cssclasses":["wide-page"],"Pfp":"[[z_Assets/Pasted image 20250426215656.png]]"}}
 ---
 
 >[!blank|float-right-large]

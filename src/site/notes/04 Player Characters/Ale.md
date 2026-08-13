@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-player-characters/ale/","tags":["PC"],"dg-note-properties":{"tags":["PC"],"Race":"[Human]]","Gender":"Male","Age":"45 (as of 1491)","Class":"Cleric","Level":9,"Status":"Alive","Player":"Alex","Campaign":"[[01 Campaigns/Hidden Ritual/Hidden Ritual\|Hidden Ritual]]","AC":19,"PP":13,"SpecialFeatures":"An ex-battle cleric","cssclasses":["wide-page"],"Pfp":"[[Ale token.png](/img/user/02%20Lore/Bestiary/Human.md)"}}
+{"dg-publish":true,"permalink":"/04-player-characters/ale/","tags":["PC"],"dg-note-properties":{"tags":["PC"],"Race":"[[02 Lore/Bestiary/Human]]","Gender":"Male","Age":"45 (as of 1491)","Class":"Cleric","Level":9,"Status":"Alive","Player":"Alex","Campaign":"[[01 Campaigns/Hidden Ritual/Hidden Ritual]]","AC":19,"PP":13,"SpecialFeatures":"An ex-battle cleric","cssclasses":["wide-page"],"Pfp":"[[z_Assets/Ale token.png]]"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-np-cs-assorted/ryan/","tags":["npc"],"dg-note-properties":{"tags":["npc"],"Race":"[[02 Lore/Bestiary/Manticore\|Manticore]]","Gender":"Male","Titles":null,"Age":"~90","Status":"Alive","currentLocation":"[[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere\|Gefestmere]]","cssclasses":["wide-page"]}}
+{"dg-publish":true,"permalink":"/03-np-cs-assorted/ryan/","tags":["npc"],"dg-note-properties":{"tags":["npc"],"Race":"[[02 Lore/Bestiary/Manticore]]","Gender":"Male","Titles":null,"Age":"~90","Status":"Alive","currentLocation":"[[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere]]","cssclasses":["wide-page"]}}
 ---
 
 >[!blank|float-right-large]
@@ -18,14 +18,6 @@ He is best described as a "cutie patootie", acting with flamboyance and pomp. Th
 ## Powers
 
 ## Possessions
-
-## Relationships
->[!multi-column]
->
->>[!check]+ Player Characters
->>
->
->>[!danger]+ Non Player Characters
 
 ## History
 ### [[01 Campaigns/Hidden Ritual/Hidden Ritual\|Hidden Ritual]]

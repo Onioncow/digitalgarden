@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-np-cs-assorted/pito/","tags":["npc"],"dg-note-properties":{"tags":["npc"],"Race":"Rakshasa","Gender":"Male","Titles":null,"Age":"41 (as of 1491)","Status":"Alive","currentLocation":"[[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere\|Gefestmere]]","cssclasses":["wide-page"]}}
+{"dg-publish":true,"permalink":"/03-np-cs-assorted/pito/","tags":["npc"],"dg-note-properties":{"tags":["npc"],"Race":"Rakshasa","Gender":"Male","Titles":null,"Age":"41 (as of 1491)","Status":"Alive","currentLocation":"[[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere]]","cssclasses":["wide-page"]}}
 ---
 
 >[!blank|float-right-large]
@@ -20,15 +20,6 @@ A smug aristocrat. He's not one for choosing direct violence, but he enjoys infl
 ## Powers
 
 ## Possessions
-
-
-## Relationships
->[!multi-column]
->
->>[!check]+ Player Characters
->> - [[04 Player Characters/Amauri De Nucci\|Amauri De Nucci]]: He views Amauri as a bit of a play thing, enjoying their more public political rivalry as an opportunity to mess with him.
->
->>[!danger]+ Non Player Characters
 
 ## History
 ### [[01 Campaigns/Hidden Ritual/Hidden Ritual\|Hidden Ritual]]

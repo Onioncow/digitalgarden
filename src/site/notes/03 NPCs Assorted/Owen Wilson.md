@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-np-cs-assorted/owen-wilson/","tags":["npc"],"dg-note-properties":{"tags":["npc"],"Race":"[[02 Lore/Bestiary/Human\|Human]]","Gender":"Male","Titles":["Champion of the Arena"],"Age":"38 (as of 1491)","Status":"Alive","currentLocation":"[[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere\|Gefestmere]]","cssclasses":["wide-page"]}}
+{"dg-publish":true,"permalink":"/03-np-cs-assorted/owen-wilson/","tags":["npc"],"dg-note-properties":{"tags":["npc"],"Race":"[[02 Lore/Bestiary/Human]]","Gender":"Male","Titles":["Champion of the Arena"],"Age":"38 (as of 1491)","Status":"Alive","currentLocation":"[[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere]]","cssclasses":["wide-page"]}}
 ---
 
 >[!blank|float-right-large]
@@ -20,14 +20,6 @@ He's very easy going and little clueless. He's not the most observant, but alway
 ## Powers
 
 ## Possessions
-
-## Relationships
->[!multi-column]
->
->>[!check]+ Player Characters
->> - [[04 Player Characters/Flike Fyppin\|Flike Fyppin]] and [[04 Player Characters/Ale\|Ale]]: he is technically part of the polycule with these two
->
->>[!danger]+ Non Player Characters
 
 ## History
 ### [[01 Campaigns/Hidden Ritual/Hidden Ritual\|Hidden Ritual]]

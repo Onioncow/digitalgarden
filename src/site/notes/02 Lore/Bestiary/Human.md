@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-lore/bestiary/human/","dg-note-properties":{"CommonLocations":["[[Vitria]]","[[Condeus]]","[[Gladenlil]]","[[Sonipes Mundi]]","[[Tercus]]"],"CreatureType":"Humanoid","cssclasses":["wide-page"],"Pfp":"[[Pasted image 20250706162350.png]]"}}
+{"dg-publish":true,"permalink":"/02-lore/bestiary/human/","dg-note-properties":{"CommonLocations":["[[05 World/Material Plane/01 Geography/Land/Vitria]]","[[05 World/Material Plane/01 Geography/Land/Condeus]]","[[05 World/Material Plane/01 Geography/Land/Gladenlil]]","[[05 World/Material Plane/01 Geography/Land/Sonipes Mundi]]","[[05 World/Material Plane/01 Geography/Land/Tercus]]"],"CreatureType":"Humanoid","cssclasses":["wide-page"],"Pfp":"[[z_Assets/Pasted image 20250706162350.png]]"}}
 ---
 
 >[!blank|float-right-large]

@@ -27,5 +27,6 @@ views:
         direction: ASC
     columnSize:
       note.GodLevel: 131
+      note.Domain: 379
 
 ```

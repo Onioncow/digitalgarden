@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-lore/bestiary/gnome/","dg-note-properties":{"CommonLocations":["[Tercus]]","[[Vitria]]","[[Condeus]]","[[Sonipes Mundi]]","[[Gladenlil]]"],"CreatureType":"Humanoid","cssclasses":["wide-page"],"Pfp":"[[Gnome.png](/img/user/05%20World/Material%20Plane/01%20Geography/Land/Tercus.md)"}}
+{"dg-publish":true,"permalink":"/02-lore/bestiary/gnome/","dg-note-properties":{"CommonLocations":["[[05 World/Material Plane/01 Geography/Land/Tercus]]","[[05 World/Material Plane/01 Geography/Land/Vitria]]","[[05 World/Material Plane/01 Geography/Land/Condeus]]","[[05 World/Material Plane/01 Geography/Land/Sonipes Mundi]]","[[05 World/Material Plane/01 Geography/Land/Gladenlil]]"],"CreatureType":"Humanoid","cssclasses":["wide-page"],"Pfp":"[[z_Assets/Gnome.png]]"}}
 ---
 
 

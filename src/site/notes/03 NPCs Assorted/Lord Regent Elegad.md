@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-np-cs-assorted/lord-regent-elegad/","tags":["npc"],"dg-note-properties":{"tags":["npc"],"Race":"[[02 Lore/Bestiary/Elf\|Elf]]","Gender":"Male","Titles":["Lord Regent"],"Age":"309","Status":"Dead","currentLocation":"[[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere\|Gefestmere]]","cssclasses":["wide-page"]}}
+{"dg-publish":true,"permalink":"/03-np-cs-assorted/lord-regent-elegad/","tags":["npc"],"dg-note-properties":{"tags":["npc"],"Race":"[[02 Lore/Bestiary/Elf]]","Gender":"Male","Titles":["Lord Regent"],"Age":"309","Status":"Dead","currentLocation":"[[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere]]","cssclasses":["wide-page"]}}
 ---
 
 >[!blank|float-right-large]
@@ -21,15 +21,6 @@ He is spiteful and self-important. He ultimately views himself as the only perso
 
 ## Possessions
  - He had the [[02 Lore/Artefacts/Chronos Rune Stones\|Chronos Rune Stones]]
-
-## Relationships
->[!multi-column]
->
->>[!check]+ Player Characters
->>
->
->>[!danger]+ Non Player Characters
-
 ## History
 He was alive during the growth and expansion of the [[02 Lore/Bestiary/Human\|Human]]s and the decline of Elven rule. Although he was a child of both worlds, he identified more with a radical sect of [[02 Lore/Bestiary/Elf\|Elf]] purists and [[02 Lore/Gods/Primordial Gods/Chronos\|Chronos]] worshippers. Once that sect were killed, he endeavoured to finish what they started with the help of the Primordial God of Time.
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-np-cs-assorted/caligo-miasma-of-the-night/","tags":["npc"],"dg-note-properties":{"tags":["npc"],"Race":"[[Dragons]]","Gender":"Feminine","Titles":["The Platinum Dragon","The Silver Scourge"],"Age":"Unknown","Status":"Alive","currentLocation":"[[Caligo's Rest]]","cssclasses":["wide-page"]}}
+{"dg-publish":true,"permalink":"/03-np-cs-assorted/caligo-miasma-of-the-night/","tags":["npc"],"dg-note-properties":{"tags":["npc"],"Race":"[[02 Lore/Bestiary/Dragons]]","Gender":"Feminine","Titles":["The Platinum Dragon","The Silver Scourge"],"Age":"Unknown","Status":"Alive","currentLocation":"[[05 World/Material Plane/07 Points of Interest/Caligo's Rest]]","cssclasses":["wide-page"]}}
 ---
 
 >[!blank|float-right-large]
@@ -19,14 +19,6 @@
 ## Powers
 
 ## Possessions
-
-## Relationships
->[!multi-column]
->
->>[!check]+ Player Characters
->>
->
->>[!danger]+ Non Player Characters
 
 ## History
 ### Campaign 1

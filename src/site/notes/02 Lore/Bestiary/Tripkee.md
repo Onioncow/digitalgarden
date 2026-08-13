@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-lore/bestiary/tripkee/","dg-note-properties":{"CommonLocations":["[Vitria]]"],"CreatureType":"Humanoid","cssclasses":["wide-page"],"Pfp":"[[Pasted image 20250705151116.png](/img/user/05%20World/Material%20Plane/01%20Geography/Land/Vitria.md)","aliases":["Grung"]}}
+{"dg-publish":true,"permalink":"/02-lore/bestiary/tripkee/","dg-note-properties":{"CommonLocations":["[[05 World/Material Plane/01 Geography/Land/Vitria]]"],"CreatureType":"Humanoid","cssclasses":["wide-page"],"Pfp":"[[z_Assets/Pasted image 20250705151116.png]]","aliases":["Grung"]}}
 ---
 
 >[!blank|float-right-large]

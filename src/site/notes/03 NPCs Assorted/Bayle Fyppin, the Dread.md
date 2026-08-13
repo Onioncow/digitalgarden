@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-np-cs-assorted/bayle-fyppin-the-dread/","tags":["npc"],"dg-note-properties":{"tags":["npc"],"Race":"[[Dragons]]","Gender":"Masculine","Titles":["The Dread","The Dread of Gladenlil"],"Age":"Unknown","Status":"Alive","currentLocation":"[[Gefestmere]]","cssclasses":["wide-page"]}}
+{"dg-publish":true,"permalink":"/03-np-cs-assorted/bayle-fyppin-the-dread/","tags":["npc"],"dg-note-properties":{"tags":["npc"],"Race":"[[02 Lore/Bestiary/Dragons]]","Gender":"Masculine","Titles":["The Dread","The Dread of Gladenlil"],"Age":"Unknown","Status":"Alive","currentLocation":"[[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere]]","cssclasses":["wide-page"]}}
 ---
 
 >[!blank|float-right-large]
@@ -29,32 +29,20 @@ He is quick to anger and viciously violent, often killing for fun and sport.
 - [[02 Lore/Artefacts/The Arcane Pool\|The Arcane Pool]]
 - [[02 Lore/Artefacts/Chronos Rune Stones\|Chronos Rune Stones]]
 
-## Relationships
->[!multi-column]
->
->>[!check]+ Player Characters
->>- [[04 Player Characters/Flike Fyppin\|Flike Fyppin]] (married)
->>	- He is quite fond of him, having let Bayle channel his power
->>	- He does think he is quite "simple"
->>
->>- [[04 Player Characters/Ale\|Ale]] (married)
->>	- He finds these two amusing
->>
->>- [[04 Player Characters/w'Ixki\|w'Ixki]]
->>	- He quite likes him as his underhanded methods secured the [[02 Lore/Artefacts/Chronos Rune Stones\|Chronos Rune Stones]] for Bayle
->>
->>- [[04 Player Characters/Amauri De Nucci\|Amauri De Nucci]]
->>	- He is more cautious of this one, finding him a more cunning individual that is more discerning of Bayle's intent 
->
->>[!danger]+ Non Player Characters
->>- The people of [[05 World/Material Plane/01 Geography/Land/Gladenlil\|Gladenlil]]
->>	- The people that live near his home have learnt to worship this elder dragon in hopes that he wont kill them
->>
->>- [[03 NPCs Assorted/Igon\|Igon]]
->>	- He has a long standing feud with [[03 NPCs Assorted/Igon\|Igon]]. He enjoys toying with and tormenting him. 
-
 ## History
-### Hidden Ritual
+Born from the celestial power of [[02 Lore/Gods/Primordial Gods/Ymir\|Ymir]] during the timeless [[02 Lore/Ages/01 - The Mythic Age\|Mythic Age]], Bayle is one of the oldest creatures in the world of Issaeron and holds the status of a demi-god. He was happy to serve his brother, The [[03 NPCs Assorted/Dragon Lord, Placidusax\|Dragon Lord, Placidusax]], during this age where dragons ruled the [[05 World/Material Plane/Material Plane\|Material Plane]].
+
+After the birth of time and creation of mortals, Bayle grew disillusioned with Placidusax's hands-off attitude, believing that he would make a better dragon lord. This is when Bayle began scheming to find a way of becoming powerful enough to usurp his brother and have [[02 Lore/Bestiary/Dragons\|Dragons]] rule over the [[05 World/Material Plane/Material Plane\|Material Plane]] once more.
+
+### 224 - The Dread of Gladenlil
+Followers of the old, draconic religion (The [[07 Major Factions/Order of the Dragon\|Order of the Dragon]]), were slowly being converted to worshipping [[02 Lore/Gods/Primordial Gods/Chronos\|Chronos]]. The worshippers of time were stripping the old guard of their power and status and tried to convince Bayle to take action. Bayle did not appreciate being ordered around, viewing himself as the superior being - a demi-god - and laid waste to [[05 World/Material Plane/03 Cities/Osdrac\|Osdrac]], earning the title of Bayle The Dread. Bayle did not wish to become some figure head of a mortal kingdom, he wished to usurp the dragon lords throne and re-order the material world entirely. 
+
+Just before burning everything to the ground, he felt a strong surge of arcane power in [[05 World/Material Plane/03 Cities/Osdrac\|Osdrac]], but could not locate the source of it.
+
+### The Second Age
+Bayle was quietly amassing power through [[02 Lore/Artefacts/The Arcane Pool\|The Arcane Pool]] when he caught wind of familiar power in [[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere\|Gefestmere]]: the magic signature he had felt [[05 World/Material Plane/03 Cities/Osdrac\|Osdrac]] just before he sacked the city and surrounding area.
+
+### 1491 Hidden Ritual
 - Bayle made a deal with [[04 Player Characters/Flike Fyppin\|Flike Fyppin]] to join his polycule, and in return, Bayle could channel Flike's powers, giving him access to [[02 Lore/Gods/Outer Gods/The Great Wheel\|The Great Wheel]].
 - He has requested that the party find the [[02 Lore/Artefacts/Chronos Rune Stones\|Chronos Rune Stones]] and deliver them to him. In return, he will free them from the spell that binds them
 - Ultimately, [[04 Player Characters/w'Ixki\|w'Ixki]] secured the [[02 Lore/Artefacts/Chronos Rune Stones\|Chronos Rune Stones]] for Bayle 

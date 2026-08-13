@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-lore/bestiary/graveshell/","dg-note-properties":{"CommonLocations":["[[Vitria]]","[[Condeus]]"],"CreatureType":"Beast","cssclasses":["wide-page"],"Pfp":"[[Pasted image 20250705144909.png]]"}}
+{"dg-publish":true,"permalink":"/02-lore/bestiary/graveshell/","dg-note-properties":{"CommonLocations":["[[05 World/Material Plane/01 Geography/Land/Vitria]]","[[05 World/Material Plane/01 Geography/Land/Condeus]]"],"CreatureType":"Beast","cssclasses":["wide-page"],"Pfp":"[[z_Assets/Pasted image 20250705144909.png]]"}}
 ---
 
 >[!blank|float-right-large]

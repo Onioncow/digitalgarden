@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-np-cs-assorted/barron-trump/","tags":["npc"],"dg-note-properties":{"tags":["npc"],"Race":"[[02 Lore/Bestiary/Human\|Human]]","Gender":"Male","Titles":["Elden Lord","Saviour of the Wasteland"],"Age":"19 (as of 1491)","Status":"Alive","currentLocation":"[[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere\|Gefestmere]]","cssclasses":["wide-page"]}}
+{"dg-publish":true,"permalink":"/03-np-cs-assorted/barron-trump/","tags":["npc"],"dg-note-properties":{"tags":["npc"],"Race":"[[02 Lore/Bestiary/Human]]","Gender":"Male","Titles":["Elden Lord","Saviour of the Wasteland"],"Age":"19 (as of 1491)","Status":"Alive","currentLocation":"[[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere]]","cssclasses":["wide-page"]}}
 ---
 
 
@@ -26,21 +26,14 @@ Being hit with his suitcase causes mental damage
 	- It is magical in nature
 	- It appears to be able to contain more than should be physically possible, not to dissimilar to a bag of holding
 
-## Relationships
->[!multi-column]
->
->>[!check]+ Player Characters
->> - [[04 Player Characters/Amauri De Nucci\|Amauri De Nucci]]: He has grown quite fond of Amauri and has helped to fund his political campaign in [[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere\|Gefestmere]], helping to secure the Regency for Amauri and [[03 NPCs Assorted/Wilhye\|Wilhye]]
->> - [[04 Player Characters/Flike Fyppin\|Flike Fyppin]]: Barron shares Flikes simpler nature, allowing for a very natural connection between them, though Barron was unpersuaded to join Flike's polycule 
->> - [[04 Player Characters/w'Ixki\|w'Ixki]]: Barron always liked how w'Ixki would stand up for him and advocate for him, making him feel seen
->> - [[04 Player Characters/Ale\|Ale]]: Barron really liked Ale, especially in tavern situations. He became Barrons favourite drinking partner. Although he did find Ale's affinity for brutal violence a little disturbing
->
->>[!danger]+ Non Player Characters
->> - [[03 NPCs Assorted/Donald Trump\|Donald Trump]]: His adoptive father who mistreated Barron
->> - [[03 NPCs Assorted/Sleepy Joe\|Sleepy Joe]]: His adoptive father with dementia who did not mistreat Barron. Barron now looks after him
-
 
 ## History
+The exact nature of his birth is unknown, but he was raised by his two fathers, [[03 NPCs Assorted/Sleepy Joe\|Sleepy Joe]] and [[03 NPCs Assorted/Donald Trump\|Donald Trump]]. Donald mistreated his son, traumatising him into adulthood.
+
+He spent most of his time in his early life in [[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere\|Gefestmere]] where he was born and raised, but often "shifted" into other worlds where he went on grand adventures to "save the wasteland", "become Elden Lord", and "heal up meowster". Though whether these were dreams or actually some sort of dimensional shifting ability is uncertain. 
+
+He started looking after his father, [[03 NPCs Assorted/Sleepy Joe\|Sleepy Joe]], as his cognitive decline set in.
+
 ### [[01 Campaigns/Hidden Ritual/Hidden Ritual\|Hidden Ritual]]
 - He was pulled into a time ritual by [[03 NPCs Assorted/Donald Trump\|Donald Trump]]
 - He ultimately helped in collecting the [[02 Lore/Artefacts/Chronos Rune Stones\|Chronos Rune Stones]] and preventing the ritual from being completed, saving the entire city of [[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere\|Gefestmere]]

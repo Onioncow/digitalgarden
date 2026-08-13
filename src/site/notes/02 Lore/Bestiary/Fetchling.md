@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-lore/bestiary/fetchling/","dg-note-properties":{"CommonLocations":["[[Condeus]]","[[Gladenlil]]","[[Sonipes Mundi]]","[[Tercus]]","[[Vitria]]","[[02 Lore/Gods/Outer Gods/Void\|Void]]"],"CreatureType":"Humanoid","cssclasses":["wide-page"],"Pfp":"[[Fetchling.png]]"}}
+{"dg-publish":true,"permalink":"/02-lore/bestiary/fetchling/","dg-note-properties":{"CommonLocations":["[[05 World/Material Plane/01 Geography/Land/Condeus]]","[[05 World/Material Plane/01 Geography/Land/Gladenlil]]","[[05 World/Material Plane/01 Geography/Land/Sonipes Mundi]]","[[05 World/Material Plane/01 Geography/Land/Tercus]]","[[05 World/Material Plane/01 Geography/Land/Vitria]]","[[02 Lore/Gods/Outer Gods/Void]]"],"CreatureType":"Humanoid","cssclasses":["wide-page"],"Pfp":"[[z_Assets/Fetchling.png]]"}}
 ---
 
 >[!blank|float-right-large]

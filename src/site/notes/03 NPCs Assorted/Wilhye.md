@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-np-cs-assorted/wilhye/","tags":["npc"],"dg-note-properties":{"tags":["npc"],"Race":"[[Human]]","Gender":"Male","Titles":null,"Age":"Unknown","Status":"Alive","currentLocation":"[[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere\|Gefestmere]]","cssclasses":["wide-page"]}}
+{"dg-publish":true,"permalink":"/03-np-cs-assorted/wilhye/","tags":["npc"],"dg-note-properties":{"tags":["npc"],"Race":"[[02 Lore/Bestiary/Human]]","Gender":"Male","Titles":null,"Age":"Unknown","Status":"Alive","currentLocation":"[[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere]]","cssclasses":["wide-page"]}}
 ---
 
 >[!blank|float-right-large]
@@ -32,4 +32,5 @@ There is something up with his shadow
 >>[!danger]+ Non Player Characters
 
 ## History
-### Campaign 1
+### 1491 - [[01 Campaigns/Hidden Ritual/Hidden Ritual\|Hidden Ritual]]
+He grew close to [[04 Player Characters/Amauri De Nucci\|Amauri De Nucci]], bonding over their shared dislike of [[04 Player Characters/Flike Fyppin\|Flike Fyppin]]. Wilhye even helped fund [[04 Player Characters/Amauri De Nucci\|Amauri De Nucci]]'s political campaign letting them grow even closer.

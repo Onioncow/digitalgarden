@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-np-cs-assorted/ziri/","tags":["npc"],"dg-note-properties":{"tags":["npc"],"Race":"Dwarf","Gender":"Female","Titles":null,"Age":"40 (as of 1491)","Status":"Alive","currentLocation":"[[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere\|Gefestmere]]","cssclasses":["wide-page"]}}
+{"dg-publish":true,"permalink":"/03-np-cs-assorted/ziri/","tags":["npc"],"dg-note-properties":{"tags":["npc"],"Race":"Dwarf","Gender":"Female","Titles":null,"Age":"40 (as of 1491)","Status":"Alive","currentLocation":"[[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere]]","cssclasses":["wide-page"]}}
 ---
 
 >[!blank|float-right-large]
@@ -20,14 +20,6 @@ She's strives to be kind and looks for the best in everyone.
 She gets her power from her worship of [[02 Lore/Gods/Planar Gods/Erastil\|Erastil]]
 
 ## Possessions
-
-## Relationships
->[!multi-column]
->
->>[!check]+ Player Characters
->> - [[04 Player Characters/Flike Fyppin\|Flike Fyppin]]: She has a soft spot for him, seeing him as deeply troubled. She tried to help him overcome his gambling addiction
->
->>[!danger]+ Non Player Characters
 
 ## History
 ### Hidden Ritual

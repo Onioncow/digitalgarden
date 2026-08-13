@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/03-np-cs-assorted/dispater-archduke-of-hell/","tags":["npc"],"dg-note-properties":{"tags":["npc"],"Race":"[[Devils]]","Gender":"Masculine","Titles":["Archdevil","Archduke of Hell","Archduke of Dis","The Iron Duke","The Father of Strife"],"Age":"Unknown","Status":"Alive","currentLocation":"[[05 World/Nine Hells/2nd Layer - Dis/Map Locations/City of Dis\|City of Dis]]","cssclasses":["wide-page"]}}
+{"dg-publish":true,"permalink":"/03-np-cs-assorted/dispater-archduke-of-hell/","tags":["npc"],"dg-note-properties":{"tags":["npc"],"Race":"[[02 Lore/Bestiary/Devils]]","Gender":"Masculine","Titles":["Archdevil","Archduke of Hell","Archduke of Dis","The Iron Duke","The Father of Strife"],"Age":"Unknown","Status":"Alive","currentLocation":"[[05 World/Nine Hells/2nd Layer - Dis/Map Locations/City of Dis]]","cssclasses":["wide-page"]}}
 ---
 
 >[!blank|float-right-large]
->>![Pasted image 20250425181558.png](/img/user/z_Assets/Pasted%20image%2020250425181558.png)
+>>![Dispater - Archduke of Hell.png](/img/user/z_Assets/Dispater%20-%20Archduke%20of%20Hell.png)
 >>- Age: Unknown
->>- Race: [[World/Material Plane/Kingdom of Unurid/Gefestmere/Factions/Devils\|Devils]] (Archdevil)
+>>- Race: [[02 Lore/Bestiary/Devils\|Devils]] (Archdevil)
 >>- Gender: Masculine
 >>- Home: [[05 World/Nine Hells/2nd Layer - Dis/Map Locations/City of Dis\|City of Dis]]
 >>- Titles: Archdevil, Archduke of Hell, Archduke of Dis, The Iron Duke, The Father of Strife
@@ -36,16 +36,6 @@ More recently however, a flaw had appeared in Dispater's seemingly invincible de
 **Domains** [cities](https://2e.aonprd.com/Domains.aspx?ID=66), [confidence](https://2e.aonprd.com/Domains.aspx?ID=67), [duty](https://2e.aonprd.com/Domains.aspx?ID=108), [tyranny](https://2e.aonprd.com/Domains.aspx?ID=96)  
 **[Alternate Domains](https://2e.aonprd.com/Rules.aspx?ID=3351)** [perfection](https://2e.aonprd.com/Domains.aspx?ID=89)  
 **Cleric Spells** 1st: _[tether](https://2e.aonprd.com/Spells.aspx?ID=2370)_, 4th: _[suggestion](https://2e.aonprd.com/Spells.aspx?ID=1693)_, 6th: _[petrify](https://2e.aonprd.com/Spells.aspx?ID=1628)_
-
-## Relationships
->[!multi-column]
->
->>[!check]+ Player Characters
->>
->
->>[!danger]+ Non Player Characters
->>- [[03 NPCs Assorted/Titivilus\|Titivilus]]
->>	- Dispater trusts [[03 NPCs Assorted/Titivilus\|Titivilus]] more than anyone. In his growing paranoia, he has left most of his duties to his subordinate. Dispater prefers to stay within the safety of his Iron Tower while he lets Titivilus deal with being summoned and managing his layer of hell
 
 ## History
 ### Campaign 1

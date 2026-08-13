@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-world/material-plane/03-cities/spirabilis/","tags":["#Settlement"],"dg-note-properties":{"cssclasses":["wide-page"],"Type":"City","Nation":"[[05 World/Material Plane/02 Nations/Eldertide\|Eldertide]]","tags":["#Settlement"]}}
+{"dg-publish":true,"permalink":"/05-world/material-plane/03-cities/spirabilis/","tags":["#Settlement"],"dg-note-properties":{"cssclasses":["wide-page"],"Type":"City","Nation":"[[05 World/Material Plane/02 Nations/Eldertide]]","tags":["#Settlement"]}}
 ---
 
 ![City_Spirabilis.webp](/img/user/z_Assets/City_Spirabilis.webp)
@@ -22,16 +22,16 @@
 
 
 >[!example]+ Guilds and Factions
->- The Order of the Dragon
+>- The [[07 Major Factions/Order of the Dragon\|Order of the Dragon]]
 >	- The religious order of the [[05 World/Material Plane/02 Nations/Eldertide\|Eldertide]] with its central church located here
 >>[!info]+ Minor Factions
 >>- 
 
 ## History
-### ~300
+### 224
 - 
 
-### Marpenoth, 1491 (Hidden Ritual Campaign)
+### Yavie, 1491 (Hidden Ritual Campaign)
 - 
 
 

@@ -22,14 +22,6 @@ An overly serious person guided by their sense of morality. They are very willin
 
 ## Possessions
 
-## Relationships
->[!multi-column]
->
->>[!check]+ Player Characters
->> - [[04 Player Characters/w'Ixki\|w'Ixki]], [[04 Player Characters/Ale\|Ale]], [[04 Player Characters/Flike Fyppin\|Flike Fyppin]], [[04 Player Characters/Amauri De Nucci\|Amauri De Nucci]]: They were on good terms when they seemingly planned to help Therai stop the ritual in [[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere\|Gefestmere]]. Therai did always find them a bit irritating, but tolerated them as they seemed to be working towards the same goal. However, once it was clear that they failed to procure the stones for Therai, Therai's view on this group lessened as none of them really seemed that bothered by the impending issue of a more powerful [[03 NPCs Assorted/Bayle Fyppin, the Dread\|Bayle Fyppin, the Dread]]
->
->>[!danger]+ Non Player Characters
-
 ## History
 The moonstone that imbued Therai with magical power compelled them to search out the one who was messing with the natural progression of time. They visited village after village that appeared abandoned, with only strange stones and runes left. This search led them to [[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere\|Gefestmere]].
 

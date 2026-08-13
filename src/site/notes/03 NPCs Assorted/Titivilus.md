@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-np-cs-assorted/titivilus/","tags":["npc"],"dg-note-properties":{"tags":["npc"],"Race":"[[Devils]]","Gender":"Male","Titles":["Nuncio of Dispater"],"Age":"Unknown","Status":"Alive","currentLocation":"[[05 World/Nine Hells/2nd Layer - Dis/Map Locations/City of Dis\|City of Dis]]","cssclasses":["wide-page"]}}
+{"dg-publish":true,"permalink":"/03-np-cs-assorted/titivilus/","tags":["npc"],"dg-note-properties":{"tags":["npc"],"Race":"[[02 Lore/Bestiary/Devils]]","Gender":"Male","Titles":["Nuncio of Dispater"],"Age":"Unknown","Status":"Alive","currentLocation":"[[05 World/Nine Hells/2nd Layer - Dis/Map Locations/City of Dis]]","cssclasses":["wide-page"]}}
 ---
 
 >[!blank|float-right-large]
@@ -41,24 +41,6 @@ His lack of height and stature have made him quick to anger, overcompensating fo
 **Cleric Spells** 1st: _[mindlink](https://2e.aonprd.com/Spells.aspx?ID=1603)_, 3rd: _[distracting chatter](https://2e.aonprd.com/Spells.aspx?ID=895)_, 5th: _[subconscious suggestion](https://2e.aonprd.com/Spells.aspx?ID=1692)_
 
 ## Possessions
-
-## Relationships
->[!multi-column]
->
->>[!check]+ Player Characters
->>- [[04 Player Characters/Ale\|Ale]]
->>	- He dislikes how Ale got his soul back in a rather underhanded way
->>
->>- [[04 Player Characters/Flike Fyppin\|Flike Fyppin]]
->>	- Flike attacked Titivilus unprovoked, giving him a bad impression of the Mapach
->>
->>- [[04 Player Characters/w'Ixki\|w'Ixki]] and [[04 Player Characters/Amauri De Nucci\|Amauri De Nucci]]
->>	- He deems them a nuisance to his plans 
->
->>[!danger]+ Non Player Characters
->>- [[03 NPCs Assorted/Dispater - Archduke of Hell\|Dispater - Archduke of Hell]]
->>	- He has wormed his way into becoming the most trusted advisor of the Archduke. He has taken over many responsibilities of his master, including running the 2nd layer of hell, and even taking on his summonings. 
->>	- He secretly plots to overthrow the Archduke and take his place in the Iron Tower - many believe this has already happened due to the Archduke's paranoia
 
 ## History
 ### Hidden Ritual

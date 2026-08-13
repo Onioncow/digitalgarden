@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-player-characters/flike-fyppin/","tags":["PC"],"dg-note-properties":{"tags":["PC"],"Race":"[Tanuki]]","Gender":"Male","Age":"10 (as of 1491)","Class":"Warlock","Level":9,"Status":"Alive","Player":"Jake","Campaign":"[[01 Campaigns/Hidden Ritual/Hidden Ritual\|Hidden Ritual]]","AC":13,"PP":10,"SpecialFeatures":"[[Magic Wheel Spins]]","cssclasses":["wide-page"],"Pfp":"[[Pasted image 20250507192901.png](/img/user/02%20Lore/Bestiary/Tanuki.md)"}}
+{"dg-publish":true,"permalink":"/04-player-characters/flike-fyppin/","tags":["PC"],"dg-note-properties":{"tags":["PC"],"Race":"[[02 Lore/Bestiary/Tanuki]]","Gender":"Male","Age":"10 (as of 1491)","Class":"Warlock","Level":9,"Status":"Alive","Player":"Jake","Campaign":"[[01 Campaigns/Hidden Ritual/Hidden Ritual]]","AC":13,"PP":10,"SpecialFeatures":"[[z_DM Screen/References/Magic Wheel Spins]]","cssclasses":["wide-page"],"Pfp":"[[z_Assets/Pasted image 20250507192901.png]]"}}
 ---
 
 >[!blank|float-right-large]
@@ -25,7 +25,7 @@ A 7ft tall [[02 Lore/Bestiary/Tanuki\|Mapach]] with dark fur and a crippling gam
 
 
 ## History
-Born 17th Marpenoth 1481 (absolute) of the 2nd Era in his home town just east of [[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere\|Gefestmere]].
+Born 17th Yavie 1481 (absolute) of the 2nd Era in his home town just east of [[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere\|Gefestmere]].
 
 - From the forest near [[05 World/Material Plane/03 Cities/Gefestmere/Gefestmere\|Gefestmere]]. His people didn't agree with gambling so he left home at the age of 8
 - Once he left, he joined a church (cult) that worships [[02 Lore/Gods/Outer Gods/The Great Wheel\|The Great Wheel]] as a god of chance and gambling

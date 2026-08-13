@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-world/material-plane/03-cities/omllenor/omllenor/","tags":["#Settlement"],"dg-note-properties":{"cssclasses":["wide-page"],"Type":"City","Nation":"[[05 World/Material Plane/02 Nations/Sylvaranth\|Sylvaranth]]","tags":["#Settlement"]}}
+{"dg-publish":true,"permalink":"/05-world/material-plane/03-cities/omllenor/omllenor/","tags":["#Settlement"],"dg-note-properties":{"cssclasses":["wide-page"],"Type":"City","Nation":"[[05 World/Material Plane/02 Nations/Sylvaranth]]","tags":["#Settlement"]}}
 ---
 
 ![City of Omllenor.webp](/img/user/z_Assets/City%20of%20Omllenor.webp)
@@ -20,6 +20,7 @@
 >>[!note]+ Additional Notes
 >>- 
 
+All taverns and brothels in the city are places of worship and work for the followers of [[02 Lore/Gods/Planar Gods/Calistria\|Calistria]].
 
 >[!example]+ Guilds and Factions
 >- 

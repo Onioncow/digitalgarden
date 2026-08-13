@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-player-characters/gwer-ennuh/","tags":["PC"],"dg-note-properties":{"tags":["PC"],"Race":"[Centaur]]","Gender":"Male","Age":"38","Class":"Commander","Level":1,"Status":"Alive","Player":"Ilay","Campaign":"[[Monster Hunter]]","AC":16,"PP":17,"SpecialFeatures":"Warfare","cssclasses":["wide-page"],"Pfp":"[[Gwer.webp](/img/user/02%20Lore/Bestiary/Centaur.md)"}}
+{"dg-publish":true,"permalink":"/04-player-characters/gwer-ennuh/","tags":["PC"],"dg-note-properties":{"tags":["PC"],"Race":"[[02 Lore/Bestiary/Centaur]]","Gender":"Male","Age":"38","Class":"Commander","Level":2,"Status":"Alive","Player":"Ilay","Campaign":"[[01 Campaigns/Monster Hunter/Monster Hunter]]","AC":19,"PP":18,"SpecialFeatures":"Warfare","cssclasses":["wide-page"],"Pfp":"[[z_Assets/Gwer.webp]]","Titles":["The Dragon Slayer"]}}
 ---
 
 >[!blank|float-right-large]

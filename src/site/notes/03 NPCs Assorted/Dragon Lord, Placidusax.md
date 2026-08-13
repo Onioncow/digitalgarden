@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-np-cs-assorted/dragon-lord-placidusax/","tags":["npc"],"dg-note-properties":{"tags":["npc"],"Race":"[[Dragons]]","Gender":"Unkown","Titles":["Dragon Lord","King of the Dragons","Ymir's Chosen"],"Age":"Unknown","Status":"Alive","currentLocation":"[[The Floating Temple of Placidusax]]","cssclasses":["wide-page"]}}
+{"dg-publish":true,"permalink":"/03-np-cs-assorted/dragon-lord-placidusax/","tags":["npc"],"dg-note-properties":{"tags":["npc"],"Race":"[[02 Lore/Bestiary/Dragons]]","Gender":"Unkown","Titles":["Dragon Lord","King of the Dragons","Ymir's Chosen"],"Age":"Unknown","Status":"Alive","currentLocation":"[[05 World/Material Plane/07 Points of Interest/The Floating Temple of Placidusax]]","cssclasses":["wide-page"]}}
 ---
 
 
@@ -19,14 +19,6 @@
 ## Powers
 
 ## Possessions
-
-## Relationships
->[!multi-column]
->
->>[!check]+ Player Characters
->>
->
->>[!danger]+ Non Player Characters
 
 ## History
 ### Campaign 1

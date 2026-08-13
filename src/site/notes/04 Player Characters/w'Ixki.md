@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-player-characters/w-ixki/","tags":["PC"],"dg-note-properties":{"tags":["PC"],"Race":"[Tripkee]]","Gender":"Male","Age":"9 (as of 1491)","Class":"Ranger","Level":9,"Status":"Alive","Player":"Ilay","Campaign":"[[01 Campaigns/Hidden Ritual/Hidden Ritual\|Hidden Ritual]]","AC":16,"PP":17,"SpecialFeatures":"Poisonous Skin","cssclasses":["wide-page"],"Pfp":"[[Pasted image 20250426211814.png](/img/user/02%20Lore/Bestiary/Tripkee.md)"}}
+{"dg-publish":true,"permalink":"/04-player-characters/w-ixki/","tags":["PC"],"dg-note-properties":{"tags":["PC"],"Race":"[[02 Lore/Bestiary/Tripkee]]","Gender":"Male","Age":"9 (as of 1491)","Class":"Ranger","Level":9,"Status":"Alive","Player":"Ilay","Campaign":"[[01 Campaigns/Hidden Ritual/Hidden Ritual]]","AC":16,"PP":17,"SpecialFeatures":"Poisonous Skin","cssclasses":["wide-page"],"Pfp":"[[z_Assets/Pasted image 20250426211814.png]]"}}
 ---
 
 >[!blank|float-right-large]

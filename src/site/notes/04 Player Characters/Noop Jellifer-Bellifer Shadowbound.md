@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-player-characters/noop-jellifer-bellifer-shadowbound/","tags":["PC"],"dg-note-properties":{"tags":["PC"],"Race":"[Fetchling]]","Gender":"Male","Age":"68","Class":"Thaumaturge","Level":1,"Status":"Alive","Player":"Jake","Campaign":"[[Monster Hunter]]","AC":17,"PP":15,"SpecialFeatures":"Herbalism, Esoteric","cssclasses":["wide-page"],"Pfp":"[[Noop.webp](/img/user/02%20Lore/Bestiary/Fetchling.md)"}}
+{"dg-publish":true,"permalink":"/04-player-characters/noop-jellifer-bellifer-shadowbound/","tags":["PC"],"dg-note-properties":{"tags":["PC"],"Race":"[[02 Lore/Bestiary/Fetchling]]","Gender":"Male","Age":"68","Class":"Thaumaturge","Level":2,"Status":"Alive","Player":"Jake","Campaign":"[[01 Campaigns/Monster Hunter/Monster Hunter]]","AC":18,"PP":16,"SpecialFeatures":"Herbalism, Esoteric","cssclasses":["wide-page"],"Pfp":"[[z_Assets/Noop.webp]]","Titles":["The Master of the Unknown"]}}
 ---
 
 >[!blank|float-right-large]
